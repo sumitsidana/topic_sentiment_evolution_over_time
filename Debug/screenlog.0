@@ -1,0 +1,740 @@
+mishras@idtonne:~/local_data/tts/code/Debug$ ./tts -est config.txt 
+
+***** Welcome to TTS 1.0 ! *****
+
+Loading data...
+Read 100000 docs...
+Loading from vector...
+finished feature extraction
+finished handle time
+Setting id2word dictionary...
+Executing TTS...
+Begin learning..
+
+Init model parameters :
+  _gamma(-) fixed by user to 375.000
+  nbSentiLabs = 2
+  nbTopics = 24
+  maxIters = 100
+  updatParamStep = 1
+  handleSent = 1
+  handleTime = 1
+  sentLexFile = lexicon_EN.txt
+  datasetFile = ../../tts.dat
+  outputFolder = ../../output/
+  _alpha = 2.083
+  _beta = 0.042
+  _gamma(+) = 0.010
+  _gamma(-) = 375.000
+  _mu = 0.010
+
+  _gt = 0.500
+
+Sampling 100 iterations..
+1..  Terminated at iteration # 271
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 557259.10, #words (+) = 568487.10
+  estNegPortion = 0.50
+  diff = -11228.00, but should be = 0.00
+  newGamma [0] : 467.8333 , newGamma [1] : 0.0100
+2..  Terminated at iteration # 223
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562494.10, #words (+) = 563252.10
+  estNegPortion = 0.50
+  diff = -758.00, but should be = 0.00
+  newGamma [0] : 31.5833 , newGamma [1] : 0.0100
+3..  Terminated at iteration # 241
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 560812.10, #words (+) = 564934.10
+  estNegPortion = 0.50
+  diff = -4122.00, but should be = 0.00
+  newGamma [0] : 171.7500 , newGamma [1] : 0.0100
+4..  Terminated at iteration # 239
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562849.10, #words (+) = 562897.10
+  estNegPortion = 0.50
+  diff = -48.00, but should be = 0.00
+  newGamma [0] : 2.0000 , newGamma [1] : 0.0100
+5..  Terminated at iteration # 232
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561806.10, #words (+) = 563940.10
+  estNegPortion = 0.50
+  diff = -2134.00, but should be = 0.00
+  newGamma [0] : 88.9167 , newGamma [1] : 0.0100
+6..  Terminated at iteration # 225
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562571.10, #words (+) = 563175.10
+  estNegPortion = 0.50
+  diff = -604.00, but should be = 0.00
+  newGamma [0] : 25.1667 , newGamma [1] : 0.0100
+7..  Terminated at iteration # 214
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562275.10, #words (+) = 563471.10
+  estNegPortion = 0.50
+  diff = -1196.00, but should be = 0.00
+  newGamma [0] : 49.8333 , newGamma [1] : 0.0100
+8..  Terminated at iteration # 185
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562407.10, #words (+) = 563339.10
+  estNegPortion = 0.50
+  diff = -932.00, but should be = 0.00
+  newGamma [0] : 38.8333 , newGamma [1] : 0.0100
+9..  Terminated at iteration # 146
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 560751.10, #words (+) = 564995.10
+  estNegPortion = 0.50
+  diff = -4244.00, but should be = 0.00
+  newGamma [0] : 176.8333 , newGamma [1] : 0.0100
+10..  Terminated at iteration # 110
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562385.10, #words (+) = 563361.10
+  estNegPortion = 0.50
+  diff = -976.00, but should be = 0.00
+  newGamma [0] : 40.6667 , newGamma [1] : 0.0100
+11..  Terminated at iteration # 85
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 563950.10, #words (+) = 561796.10
+  estNegPortion = 0.50
+  diff = 2154.00, but should be = 0.00
+  newGamma [0] : 0.0100 , newGamma [1] : 89.7500
+12..  Terminated at iteration # 68
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 563306.10, #words (+) = 562440.10
+  estNegPortion = 0.50
+  diff = 866.00, but should be = 0.00
+  newGamma [0] : 0.0100 , newGamma [1] : 36.0833
+13..  Terminated at iteration # 58
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561849.10, #words (+) = 563897.10
+  estNegPortion = 0.50
+  diff = -2048.00, but should be = 0.00
+  newGamma [0] : 85.3333 , newGamma [1] : 0.0100
+14..  Terminated at iteration # 50
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561737.10, #words (+) = 564009.10
+  estNegPortion = 0.50
+  diff = -2272.00, but should be = 0.00
+  newGamma [0] : 94.6667 , newGamma [1] : 0.0100
+15..  Terminated at iteration # 45
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561788.10, #words (+) = 563958.10
+  estNegPortion = 0.50
+  diff = -2170.00, but should be = 0.00
+  newGamma [0] : 90.4167 , newGamma [1] : 0.0100
+16..  Terminated at iteration # 40
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 563202.10, #words (+) = 562544.10
+  estNegPortion = 0.50
+  diff = 658.00, but should be = 0.00
+  newGamma [0] : 0.0100 , newGamma [1] : 27.4167
+17..  Terminated at iteration # 37
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 564407.10, #words (+) = 561339.10
+  estNegPortion = 0.50
+  diff = 3068.00, but should be = 0.00
+  newGamma [0] : 0.0100 , newGamma [1] : 127.8333
+18..  Terminated at iteration # 35
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 563230.10, #words (+) = 562516.10
+  estNegPortion = 0.50
+  diff = 714.00, but should be = 0.00
+  newGamma [0] : 0.0100 , newGamma [1] : 29.7500
+19..  Terminated at iteration # 33
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 563431.10, #words (+) = 562315.10
+  estNegPortion = 0.50
+  diff = 1116.00, but should be = 0.00
+  newGamma [0] : 0.0100 , newGamma [1] : 46.5000
+20..  Terminated at iteration # 32
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562213.10, #words (+) = 563533.10
+  estNegPortion = 0.50
+  diff = -1320.00, but should be = 0.00
+  newGamma [0] : 55.0000 , newGamma [1] : 0.0100
+21..  Terminated at iteration # 30
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562411.10, #words (+) = 563335.10
+  estNegPortion = 0.50
+  diff = -924.00, but should be = 0.00
+  newGamma [0] : 38.5000 , newGamma [1] : 0.0100
+22..  Terminated at iteration # 29
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562002.10, #words (+) = 563744.10
+  estNegPortion = 0.50
+  diff = -1742.00, but should be = 0.00
+  newGamma [0] : 72.5833 , newGamma [1] : 0.0100
+23..  Terminated at iteration # 28
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561507.10, #words (+) = 564239.10
+  estNegPortion = 0.50
+  diff = -2732.00, but should be = 0.00
+  newGamma [0] : 113.8333 , newGamma [1] : 0.0100
+24..  Terminated at iteration # 28
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561829.10, #words (+) = 563917.10
+  estNegPortion = 0.50
+  diff = -2088.00, but should be = 0.00
+  newGamma [0] : 87.0000 , newGamma [1] : 0.0100
+25..  Terminated at iteration # 27
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 560515.10, #words (+) = 565231.10
+  estNegPortion = 0.50
+  diff = -4716.00, but should be = 0.00
+  newGamma [0] : 196.5000 , newGamma [1] : 0.0100
+26..  Terminated at iteration # 26
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561478.10, #words (+) = 564268.10
+  estNegPortion = 0.50
+  diff = -2790.00, but should be = 0.00
+  newGamma [0] : 116.2500 , newGamma [1] : 0.0100
+27..  Terminated at iteration # 26
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 560309.10, #words (+) = 565437.10
+  estNegPortion = 0.50
+  diff = -5128.00, but should be = 0.00
+  newGamma [0] : 213.6667 , newGamma [1] : 0.0100
+28..  Terminated at iteration # 25
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 560236.10, #words (+) = 565510.10
+  estNegPortion = 0.50
+  diff = -5274.00, but should be = 0.00
+  newGamma [0] : 219.7500 , newGamma [1] : 0.0100
+29..  Terminated at iteration # 25
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 559999.10, #words (+) = 565747.10
+  estNegPortion = 0.50
+  diff = -5748.00, but should be = 0.00
+  newGamma [0] : 239.5000 , newGamma [1] : 0.0100
+30..  Terminated at iteration # 24
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558562.10, #words (+) = 567184.10
+  estNegPortion = 0.50
+  diff = -8622.00, but should be = 0.00
+  newGamma [0] : 359.2500 , newGamma [1] : 0.0100
+31..  Terminated at iteration # 24
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558658.10, #words (+) = 567088.10
+  estNegPortion = 0.50
+  diff = -8430.00, but should be = 0.00
+  newGamma [0] : 351.2500 , newGamma [1] : 0.0100
+32..  Terminated at iteration # 24
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 557500.10, #words (+) = 568246.10
+  estNegPortion = 0.50
+  diff = -10746.00, but should be = 0.00
+  newGamma [0] : 447.7500 , newGamma [1] : 0.0100
+33..  Terminated at iteration # 23
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558107.10, #words (+) = 567639.10
+  estNegPortion = 0.50
+  diff = -9532.00, but should be = 0.00
+  newGamma [0] : 397.1667 , newGamma [1] : 0.0100
+34..  Terminated at iteration # 23
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558201.10, #words (+) = 567545.10
+  estNegPortion = 0.50
+  diff = -9344.00, but should be = 0.00
+  newGamma [0] : 389.3333 , newGamma [1] : 0.0100
+35..  Terminated at iteration # 22
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 556293.10, #words (+) = 569453.10
+  estNegPortion = 0.49
+  diff = -13160.00, but should be = 0.00
+  newGamma [0] : 548.3333 , newGamma [1] : 0.0100
+36..  Terminated at iteration # 23
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 556156.10, #words (+) = 569590.10
+  estNegPortion = 0.49
+  diff = -13434.00, but should be = 0.00
+  newGamma [0] : 559.7500 , newGamma [1] : 0.0100
+37..  Terminated at iteration # 22
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 554916.10, #words (+) = 570830.10
+  estNegPortion = 0.49
+  diff = -15914.00, but should be = 0.00
+  newGamma [0] : 663.0833 , newGamma [1] : 0.0100
+38..  Terminated at iteration # 22
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 555891.10, #words (+) = 569855.10
+  estNegPortion = 0.49
+  diff = -13964.00, but should be = 0.00
+  newGamma [0] : 581.8333 , newGamma [1] : 0.0100
+39..  Terminated at iteration # 22
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 554768.10, #words (+) = 570978.10
+  estNegPortion = 0.49
+  diff = -16210.00, but should be = 0.00
+  newGamma [0] : 675.4167 , newGamma [1] : 0.0100
+40..  Terminated at iteration # 22
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 554645.10, #words (+) = 571101.10
+  estNegPortion = 0.49
+  diff = -16456.00, but should be = 0.00
+  newGamma [0] : 685.6667 , newGamma [1] : 0.0100
+41..  Terminated at iteration # 21
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 554177.10, #words (+) = 571569.10
+  estNegPortion = 0.49
+  diff = -17392.00, but should be = 0.00
+  newGamma [0] : 724.6667 , newGamma [1] : 0.0100
+42..  Terminated at iteration # 22
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553924.10, #words (+) = 571822.10
+  estNegPortion = 0.49
+  diff = -17898.00, but should be = 0.00
+  newGamma [0] : 745.7500 , newGamma [1] : 0.0100
+43..  Terminated at iteration # 21
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 552918.10, #words (+) = 572828.10
+  estNegPortion = 0.49
+  diff = -19910.00, but should be = 0.00
+  newGamma [0] : 829.5833 , newGamma [1] : 0.0100
+44..  Terminated at iteration # 21
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553161.10, #words (+) = 572585.10
+  estNegPortion = 0.49
+  diff = -19424.00, but should be = 0.00
+  newGamma [0] : 809.3333 , newGamma [1] : 0.0100
+45..  Terminated at iteration # 21
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553248.10, #words (+) = 572498.10
+  estNegPortion = 0.49
+  diff = -19250.00, but should be = 0.00
+  newGamma [0] : 802.0833 , newGamma [1] : 0.0100
+46..  Terminated at iteration # 21
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 551894.10, #words (+) = 573852.10
+  estNegPortion = 0.49
+  diff = -21958.00, but should be = 0.00
+  newGamma [0] : 914.9167 , newGamma [1] : 0.0100
+47..  Terminated at iteration # 22
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 552609.10, #words (+) = 573137.10
+  estNegPortion = 0.49
+  diff = -20528.00, but should be = 0.00
+  newGamma [0] : 855.3333 , newGamma [1] : 0.0100
+48..  Terminated at iteration # 19
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 552158.10, #words (+) = 573588.10
+  estNegPortion = 0.49
+  diff = -21430.00, but should be = 0.00
+  newGamma [0] : 892.9167 , newGamma [1] : 0.0100
+49..  Terminated at iteration # 20
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 552025.10, #words (+) = 573721.10
+  estNegPortion = 0.49
+  diff = -21696.00, but should be = 0.00
+  newGamma [0] : 904.0000 , newGamma [1] : 0.0100
+50..  Terminated at iteration # 20
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 551840.10, #words (+) = 573906.10
+  estNegPortion = 0.49
+  diff = -22066.00, but should be = 0.00
+  newGamma [0] : 919.4167 , newGamma [1] : 0.0100
+51..  Terminated at iteration # 20
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 552169.10, #words (+) = 573577.10
+  estNegPortion = 0.49
+  diff = -21408.00, but should be = 0.00
+  newGamma [0] : 892.0000 , newGamma [1] : 0.0100
+52..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 551435.10, #words (+) = 574311.10
+  estNegPortion = 0.49
+  diff = -22876.00, but should be = 0.00
+  newGamma [0] : 953.1667 , newGamma [1] : 0.0100
+53..  Terminated at iteration # 19
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 551993.10, #words (+) = 573753.10
+  estNegPortion = 0.49
+  diff = -21760.00, but should be = 0.00
+  newGamma [0] : 906.6667 , newGamma [1] : 0.0100
+54..  Terminated at iteration # 21
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 551838.10, #words (+) = 573908.10
+  estNegPortion = 0.49
+  diff = -22070.00, but should be = 0.00
+  newGamma [0] : 919.5833 , newGamma [1] : 0.0100
+55..  Terminated at iteration # 19
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 551389.10, #words (+) = 574357.10
+  estNegPortion = 0.49
+  diff = -22968.00, but should be = 0.00
+  newGamma [0] : 957.0000 , newGamma [1] : 0.0100
+56..  Terminated at iteration # 19
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 552543.10, #words (+) = 573203.10
+  estNegPortion = 0.49
+  diff = -20660.00, but should be = 0.00
+  newGamma [0] : 860.8333 , newGamma [1] : 0.0100
+57..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553357.10, #words (+) = 572389.10
+  estNegPortion = 0.49
+  diff = -19032.00, but should be = 0.00
+  newGamma [0] : 793.0000 , newGamma [1] : 0.0100
+58..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 552158.10, #words (+) = 573588.10
+  estNegPortion = 0.49
+  diff = -21430.00, but should be = 0.00
+  newGamma [0] : 892.9167 , newGamma [1] : 0.0100
+59..  Terminated at iteration # 17
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 552980.10, #words (+) = 572766.10
+  estNegPortion = 0.49
+  diff = -19786.00, but should be = 0.00
+  newGamma [0] : 824.4167 , newGamma [1] : 0.0100
+60..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553188.10, #words (+) = 572558.10
+  estNegPortion = 0.49
+  diff = -19370.00, but should be = 0.00
+  newGamma [0] : 807.0833 , newGamma [1] : 0.0100
+61..  Terminated at iteration # 20
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553534.10, #words (+) = 572212.10
+  estNegPortion = 0.49
+  diff = -18678.00, but should be = 0.00
+  newGamma [0] : 778.2500 , newGamma [1] : 0.0100
+62..  Terminated at iteration # 20
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553237.10, #words (+) = 572509.10
+  estNegPortion = 0.49
+  diff = -19272.00, but should be = 0.00
+  newGamma [0] : 803.0000 , newGamma [1] : 0.0100
+63..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 552419.10, #words (+) = 573327.10
+  estNegPortion = 0.49
+  diff = -20908.00, but should be = 0.00
+  newGamma [0] : 871.1667 , newGamma [1] : 0.0100
+64..  Terminated at iteration # 14
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553101.10, #words (+) = 572645.10
+  estNegPortion = 0.49
+  diff = -19544.00, but should be = 0.00
+  newGamma [0] : 814.3333 , newGamma [1] : 0.0100
+65..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553943.10, #words (+) = 571803.10
+  estNegPortion = 0.49
+  diff = -17860.00, but should be = 0.00
+  newGamma [0] : 744.1667 , newGamma [1] : 0.0100
+66..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553594.10, #words (+) = 572152.10
+  estNegPortion = 0.49
+  diff = -18558.00, but should be = 0.00
+  newGamma [0] : 773.2500 , newGamma [1] : 0.0100
+67..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 553601.10, #words (+) = 572145.10
+  estNegPortion = 0.49
+  diff = -18544.00, but should be = 0.00
+  newGamma [0] : 772.6667 , newGamma [1] : 0.0100
+68..  Terminated at iteration # 20
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 554042.10, #words (+) = 571704.10
+  estNegPortion = 0.49
+  diff = -17662.00, but should be = 0.00
+  newGamma [0] : 735.9167 , newGamma [1] : 0.0100
+69..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 554240.10, #words (+) = 571506.10
+  estNegPortion = 0.49
+  diff = -17266.00, but should be = 0.00
+  newGamma [0] : 719.4167 , newGamma [1] : 0.0100
+70..  Terminated at iteration # 19
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 555837.10, #words (+) = 569909.10
+  estNegPortion = 0.49
+  diff = -14072.00, but should be = 0.00
+  newGamma [0] : 586.3333 , newGamma [1] : 0.0100
+71..  Terminated at iteration # 17
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 554673.10, #words (+) = 571073.10
+  estNegPortion = 0.49
+  diff = -16400.00, but should be = 0.00
+  newGamma [0] : 683.3333 , newGamma [1] : 0.0100
+72..  Terminated at iteration # 19
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 555517.10, #words (+) = 570229.10
+  estNegPortion = 0.49
+  diff = -14712.00, but should be = 0.00
+  newGamma [0] : 613.0000 , newGamma [1] : 0.0100
+73..  Terminated at iteration # 16
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 555289.10, #words (+) = 570457.10
+  estNegPortion = 0.49
+  diff = -15168.00, but should be = 0.00
+  newGamma [0] : 632.0000 , newGamma [1] : 0.0100
+74..  Terminated at iteration # 15
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 556741.10, #words (+) = 569005.10
+  estNegPortion = 0.49
+  diff = -12264.00, but should be = 0.00
+  newGamma [0] : 511.0000 , newGamma [1] : 0.0100
+75..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 556859.10, #words (+) = 568887.10
+  estNegPortion = 0.49
+  diff = -12028.00, but should be = 0.00
+  newGamma [0] : 501.1667 , newGamma [1] : 0.0100
+76..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 557740.10, #words (+) = 568006.10
+  estNegPortion = 0.50
+  diff = -10266.00, but should be = 0.00
+  newGamma [0] : 427.7500 , newGamma [1] : 0.0100
+77..  Terminated at iteration # 18
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558206.10, #words (+) = 567540.10
+  estNegPortion = 0.50
+  diff = -9334.00, but should be = 0.00
+  newGamma [0] : 388.9167 , newGamma [1] : 0.0100
+78..  Terminated at iteration # 17
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 557717.10, #words (+) = 568029.10
+  estNegPortion = 0.50
+  diff = -10312.00, but should be = 0.00
+  newGamma [0] : 429.6667 , newGamma [1] : 0.0100
+79..  Terminated at iteration # 17
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558079.10, #words (+) = 567667.10
+  estNegPortion = 0.50
+  diff = -9588.00, but should be = 0.00
+  newGamma [0] : 399.5000 , newGamma [1] : 0.0100
+80..  Terminated at iteration # 15
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 557518.10, #words (+) = 568228.10
+  estNegPortion = 0.50
+  diff = -10710.00, but should be = 0.00
+  newGamma [0] : 446.2500 , newGamma [1] : 0.0100
+81..  Terminated at iteration # 17
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 557135.10, #words (+) = 568611.10
+  estNegPortion = 0.49
+  diff = -11476.00, but should be = 0.00
+  newGamma [0] : 478.1667 , newGamma [1] : 0.0100
+82..  Terminated at iteration # 15
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 557444.10, #words (+) = 568302.10
+  estNegPortion = 0.50
+  diff = -10858.00, but should be = 0.00
+  newGamma [0] : 452.4167 , newGamma [1] : 0.0100
+83..  Terminated at iteration # 10
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558013.10, #words (+) = 567733.10
+  estNegPortion = 0.50
+  diff = -9720.00, but should be = 0.00
+  newGamma [0] : 405.0000 , newGamma [1] : 0.0100
+84..  Terminated at iteration # 16
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558541.10, #words (+) = 567205.10
+  estNegPortion = 0.50
+  diff = -8664.00, but should be = 0.00
+  newGamma [0] : 361.0000 , newGamma [1] : 0.0100
+85..  Terminated at iteration # 13
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 557831.10, #words (+) = 567915.10
+  estNegPortion = 0.50
+  diff = -10084.00, but should be = 0.00
+  newGamma [0] : 420.1667 , newGamma [1] : 0.0100
+86..  Terminated at iteration # 16
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558115.10, #words (+) = 567631.10
+  estNegPortion = 0.50
+  diff = -9516.00, but should be = 0.00
+  newGamma [0] : 396.5000 , newGamma [1] : 0.0100
+87..  Terminated at iteration # 14
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 557900.10, #words (+) = 567846.10
+  estNegPortion = 0.50
+  diff = -9946.00, but should be = 0.00
+  newGamma [0] : 414.4167 , newGamma [1] : 0.0100
+88..  Terminated at iteration # 16
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 558368.10, #words (+) = 567378.10
+  estNegPortion = 0.50
+  diff = -9010.00, but should be = 0.00
+  newGamma [0] : 375.4167 , newGamma [1] : 0.0100
+89..  Terminated at iteration # 15
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 559385.10, #words (+) = 566361.10
+  estNegPortion = 0.50
+  diff = -6976.00, but should be = 0.00
+  newGamma [0] : 290.6667 , newGamma [1] : 0.0100
+90..  Terminated at iteration # 15
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 559954.10, #words (+) = 565792.10
+  estNegPortion = 0.50
+  diff = -5838.00, but should be = 0.00
+  newGamma [0] : 243.2500 , newGamma [1] : 0.0100
+91..  Terminated at iteration # 14
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 560224.10, #words (+) = 565522.10
+  estNegPortion = 0.50
+  diff = -5298.00, but should be = 0.00
+  newGamma [0] : 220.7500 , newGamma [1] : 0.0100
+92..  Terminated at iteration # 14
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561686.10, #words (+) = 564060.10
+  estNegPortion = 0.50
+  diff = -2374.00, but should be = 0.00
+  newGamma [0] : 98.9167 , newGamma [1] : 0.0100
+93..  Terminated at iteration # 15
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 560363.10, #words (+) = 565383.10
+  estNegPortion = 0.50
+  diff = -5020.00, but should be = 0.00
+  newGamma [0] : 209.1667 , newGamma [1] : 0.0100
+94..  Terminated at iteration # 11
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 562121.10, #words (+) = 563625.10
+  estNegPortion = 0.50
+  diff = -1504.00, but should be = 0.00
+  newGamma [0] : 62.6667 , newGamma [1] : 0.0100
+95..  Terminated at iteration # 17
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561599.10, #words (+) = 564147.10
+  estNegPortion = 0.50
+  diff = -2548.00, but should be = 0.00
+  newGamma [0] : 106.1667 , newGamma [1] : 0.0100
+96..  Terminated at iteration # 14
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561020.10, #words (+) = 564726.10
+  estNegPortion = 0.50
+  diff = -3706.00, but should be = 0.00
+  newGamma [0] : 154.4167 , newGamma [1] : 0.0100
+97..  Terminated at iteration # 11
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561515.10, #words (+) = 564231.10
+  estNegPortion = 0.50
+  diff = -2716.00, but should be = 0.00
+  newGamma [0] : 113.1667 , newGamma [1] : 0.0100
+98..  Terminated at iteration # 11
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561161.10, #words (+) = 564585.10
+  estNegPortion = 0.50
+  diff = -3424.00, but should be = 0.00
+  newGamma [0] : 142.6667 , newGamma [1] : 0.0100
+99..  Terminated at iteration # 16
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 561252.10, #words (+) = 564494.10
+  estNegPortion = 0.50
+  diff = -3242.00, but should be = 0.00
+  newGamma [0] : 135.0833 , newGamma [1] : 0.0100
+100..  Terminated at iteration # 14
+
+  Optimising parameter "gamma" using GT..
+  #words (-) = 560606.10, #words (+) = 565140.10
+  estNegPortion = 0.50
+  diff = -4534.00, but should be = 0.00
+  newGamma [0] : 188.9167 , newGamma [1] : 0.0100
+
+
+Saving the final model to '../../output/polmds'
+Gibbs sampling completed!
+Success !
+mishras@idtonne:~/local_data/tts/code/Debug$ head[K[K[K[Kwc -l [K[K[K[K[K[Kc[Kexit
+exit

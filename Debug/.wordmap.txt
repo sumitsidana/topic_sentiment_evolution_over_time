@@ -1,0 +1,7 @@
+6
+bad 0
+coco 1
+dodo 2
+fofo 3
+good 4
+momo 5

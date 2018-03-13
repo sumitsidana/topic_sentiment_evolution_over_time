@@ -1,0 +1,17 @@
+modelName = amazon_fr_pol
+nbSentLabs = 2
+nbTopics = 35
+maxIters = 200
+updatParamStep = 1
+updatGamma = 1
+nbTopWords = 30
+handleSent = 1
+handleTime = 1
+sentLexFile = lexicon_FR_stem.txt
+datasetFile = /home/mde/Lab/Cifre-2012/Corpus/learning/amazon_fr_pol/_all_stemmed.txt
+outputFolder = /home/mde/Lab/Cifre-2012/Corpus/learning/amazon_fr_pol/res/tts/
+_alpha = 1.43
+_beta = 0.029
+_gammaPos = 0.01
+_gammaNeg = 0.0
+_mu = 0.01

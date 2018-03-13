@@ -1,0 +1,3113 @@
+0	1	2
+accessibl	0	0	1
+accessibil	0	0	1
+accommod	0	0	1
+accompl	0	0	1
+prec	0	0	1
+exact	0	0	1
+exactitud	0	0	1
+realis	0	0	1
+realist	0	0	1
+adapt	0	0	1
+adequat	0	0	1
+reglabl	0	0	1
+regret pas	0	0	1
+admir	0	0	1
+ador	0	0	1
+adroit	0	0	1
+adul	0	0	1
+avanc	0	0	1
+avantag	0	0	1
+aventur	0	0	1
+defenseur	0	0	1
+affabl	0	0	1
+affect	0	0	1
+affectu	0	0	1
+affin	0	0	1
+abord	0	0	1
+afford	0	0	1
+agil	0	0	1
+agreabl	0	0	1
+amabl	0	0	1
+seduis	0	0	1
+altruist	0	0	1
+ambiti	0	0	1
+aimabl	0	0	1
+amiabl	0	0	1
+amiti	0	0	1
+amplement	0	0	1
+amus	0	0	1
+ange	0	0	1
+angel	0	0	1
+applaud	0	0	1
+appreci	0	0	1
+reconnaiss	0	0	1
+appropri	0	0	1
+approb	0	0	1
+approuv	0	0	1
+ardent	0	0	1
+ardemment	0	0	1
+ardeur	0	0	1
+assur	0	0	1
+astuci	0	0	1
+attent	1	0	0
+attract	0	0	1
+jol	0	0	1
+audibl	0	0	1
+augur	0	0	1
+authent	0	0	1
+autor	0	0	1
+autonom	0	0	1
+disponibl	0	0	1
+prix	0	0	1
+impression	0	0	1
+genial	0	0	1
+emerveil	0	0	1
+equilibr	0	0	1
+aubain	0	0	1
+bel	0	0	1
+magnif	0	0	1
+beaut	0	0	1
+credibl	0	0	1
+bien aim	0	0	1
+bienfaiteur	0	0	1
+bienfais	0	0	1
+benef	0	0	1
+verit	0	0	1
+beneficiair	0	0	1
+benefici	0	0	1
+bienveil	0	0	1
+meilleur	0	0	1
+mieux	0	0	1
+pas mieux	1	0	0
+pas pir	0	0	1
+plus perform	0	0	1
+best sel	0	0	1
+mieux que prevu	0	0	1
+superb	0	0	1
+irreproch	0	0	1
+ben	0	0	1
+benedict	0	0	1
+joyeux	0	0	1
+fleur	0	0	1
+renforc	0	0	1
+essor	0	0	1
+plein essor	0	0	1
+gener	0	0	1
+neuf	0	0	1
+bravo	0	0	1
+essouffl	0	0	1
+coup le souffl	0	0	1
+pas de souc	0	0	1
+aucun souc	0	0	1
+pas de problem	0	0	1
+aucun problem	0	0	1
+lumin	0	0	1
+brill	0	0	1
+eclat	0	0	1
+soutenu	0	0	1
+fraternel	0	0	1
+calm	0	0	1
+capac	0	0	1
+capabl	0	0	1
+habil	0	0	1
+captiv	0	0	1
+insouci	1	0	0
+accrocheur	0	0	1
+celebr	0	0	1
+champion	0	0	1
+charm	0	0	1
+moins cher	0	0	1
+encourag	0	0	1
+gai	0	0	1
+cher	1	0	0
+cherubin	0	0	1
+chic	0	0	1
+chevaleresqu	0	0	1
+chevaler	0	0	1
+civil	0	0	1
+civilis	0	0	1
+clart	0	0	1
+class	0	0	1
+pas class	1	0	0
+nettoi	0	0	1
+propr	0	0	1
+propret	0	0	1
+clair	0	0	1
+coherent	0	0	1
+cohes	0	0	1
+color	0	0	1
+confort	0	0	1
+reconfort	0	0	1
+felicit	0	0	1
+louabl	0	0	1
+commod	0	0	1
+compact	0	0	1
+compass	0	0	1
+compatibl	0	0	1
+compl	0	0	1
+gratuit	0	0	1
+concili	0	0	1
+conc	0	0	1
+confianc	0	0	1
+confi	0	0	1
+sympath	0	0	1
+conscienci	0	0	1
+conform	0	0	1
+construct	0	0	1
+content	0	0	1
+convient	0	0	1
+convaincr	0	0	1
+convainc	0	0	1
+cool	0	0	1
+pas cool	1	0	0
+cooper	0	0	1
+correct	0	0	1
+rentabl	0	0	1
+courag	0	0	1
+courtois	0	0	1
+allianc	0	0	1
+createur	0	0	1
+innov	0	0	1
+creatric	0	0	1
+credibil	0	0	1
+croustill	0	0	1
+best	0	0	1
+lov	0	0	1
+rock	0	0	1
+mignon	0	0	1
+gentilless	0	0	1
+audaci	1	0	0
+intrepid	0	0	1
+aub	0	0	1
+eblou	0	0	1
+pas cher	0	0	1
+decenc	0	0	1
+decent	0	0	1
+deferent	0	0	1
+delect	0	0	1
+delicatess	0	0	1
+delicat	1	0	0
+delici	0	0	1
+delic	0	0	1
+rav	0	0	1
+envout	0	0	1
+fiabl	0	0	1
+merit	0	0	1
+souhait	0	0	1
+desir	0	0	1
+dexter	0	0	1
+dign	0	0	1
+dignit	0	0	1
+diplomat	0	0	1
+diversifi	0	0	1
+divin	0	0	1
+dot	0	0	1
+dreamland	0	0	1
+merveil	0	0	1
+durabl	0	0	1
+dynam	0	0	1
+avec impatient	0	0	1
+sincer	0	0	1
+serieux	0	0	1
+pas serieux	1	0	0
+facilit	0	0	1
+assoupl	0	0	1
+plus facil	0	0	1
+facil	0	0	1
+facil a utilis	0	0	1
+exuber	0	0	1
+econom	0	0	1
+extas	0	0	1
+extat	0	0	1
+eduqu	0	0	1
+efficac	0	0	1
+exalt	0	0	1
+eleg	0	0	1
+bien elev	0	0	1
+mal elev	1	0	0
+elit	0	0	1
+eloquent	0	0	1
+eminent	0	0	1
+empath	0	0	1
+enchant	0	0	1
+enchanteur	0	0	1
+aim	0	0	1
+attach	0	0	1
+endoss	0	0	1
+energ	0	0	1
+dynamis	0	0	1
+econom d'energ	0	0	1
+engag	0	0	1
+amelior	0	0	1
+jouiss	0	0	1
+jou	0	0	1
+benefic	0	0	1
+eclair	0	0	1
+illumin	0	0	1
+suffis	0	0	1
+enrich	0	0	1
+rich	0	0	1
+divert	0	0	1
+passion	0	0	1
+enthousiasm	0	0	1
+enthousiast	0	0	1
+attir	0	0	1
+enviabl	0	0	1
+envi	0	0	1
+equit	0	0	1
+ergonom	0	0	1
+ethiqu	0	0	1
+elog	0	0	1
+euphor	0	0	1
+mouvement	0	0	1
+exemplair	0	0	1
+excellent	0	0	1
+superieur	0	0	1
+excel	0	0	1
+exceptionnel	0	0	1
+excit	0	0	1
+emoustill	0	0	1
+gris	0	0	1
+rapid	0	0	1
+expert	0	0	1
+exquis	0	0	1
+extraordinair	0	0	1
+triomphal	0	0	1
+fabul	0	0	1
+just	0	0	1
+assez	0	0	1
+foi	0	0	1
+fidel	0	0	1
+renomm	0	0	1
+amateur	1	0	0
+fantast	0	0	1
+fascin	0	0	1
+plus rapid	0	0	1
+sans faill	0	0	1
+faveur	0	0	1
+favor	0	0	1
+favoris	0	0	1
+faisabl	0	0	1
+exploit	1	0	0
+rich en fonctionnal	0	0	1
+fougueux	0	0	1
+heureux	0	0	1
+fertil	0	0	1
+fervent	0	0	1
+avec ferveur	0	0	1
+ferveur	0	0	1
+festif	0	0	1
+festiv	0	0	1
+fin	0	0	1
+premi class	0	0	1
+entre de gamm	1	0	0
+haut gamm	0	0	1
+flatt	1	0	0
+flatteur	1	0	0
+flatteux	0	0	1
+impecc	0	0	1
+parfait	0	0	1
+soupless	0	0	1
+soupl	0	0	1
+epanou	0	0	1
+flor	0	0	1
+pench	0	0	1
+infaillibl	0	0	1
+prevoi	0	0	1
+formid	0	0	1
+forc	1	0	0
+chanc	0	0	1
+fortun	0	0	1
+parfum	0	0	1
+liber	0	0	1
+libert	0	0	1
+fraicheur	0	0	1
+convivial	0	0	1
+amical	0	0	1
+fructueux	0	0	1
+ftw	0	0	1
+gaiet	0	0	1
+gagn	0	0	1
+remuner	0	0	1
+gain	0	0	1
+gal	0	0	1
+geek	0	0	1
+bijou	0	0	1
+gemm	0	0	1
+perl	0	0	1
+perl rar	0	0	1
+generos	0	0	1
+gen	1	0	0
+douc	0	0	1
+doux	0	0	1
+dou	0	0	1
+rejou	0	0	1
+allegress	0	0	1
+glamour	0	0	1
+allegr	0	0	1
+lueur	0	0	1
+scintill	0	0	1
+luis	0	0	1
+paillet	0	0	1
+glorifi	0	0	1
+glorieux	0	0	1
+gloir	0	0	1
+rougeoi	0	0	1
+bon	0	0	1
+beau	0	0	1
+bont	0	0	1
+grac	0	0	1
+gracieux	0	0	1
+grand	0	0	1
+grandeur	0	0	1
+gratitud	0	0	1
+gratif	0	0	1
+satisf	0	0	1
+gratifi	0	0	1
+satisfair	0	0	1
+grin	0	0	1
+garant	0	0	1
+innocent	0	0	1
+sanctifi	0	0	1
+maniabl	0	0	1
+grass	0	0	1
+pratiqu	0	0	1
+bonheur	0	0	1
+plus resist	0	0	1
+resist	0	0	1
+harmoni	0	0	1
+harmonis	0	0	1
+harmon	0	0	1
+progress	0	0	1
+sain	0	0	1
+sant	0	0	1
+don du courag	0	0	1
+don le courag	0	0	1
+chaleur	0	0	1
+ciel	0	0	1
+celest	0	0	1
+util	0	0	1
+aid	0	0	1
+heros	0	0	1
+heroiqu	0	0	1
+heroin	0	0	1
+herois	0	0	1
+bon qualit	0	0	1
+mauvais qualit	1	0	0
+qualit moyen	1	0	0
+hilar	0	0	1
+hommag	0	0	1
+honnet	0	0	1
+honnetet	0	0	1
+honor	0	0	1
+esper	0	0	1
+accueil	0	0	1
+etreindr	0	0	1
+inhumain	1	0	0
+humbl	1	0	0
+humour	0	0	1
+humorist	0	0	1
+ideal	0	0	1
+idealis	0	0	1
+idol	0	0	1
+illustr	0	0	1
+immacul	0	0	1
+immens	0	0	1
+impartial	0	0	1
+incroi	0	0	1
+indulgent	0	0	1
+peu couteux	0	0	1
+tres couteux	1	0	0
+infaillibil	0	0	1
+influent	0	0	1
+ingeni	0	0	1
+ingenios	0	0	1
+ingenu	1	0	0
+naif	1	0	0
+naivet	1	0	0
+perspicac	0	0	1
+inspir	0	0	1
+instruct	0	0	1
+intelligent	0	0	1
+intelligibl	0	0	1
+interess	1	0	0
+interet	0	0	1
+intim	0	0	1
+intrigu	1	0	0
+intrig	1	0	0
+curieux	0	0	1
+intuit	0	0	1
+invincibl	0	0	1
+inviol	0	0	1
+invulner	0	0	1
+irresistibl	0	0	1
+joi	0	0	1
+jubilatoir	0	0	1
+jubil	0	0	1
+jubili	0	0	1
+judici	0	0	1
+viv	0	0	1
+connaisseur	0	0	1
+grand capac	0	0	1
+somptueux	0	0	1
+respect la loi	0	0	1
+legal	0	0	1
+illegal	1	0	0
+legeret	0	0	1
+liberat	0	0	1
+sauveteur	0	0	1
+sauv	0	0	1
+anim	0	0	1
+faibl cout	0	0	1
+bas prix	0	0	1
+bon prix	0	0	1
+faibl risqu	0	0	1
+loyaut	0	0	1
+lucid	0	0	1
+plus de chanc	0	0	1
+chanceux	0	0	1
+luxuri	0	0	1
+lustr	0	0	1
+luxueux	0	0	1
+lyriqu	0	0	1
+magiqu	0	0	1
+mag	0	0	1
+magnificent	0	0	1
+majestu	0	0	1
+majest	0	0	1
+gerabl	0	0	1
+maitr	0	0	1
+chef d'oeuvr	0	0	1
+chef d'Suvr	0	0	1
+maitris	0	0	1
+inegal	1	0	0
+mur	0	0	1
+matur	0	0	1
+signif	0	0	1
+memor	0	0	1
+misericordi	0	0	1
+merc	0	0	1
+meritoir	0	0	1
+meticul	0	0	1
+puissanc	0	0	1
+puiss	0	0	1
+hallucin	0	0	1
+miracl	0	0	1
+miracul	0	0	1
+modern	0	0	1
+modest	0	0	1
+monumental	0	0	1
+motiv	0	0	1
+polyvalent	0	0	1
+navig	0	0	1
+bien	0	0	1
+nobl	0	0	1
+nouveaut	0	0	1
+oasis	0	0	1
+ouvert	0	0	1
+ouvertur d'esprit	0	0	1
+optimal	0	0	1
+optim	0	0	1
+original	0	0	1
+bien organis	0	0	1
+mal organis	1	0	0
+surperform	0	0	1
+surp	0	0	1
+perform	0	0	1
+sans douleur	0	0	1
+indolor	0	0	1
+panoram	0	0	1
+parad	0	0	1
+patienc	0	0	1
+patient	0	0	1
+patriot	0	0	1
+paix	0	0	1
+pacif	0	0	1
+parf	0	0	1
+perfect	0	0	1
+admissibl	0	0	1
+inadmissibl	1	0	0
+persever	0	0	1
+personnag	0	0	1
+personnalis	0	0	1
+phenomenal	0	0	1
+pittoresqu	0	0	1
+piet	0	0	1
+sommet	0	0	1
+ludiqu	0	0	1
+plait	0	0	1
+plais	0	0	1
+atout	0	0	1
+poetiqu	0	0	1
+poign	0	0	1
+pol	0	0	1
+politess	0	0	1
+populair	0	0	1
+portabl	0	0	1
+posit	0	0	1
+louang	0	0	1
+lou	0	0	1
+precieux	0	0	1
+precis	0	0	1
+prefer	0	0	1
+preferent	0	0	1
+prestig	0	0	1
+prestigi	0	0	1
+fiert	0	0	1
+privileg	0	0	1
+privilegi	0	0	1
+sans problem	0	0	1
+problem resolu	0	0	1
+prodigi	0	0	1
+prodig	0	0	1
+product	0	0	1
+competent	0	0	1
+profond	0	0	1
+progres	0	0	1
+prolif	0	0	1
+proeminent	0	0	1
+promet	0	0	1
+prometteur	0	0	1
+propic	0	0	1
+prosper	0	0	1
+proteg	0	0	1
+protect	0	0	1
+fi	0	0	1
+prouess	0	0	1
+prudenc	0	0	1
+prudent	0	0	1
+ponctuel	0	0	1
+pur	0	0	1
+purifi	0	0	1
+deliber	0	0	1
+tranquill	0	0	1
+deplac	1	0	0
+rayon	0	0	1
+rationnel	0	0	1
+lisibl	0	0	1
+ais	0	0	1
+raison	0	0	1
+rassur	0	0	1
+recept	0	0	1
+recuper	0	0	1
+recommand	0	0	1
+reconcili	0	0	1
+rafraich	0	0	1
+regal	0	0	1
+royal	0	0	1
+rejouiss	0	0	1
+rajeun	0	0	1
+soulag	0	0	1
+remed	0	0	1
+remiss	0	0	1
+reput	0	0	1
+bon reput	0	0	1
+respect	0	0	1
+respectu	0	0	1
+resplend	0	0	1
+respons	0	0	1
+irrespons	1	0	0
+repondr a mes besoin	0	0	1
+repondr aux besoin	0	0	1
+revitalis	0	0	1
+revivr	0	0	1
+raviv	0	0	1
+recompens	0	0	1
+richess	0	0	1
+plus rich	0	0	1
+droit	0	0	1
+vertueux	0	0	1
+justic	0	0	1
+legitim	0	0	1
+just titr	0	0	1
+justess	0	0	1
+sans risqu	0	0	1
+sur	0	0	1
+robust	0	0	1
+rock star	0	0	1
+rockstar	0	0	1
+romant	0	0	1
+romanc	0	0	1
+spacieux	0	0	1
+ros	0	0	1
+secur	0	0	1
+insecur	1	0	0
+sag	0	0	1
+salutair	0	0	1
+salu	0	0	1
+satisfais	0	0	1
+sauveur	0	0	1
+transparent	0	0	1
+respect de soi	0	0	1
+autosatisfact	0	0	1
+autosuffis	0	0	1
+sensationnel	0	0	1
+sensat	0	0	1
+sens	0	0	1
+insens	1	0	0
+sensibl	0	0	1
+serein	0	0	1
+seren	0	0	1
+sexy	0	0	1
+net	0	0	1
+simpl	1	0	0
+simplist	1	0	0
+simplifi	0	0	1
+plus intelligent	0	0	1
+sourir	0	0	1
+souri	0	0	1
+liss	0	0	1
+adouc	0	0	1
+douceur	0	0	1
+sociabl	0	0	1
+sollicitud	0	0	1
+solid	0	0	1
+solidar	0	0	1
+apais	0	0	1
+sophistiqu	0	0	1
+spectaculair	0	0	1
+splendid	0	0	1
+splendeur	0	0	1
+spontan	0	0	1
+sportif	0	0	1
+enjou	0	0	1
+stabl	0	0	1
+stabilis	0	0	1
+inoxyd	0	0	1
+fermet	0	0	1
+inebranl	0	0	1
+plus stabl	0	0	1
+constanc	0	0	1
+emouv	0	0	1
+stylis	0	0	1
+sublim	0	0	1
+subvention	0	0	1
+reuss	0	0	1
+succes	0	0	1
+reussit	0	0	1
+conven	0	0	1
+somptuos	0	0	1
+sup	0	0	1
+superior	0	0	1
+souten	0	0	1
+partisan	0	0	1
+soutien	0	0	1
+prend en charg	0	0	1
+pris en charg	0	0	1
+supremat	0	0	1
+suprem	0	0	1
+surv	0	0	1
+surviv	0	0	1
+sucr	0	0	1
+gent	0	0	1
+gentil	0	0	1
+talent	0	0	1
+talentu	0	0	1
+allech	0	0	1
+pas terribl	1	0	0
+tenac	0	0	1
+tendr	0	0	1
+opportun	0	0	1
+toler	0	0	1
+haut de gamm	0	0	1
+haut niveau	0	0	1
+dur	1	0	0
+plus simpl	0	0	1
+tresor	0	0	1
+enorm	0	0	1
+triomph	0	0	1
+troph	0	0	1
+dign de confianc	0	0	1
+abus de confianc	1	0	0
+verid	0	0	1
+verac	0	0	1
+imbatt	0	0	1
+sans condit	0	0	1
+intact	0	0	1
+comprehensibl	0	0	1
+incontest	0	0	1
+indiscut	0	0	1
+sans equivoqu	0	0	1
+imperturb	0	0	1
+sans entrav	0	0	1
+inoubli	0	0	1
+libr	0	0	1
+evolut	0	0	1
+utilis	0	0	1
+inutilis	1	0	0
+vaill	0	0	1
+valeur	0	0	1
+pas de valeur	1	0	0
+diver	0	0	1
+divers	0	0	1
+vertu	0	0	1
+verifi	0	0	1
+victori	0	0	1
+victoir	0	0	1
+vigil	0	0	1
+vivac	0	0	1
+daign	0	0	1
+mepr	1	0	0
+mepris	1	0	0
+dedaign	1	0	0
+dedain	1	0	0
+rechauff	0	0	1
+bienvenu	0	0	1
+bien accueil	0	0	1
+mal accueil	1	0	0
+bon intent	0	0	1
+bien etre	0	0	1
+bien inform	0	0	1
+bien intention	0	0	1
+bien fait	0	0	1
+bien ger	0	0	1
+bien position	0	0	1
+bien recu	0	0	1
+grandios	0	0	1
+volont	0	0	1
+laureat	0	0	1
+remport	0	0	1
+sagess	0	0	1
+comiqu	1	0	0
+wow	0	0	1
+woow	0	0	1
+wooow	0	0	1
+woooow	0	0	1
+seduit	0	0	1
+seduir	0	0	1
+epat	0	0	1
+yay	0	0	1
+zest	0	0	1
+chouet	0	0	1
+pas bien	1	0	0
+pas mal	0	0	1
+pas trop mal	0	0	1
+bien situ	0	0	1
+organis	0	0	1
+trop bon	0	0	1
+styl	0	0	1
+raffin	0	0	1
+bourgeois	0	0	1
+familial	0	0	1
+decontract	0	0	1
+tres bon	0	0	1
+soign	0	0	1
+particuli soign	0	0	1
+realism	0	0	1
+point posit	0	0	1
+seul bemol	1	0	0
+grand qualit	0	0	1
+qualit	0	0	1
+ambianc	0	0	1
+fluid	0	0	1
+amour	0	0	1
+bon rapport	0	0	1
+bon comprom	0	0	1
+rien a redir	0	0	1
+rien a signal	0	0	1
+rien a reproch	0	0	1
+lux	0	0	1
+pet prix	0	0	1
+art	0	0	1
+offre	0	0	1
+offrir	0	0	1
+cadeau	0	0	1
+nombreux possibil	0	0	1
+lumi	0	0	1
+bon invest	0	0	1
+savoir fair	0	0	1
+longu longev	0	0	1
+poes	0	0	1
+pur bonheur	0	0	1
+pas mech	0	0	1
+bien pens	0	0	1
+dechir	1	0	0
+vif	0	0	1
+viabl	0	0	1
+fan	1	0	0
+pas fan	1	0	0
+implac	1	0	0
+fashion	0	0	1
+egal	0	0	1
+fratern	0	0	1
+arriv premi	0	0	1
+solidair	0	0	1
+ambit	0	0	1
+bon nouvel	0	0	1
+vrai	0	0	1
+present	0	0	1
+presenc	0	0	1
+const	0	0	1
+homogen	0	0	1
+coeur	0	0	1
+numb one	0	0	1
+vari	0	0	1
+grand plais	0	0	1
+model reuss	0	0	1
+anormal	1	0	0
+abol	1	0	0
+avort	1	0	0
+annul	1	0	0
+abomin	1	0	0
+horribl	1	0	0
+abandon	1	0	0
+brusqu	1	0	0
+prendr la fuit	1	0	0
+pris la fuit	1	0	0
+absenc	1	0	0
+absent	1	0	0
+absurd	1	0	0
+abus	1	0	0
+epouvant	1	0	0
+abim	1	0	0
+accidentel	1	0	0
+maud	1	0	0
+accus	1	0	0
+agit	1	0	0
+troubl	1	0	0
+saccag	1	0	0
+piqu	1	0	0
+amer	1	0	0
+aigr	1	0	0
+acid	1	0	0
+affreux	1	0	0
+sauvag	1	0	0
+atroc	1	0	0
+grossi	1	0	0
+antipath	1	0	0
+acerb	1	0	0
+mal	1	0	0
+fais mal	1	0	0
+fait mal	1	0	0
+fair mal	1	0	0
+douleur	1	0	0
+doulour	1	0	0
+acre	1	0	0
+acrimoni	1	0	0
+acrimon	1	0	0
+toxicoman	1	0	0
+intoxiqu	1	0	0
+intox	1	0	0
+avert	1	0	0
+falsifi	1	0	0
+contrefair	1	0	0
+frelat	1	0	0
+falsif	1	0	0
+adulter	1	0	0
+contradictoir	1	0	0
+adversair	1	0	0
+negat	1	0	0
+advers	1	0	0
+afflig	1	0	0
+attrist	1	0	0
+chagrin	1	0	0
+injuri	1	0	0
+rendr trist	1	0	0
+rendu trist	1	0	0
+pein	1	0	0
+mal de tristess	1	0	0
+plai	1	0	0
+cris	1	0	0
+malheur	1	0	0
+tribul	1	0	0
+peur	1	0	0
+aggrav	1	0	0
+agress	1	0	0
+agresseur	1	0	0
+les	1	0	0
+atterr	1	0	0
+agon	1	0	0
+tourment	1	0	0
+angoiss	1	0	0
+echou	1	0	0
+echec	1	0	0
+en difficult	1	0	0
+difficult	1	0	0
+difficil	1	0	0
+malad	1	0	0
+sans but	1	0	0
+sans rien	1	0	0
+perdr	1	0	0
+perdu	1	0	0
+tout perdu	1	0	0
+alarm	1	0	0
+alien	1	0	0
+fou	1	0	0
+furieux	1	0	0
+fou furieux	1	0	0
+alleg	1	0	0
+allegu	1	0	0
+allerg	1	0	0
+alterc	1	0	0
+querel	1	0	0
+bagarr	1	0	0
+disput	1	0	0
+chamailler	1	0	0
+pris de bec	1	0	0
+langu de bois	1	0	0
+langu du bois	1	0	0
+ambiguit	1	0	0
+ambigu	1	0	0
+hesit	1	0	0
+traver	1	0	0
+ambivalent	1	0	0
+embuscad	1	0	0
+amput	1	0	0
+anarch	1	0	0
+anem	1	0	0
+coler	1	0	0
+avec coler	1	0	0
+animos	1	0	0
+hostil	1	0	0
+agac	1	0	0
+ennui	1	0	0
+desagr	1	0	0
+facheux	1	0	0
+fach	1	0	0
+anomal	1	0	0
+antagon	1	0	0
+contrari	1	0	0
+racism	1	0	0
+racist	1	0	0
+anti semit	1	0	0
+anti blanc	1	0	0
+paradoxal	1	0	0
+paradox	1	0	0
+inquietud	1	0	0
+anxiet	1	0	0
+anxieux	1	0	0
+apath	1	0	0
+apocalyps	1	0	0
+apocalypt	1	0	0
+epouvantail	1	0	0
+constern	1	0	0
+apprehens	1	0	0
+inquiet	1	0	0
+totalitair	1	0	0
+archaiqu	1	0	0
+ardu	1	0	0
+aigu	1	0	0
+rud	1	0	0
+draconien	1	0	0
+opaqu	1	0	0
+arrog	1	0	0
+honteux	1	0	0
+idiot	1	0	0
+mefianc	1	0	0
+noirc	1	0	0
+sal	1	0	0
+attaqu	1	0	0
+assassin	1	0	0
+assaut	1	0	0
+egar	1	0	0
+tromp	1	0	0
+impossibl	1	0	0
+flagr	1	0	0
+grav	1	0	0
+laid	1	0	0
+brut	1	0	0
+effrai	1	0	0
+sang	1	0	0
+brutal	1	0	0
+barbar	1	0	0
+audac	1	0	0
+sombr	1	0	0
+fanat	1	0	0
+boudeur	1	0	0
+autoritair	1	0	0
+autocrat	1	0	0
+avalanch	1	0	0
+ecroul	1	0	0
+ruin	1	0	0
+effondr	1	0	0
+avaric	1	0	0
+avar	1	0	0
+mesquin	1	0	0
+veng	1	0	0
+vengeanc	1	0	0
+revanch	1	0	0
+hain	1	0	0
+horreur	1	0	0
+obsess	1	0	0
+bizarr	1	0	0
+bizarrer	1	0	0
+mauvais odeur	1	0	0
+mauvais humeur	1	0	0
+nul	1	0	0
+maladroit	1	0	0
+maladress	1	0	0
+bavard	1	0	0
+babillag	1	0	0
+mal au dos	1	0	0
+mal de tet	1	0	0
+maux de tet	1	0	0
+medir	1	0	0
+medis	1	0	0
+retrograd	1	0	0
+reactionneir	1	0	0
+tier mond	1	0	0
+mauv	1	0	0
+deflect	1	0	0
+devi	1	0	0
+deconcert	1	0	0
+perplex	1	0	0
+derout	1	0	0
+appeau	1	0	0
+banal	1	0	0
+banalis	1	0	0
+fleau	1	0	0
+bann	1	0	0
+faillit	1	0	0
+fair faillit	1	0	0
+steril	1	0	0
+sans fond	1	0	0
+sans reflech	1	0	0
+irreflech	1	0	0
+frapp	1	0	0
+defonc	1	0	0
+timid	1	0	0
+denigr	1	0	0
+batard	1	0	0
+battu	1	0	0
+coup	1	0	0
+coup de coeur	0	0	1
+coup de foudr	1	0	0
+toqu	1	0	0
+dingu	1	0	0
+bouffon	1	0	0
+abrut	1	0	0
+maboul	1	0	0
+imbecil	1	0	0
+cretin	1	0	0
+tetu	1	0	0
+chahut	1	0	0
+chaos	1	0	0
+bruit	1	0	0
+brui	1	0	0
+bouscul	1	0	0
+bousculad	1	0	0
+vacarm	1	0	0
+souill	1	0	0
+corrompr	1	0	0
+corrompu	1	0	0
+embrouill	1	0	0
+pollu	1	0	0
+pollut	1	0	0
+tern	1	0	0
+mel	1	0	0
+mendi	1	0	0
+miser	1	0	0
+mendiqu	1	0	0
+stigmatis	1	0	0
+tardif	1	0	0
+tardiv	1	0	0
+dement	1	0	0
+depreci	1	0	0
+deplor	1	0	0
+admonest	1	0	0
+reproch	1	0	0
+blam	1	0	0
+depossed	1	0	0
+deuil	1	0	0
+priv	1	0	0
+assaill	1	0	0
+bestial	1	0	0
+avid de sang	1	0	0
+trah	1	0	0
+trahison	1	0	0
+trompeur	1	0	0
+trompeux	1	0	0
+traitr	1	0	0
+lament	1	0	0
+mefi	1	0	0
+desorient	1	0	0
+prejug	1	0	0
+biais	1	0	0
+bi	1	0	0
+chamaill	1	0	0
+truquag	1	0	0
+truqu	1	0	0
+bigoter	1	0	0
+mordr	1	0	0
+mord	1	0	0
+argent facil	1	0	0
+amertum	1	0	0
+jas	1	0	0
+chantag	1	0	0
+blablabl	1	0	0
+bla	1	0	0
+blabl	1	0	0
+peu enthousiast	1	0	0
+glacial	1	0	0
+blasphem	1	0	0
+foudroi	1	0	0
+foudr	1	0	0
+foutr	1	0	0
+rien a foutr	1	0	0
+morn	1	0	0
+paum	1	0	0
+pal	1	0	0
+paleux	1	0	0
+menac	1	0	0
+pitoi	1	0	0
+tristess	1	0	0
+saign	1	0	0
+defaut	1	0	0
+aveugl	1	0	0
+obstruct	1	0	0
+handicap	1	0	0
+entrav	1	0	0
+embarr	1	0	0
+embarrass	1	0	0
+sangl	1	0	0
+fair saut	1	0	0
+confondr	1	0	0
+brouill	1	0	0
+flou	1	0	0
+lach	1	0	0
+vantard	1	0	0
+frim	1	0	0
+frimeur	1	0	0
+vant	1	0	0
+faux	1	0	0
+ebullit	1	0	0
+tapag	1	0	0
+fair du tapag	1	0	0
+bomb	1	0	0
+bombard	1	0	0
+kamikaz	1	0	0
+terror	1	0	0
+esclavag	1	0	0
+esclav	1	0	0
+cingl	1	0	0
+bousill	1	0	0
+sans savoir	1	0	0
+sabot	1	0	0
+derang	1	0	0
+expurg	1	0	0
+censur	1	0	0
+boycott	1	0	0
+fanfaron	1	0	0
+lavag de cerveau	1	0	0
+impetu	1	0	0
+indifferent	1	0	0
+extravag	1	0	0
+impetuos	1	0	0
+imprudent	1	0	0
+gamin	1	0	0
+moch	1	0	0
+bravad	1	0	0
+effront	1	0	0
+violat	1	0	0
+viol	1	0	0
+bris	1	0	0
+pann	1	0	0
+ruptur	1	0	0
+corrupt	1	0	0
+souffr	1	0	0
+souffert	1	0	0
+souffranc	1	0	0
+fragil	1	0	0
+cass	1	0	0
+coeur bris	1	0	0
+couv	1	0	0
+intimid	1	0	0
+traum	1	0	0
+mutil	1	0	0
+offens	1	0	0
+choc	1	0	0
+choqu	1	0	0
+sous le choc	1	0	0
+punais	1	0	0
+put	1	0	0
+putain	1	0	0
+putin	1	0	0
+merd	1	0	0
+minc	1	0	0
+encombr	1	0	0
+conner	1	0	0
+betis	1	0	0
+fuck	1	0	0
+niqu	1	0	0
+clochard	1	0	0
+heurt	1	0	0
+cahot	1	0	0
+abrupt	1	0	0
+cochon	1	0	0
+fardeau	1	0	0
+surcharg	1	0	0
+penibl	1	0	0
+brul	1	0	0
+brulur	1	0	0
+caquet	1	0	0
+calam	1	0	0
+calamit	1	0	0
+diffam	1	0	0
+vendr la mech	1	0	0
+vend la mech	1	0	0
+vendu la mech	1	0	0
+calomni	1	0	0
+calomn	1	0	0
+canc	1	0	0
+cancer	1	0	0
+cannibal	1	0	0
+caprici	1	0	0
+capric	1	0	0
+neglig	1	0	0
+negligent	1	0	0
+carnag	1	0	0
+massacr	1	0	0
+tuer	1	0	0
+fustig	1	0	0
+castr	1	0	0
+victim	1	0	0
+cataclysm	1	0	0
+catastroph	1	0	0
+accident	1	0	0
+holocaust	1	0	0
+caustiqu	1	0	0
+decept	1	0	0
+chaotiqu	1	0	0
+chati	1	0	0
+chat	1	0	0
+cac	1	0	0
+chi	1	0	0
+fair chi	1	0	0
+fais chi	1	0	0
+chiott	1	0	0
+augment le prix	1	0	0
+arnaqu	1	0	0
+trich	1	0	0
+tricheur	1	0	0
+reprimand	1	0	0
+pueril	1	0	0
+enfantin	1	0	0
+etouff	1	0	0
+choler	1	0	0
+houleux	1	0	0
+clameur	1	0	0
+cri	1	0	0
+hurl	1	0	0
+nuageux	1	0	0
+desempar	1	0	0
+complot	1	0	0
+complic	1	0	0
+connivent	1	0	0
+commot	1	0	0
+pas satisf	1	0	0
+plaindr	1	0	0
+plaint	1	0	0
+complex	1	0	0
+compliqu	1	0	0
+compuls	1	0	0
+vanit	1	0	0
+preoccup	1	0	0
+coupabl	1	0	0
+condamn	1	0	0
+confl	1	0	0
+confondu	1	0	0
+confus	1	0	0
+confront	1	0	0
+affront	1	0	0
+conflictuel	1	0	0
+congest	1	0	0
+contre	1	0	0
+pas pratiqu	1	0	0
+conspir	1	0	0
+terreur	1	0	0
+paniqu	1	0	0
+contagi	1	0	0
+contamin	1	0	0
+contenti	1	0	0
+contorsion	1	0	0
+contors	1	0	0
+contredir	1	0	0
+contred	1	0	0
+contradict	1	0	0
+contreven	1	0	0
+envah	1	0	0
+atteint aux droit	1	0	0
+pas vrai	1	0	0
+corrompt	1	0	0
+couteux	1	0	0
+contre product	1	0	0
+putschist	1	0	0
+cupid	1	0	0
+vorac	1	0	0
+fissur	1	0	0
+cramp	1	0	0
+excentr	1	0	0
+atyp	1	0	0
+pas normal	1	0	0
+ridicul	1	0	0
+merdiqu	1	0	0
+ecras	1	0	0
+fol	1	0	0
+credul	1	0	0
+terrifi	1	0	0
+crim	1	0	0
+criminel	1	0	0
+paralys	1	0	0
+estropi	1	0	0
+critiqu	1	0	0
+copinag	1	0	0
+escroc	1	0	0
+cruel	1	0	0
+cruaut	1	0	0
+effrit	1	0	0
+fich le camp	1	0	0
+pleur	1	0	0
+lourd	1	0	0
+chatt	1	0	0
+maudir	1	0	0
+maledict	1	0	0
+cyniqu	1	0	0
+cynism	1	0	0
+pessim	1	0	0
+chican	1	0	0
+moqu	1	0	0
+moquer	1	0	0
+iron	1	0	0
+dommag	1	0	0
+deg	1	0	0
+endommag	1	0	0
+detest	1	0	0
+accabl	1	0	0
+damn	1	0	0
+dang	1	0	0
+danger	1	0	0
+dangeros	1	0	0
+assombr	1	0	0
+obscur	1	0	0
+decourag	1	0	0
+tres moyen	1	0	0
+retard	1	0	0
+vertig	1	0	0
+vom	1	0	0
+envi de vom	1	0	0
+mal au coeur	1	0	0
+mort	1	0	0
+mauv payeur	1	0	0
+mortel	1	0	0
+sourd	1	0	0
+deces	1	0	0
+debacl	1	0	0
+defait	1	0	0
+pas a la hauteur	1	0	0
+pas si bon	1	0	0
+devaloris	1	0	0
+perdu sa valeur	1	0	0
+perdr sa valeur	1	0	0
+debil	1	0	0
+impuiss	1	0	0
+faibl	1	0	0
+faibless	1	0	0
+det	1	0	0
+decadent	1	0	0
+pourr	1	0	0
+dupliqu	1	0	0
+hypocris	1	0	0
+hypocrit	1	0	0
+delinqu	1	0	0
+incap	1	0	0
+diffamatoir	1	0	0
+defectu	1	0	0
+provoc	1	0	0
+deficient	1	0	0
+dysfonction	1	0	0
+carenc	1	0	0
+point faibl	1	0	0
+profan	1	0	0
+deform	1	0	0
+fraud	1	0	0
+defunt	1	0	0
+degener	1	0	0
+degenerescent	1	0	0
+degrad	1	0	0
+lent	1	0	0
+lambin	1	0	0
+louch	1	0	0
+chelou	1	0	0
+relou	1	0	0
+delir	1	0	0
+illus	1	0	0
+inond	1	0	0
+avil	1	0	0
+demol	1	0	0
+demon	1	0	0
+satan	1	0	0
+diabl	1	0	0
+diabol	1	0	0
+demoniaqu	1	0	0
+diabolis	1	0	0
+demoralis	1	0	0
+deneg	1	0	0
+deni	1	0	0
+ni	1	0	0
+denonc	1	0	0
+salop	1	0	0
+denonci	1	0	0
+epuis	1	0	0
+deprav	1	0	0
+deraill	1	0	0
+desapprouv	1	0	0
+deprim	1	0	0
+depress	1	0	0
+deris	1	0	0
+derisoir	1	0	0
+moqueur	1	0	0
+desol	1	0	0
+desespoir	1	0	0
+desesper	1	0	0
+ignobl	1	0	0
+insignifi	1	0	0
+indign	1	0	0
+tres mauv	1	0	0
+infect	1	0	0
+tocard	1	0	0
+salaud	1	0	0
+malfais	1	0	0
+sordid	1	0	0
+nuisibl	1	0	0
+nuit	1	0	0
+nuir	1	0	0
+nefast	1	0	0
+malveil	1	0	0
+malintention	1	0	0
+mal intention	1	0	0
+malpropr	1	0	0
+coquin	1	0	0
+crapul	1	0	0
+odieux	1	0	0
+sans charm	1	0	0
+fichu	1	0	0
+encul	1	0	0
+spoli	1	0	0
+spoliateur	1	0	0
+destabilis	1	0	0
+denu	1	0	0
+pauvret	1	0	0
+pauvr	1	0	0
+paress	1	0	0
+detruir	1	0	0
+destructeur	1	0	0
+destruct	1	0	0
+deterior	1	0	0
+port atteint	1	0	0
+devast	1	0	0
+ravag	1	0	0
+deviat	1	0	0
+diabler	1	0	0
+malign	1	0	0
+malin	1	0	0
+bluffeur	1	0	0
+dup	1	0	0
+bluff	1	0	0
+depourvu	1	0	0
+dictateur	1	0	0
+dictatorial	1	0	0
+mour	1	0	0
+intransig	1	0	0
+meurt	1	0	0
+problem	1	0	0
+dilemm	1	0	0
+gach	1	0	0
+salet	1	0	0
+desaccord	1	0	0
+desavantag	1	0	0
+defavoris	1	0	0
+inconvenient	1	0	0
+mecontent	1	0	0
+desavou	1	0	0
+etre en desaccord	1	0	0
+desagre	1	0	0
+pas d'accord	1	0	0
+refus	1	0	0
+decu	1	0	0
+decev	1	0	0
+decevoir	1	0	0
+decoit	1	0	0
+desapprob	1	0	0
+desarm	1	0	0
+desarroi	1	0	0
+desastr	1	0	0
+desaveu	1	0	0
+incredul	1	0	0
+ne croir pas	1	0	0
+ne croir plus	1	0	0
+inconfort	1	0	0
+inconsol	1	0	0
+interrompu	1	0	0
+discontinu	1	0	0
+discord	1	0	0
+desordr	1	0	0
+discourtois	1	0	0
+discredit	1	0	0
+discrimin	1	0	0
+discriminatoir	1	0	0
+defaveur	1	0	0
+hont	1	0	0
+degout	1	0	0
+malhonnet	1	0	0
+malhonnetet	1	0	0
+deshonor	1	0	0
+desillu	1	0	0
+manqu de respect	1	0	0
+desintegr	1	0	0
+desinteress	1	0	0
+ne aim pas	1	0	0
+aim pas	1	0	0
+n'aim pas	1	0	0
+ne pas aim	1	0	0
+deloyal	1	0	0
+deloyaut	1	0	0
+desobeiss	1	0	0
+desobeir	1	0	0
+desordon	1	0	0
+desorganis	1	0	0
+deboussol	1	0	0
+rebel	1	0	0
+reni	1	0	0
+rejet	1	0	0
+deplair	1	0	0
+disproportion	1	0	0
+refut	1	0	0
+contest	1	0	0
+fui	1	0	0
+suspect	1	0	0
+soupcon	1	0	0
+fauss	1	0	0
+irrespectu	1	0	0
+perturb	1	0	0
+insatisfact	1	0	0
+insatisfais	1	0	0
+dissens	1	0	0
+emeut	1	0	0
+divis	1	0	0
+divergent	1	0	0
+diverg	1	0	0
+dissident	1	0	0
+bas de gamm	1	0	0
+distors	1	0	0
+detress	1	0	0
+desunion	1	0	0
+devaleur	1	0	0
+etourd	1	0	0
+branl	1	0	0
+obstin	1	0	0
+marasm	1	0	0
+regress	1	0	0
+pert	1	0	0
+dop	1	0	0
+drogu	1	0	0
+shit	1	0	0
+dout	1	0	0
+douteux	1	0	0
+chut	1	0	0
+ralent	1	0	0
+dracon	1	0	0
+craint	1	0	0
+affaissement	1	0	0
+secheress	1	0	0
+noyad	1	0	0
+ivre	1	0	0
+ivrogn	1	0	0
+alcool	1	0	0
+dubit	1	0	0
+sans valeur	1	0	0
+lourdaud	1	0	0
+lourdingu	1	0	0
+gourd	1	0	0
+poussi	1	0	0
+poussier	1	0	0
+train de mour	1	0	0
+per	1	0	0
+assourd	1	0	0
+effronter	1	0	0
+bassess	1	0	0
+hard	1	0	0
+hardiess	1	0	0
+impertinent	1	0	0
+egocentr	1	0	0
+insoci	1	0	0
+man	1	0	0
+egot	1	0	0
+egoist	1	0	0
+emascul	1	0	0
+mettr en dang	1	0	0
+mis en dang	1	0	0
+mettr en peril	1	0	0
+met en peril	1	0	0
+mis en peril	1	0	0
+peril	1	0	0
+ennem	1	0	0
+englout	1	0	0
+extermin	1	0	0
+enrag	1	0	0
+rag	1	0	0
+asserv	1	0	0
+tendr au pieg	1	0	0
+tendu un pieg	1	0	0
+piegeag	1	0	0
+envieux	1	0	0
+pas envi	1	0	0
+epidem	1	0	0
+eros	1	0	0
+errant	1	0	0
+errat	1	0	0
+erron	1	0	0
+erreur	1	0	0
+erupt	1	0	0
+fuit en avant	1	0	0
+elud	1	0	0
+evas	1	0	0
+maux	1	0	0
+exager	1	0	0
+exasper	1	0	0
+excess	1	0	0
+exclus	1	0	0
+exil	1	0	0
+ban	1	0	0
+expuls	1	0	0
+excus	1	0	0
+pretext	1	0	0
+execr	1	0	0
+echapp	1	0	0
+exorbit	1	0	0
+expir	1	0	0
+explos	1	0	0
+expropri	1	0	0
+eteindr	1	0	0
+extorqu	1	0	0
+retoqu	1	0	0
+extors	1	0	0
+extrem	1	0	0
+fucking	1	0	0
+fausset	1	0	0
+mensong	1	0	0
+famin	1	0	0
+affam	1	0	0
+farfelu	1	0	0
+grotesqu	1	0	0
+incompatibl	1	0	0
+fascism	1	0	0
+fascist	1	0	0
+fatal	1	0	0
+fatid	1	0	0
+fatigu	1	0	0
+imbecill	1	0	0
+stupid	1	0	0
+faut	1	0	0
+effroi	1	0	0
+feroc	1	0	0
+fetid	1	0	0
+fievr	1	0	0
+febril	1	0	0
+fiasco	1	0	0
+menteur	1	0	0
+inconst	1	0	0
+fiction	1	0	0
+crasseux	1	0	0
+impur	1	0	0
+coup de poing	1	0	0
+coup de pied	1	0	0
+coup de feu	1	0	0
+volag	1	0	0
+bet	1	0	0
+interdir	1	0	0
+interd	1	0	0
+interdict	1	0	0
+grossieret	1	0	0
+grincheux	1	0	0
+sot	1	0	0
+fractur	1	0	0
+fragment	1	0	0
+frenet	1	0	0
+turbulent	1	0	0
+bouill	1	0	0
+fraudul	1	0	0
+flipp	1	0	0
+monstr	1	0	0
+frenes	1	0	0
+vain	1	0	0
+sans resultat	1	0	0
+sans issu	1	0	0
+frustr	1	0	0
+frustrat	1	0	0
+fugit	1	0	0
+fum	1	0	0
+froussard	1	0	0
+poltron	1	0	0
+drol	1	0	0
+scandal	1	0	0
+fureur	1	0	0
+futil	1	0	0
+maigr	1	0	0
+irrit	1	0	0
+gangst	1	0	0
+vandal	1	0	0
+vandalis	1	0	0
+voyou	1	0	0
+band	1	0	0
+ordur	1	0	0
+poubel	1	0	0
+dechet	1	0	0
+genocid	1	0	0
+ghetto	1	0	0
+fantom	1	0	0
+charabi	1	0	0
+emmerd	1	0	0
+bavardag	1	0	0
+papotag	1	0	0
+beaucoup de bruit	1	0	0
+ineleg	1	0	0
+pas sur	1	0	0
+grief	1	0	0
+sinistr	1	0	0
+grimac	1	0	0
+coliqu	1	0	0
+macabr	1	0	0
+raleur	1	0	0
+ral	1	0	0
+grogn	1	0	0
+rancun	1	0	0
+rancoeur	1	0	0
+malic	1	0	0
+contrecSur	1	0	0
+contre cSur	1	0	0
+rus	1	0	0
+camouflag	1	0	0
+camoufl	1	0	0
+culpabl	1	0	0
+pirat	1	0	0
+hack	1	0	0
+malchanc	1	0	0
+harcel	1	0	0
+bemol	1	0	0
+durc	1	0	0
+trac	1	0	0
+souc	1	0	0
+plein de problem	1	0	0
+beaucoup de problem	1	0	0
+plein de souc	1	0	0
+haineux	1	0	0
+haisseur	1	0	0
+hait	1	0	0
+haiss	1	0	0
+degat	1	0	0
+guerr	1	0	0
+brouillard	1	0	0
+mauv temp	1	0	0
+beau temp	0	0	1
+soleil	0	0	1
+ensoleil	0	0	1
+brumeux	1	0	0
+zut	1	0	0
+enfer	1	0	0
+trublion	1	0	0
+morbid	1	0	0
+hideux	1	0	0
+hideur	1	0	0
+prix elev	1	0	0
+trop cher	1	0	0
+obstacl	1	0	0
+canular	1	0	0
+rumeur	1	0	0
+creux	1	0	0
+hooligan	1	0	0
+sans espoir	1	0	0
+impossibil	1	0	0
+horrifi	1	0	0
+otag	1	0	0
+humili	1	0	0
+bourdon	1	0	0
+bless	1	0	0
+hyster	1	0	0
+cris de nerf	1	0	0
+ignor	1	0	0
+mal concu	1	0	0
+mal defin	1	0	0
+mal fait	1	0	0
+mal form	1	0	0
+mal eduqu	1	0	0
+mech	1	0	0
+mal class	1	0	0
+mauv trait	1	0	0
+mauv usag	1	0	0
+mal emploi	1	0	0
+illegitim	1	0	0
+illicit	1	0	0
+analphabet	1	0	0
+illog	1	0	0
+mirag	1	0	0
+illusoir	1	0	0
+desequilibr	1	0	0
+imbroglio	1	0	0
+immoder	1	0	0
+immodest	1	0	0
+immoral	1	0	0
+imparf	1	0	0
+imperfect	1	0	0
+imparfait	1	0	0
+imperial	1	0	0
+repress	1	0	0
+impiet	1	0	0
+invraisembl	1	0	0
+impol	1	0	0
+monoton	1	0	0
+non souhait	1	0	0
+insupport	1	0	0
+intrus	1	0	0
+inconven	1	0	0
+importun	1	0	0
+impos	1	0	0
+imposit	1	0	0
+appauvr	1	0	0
+imprec	1	0	0
+imprecis	1	0	0
+emprison	1	0	0
+encore pir	1	0	0
+prison	1	0	0
+incorrect	1	0	0
+impudent	1	0	0
+impudeur	1	0	0
+impun	1	0	0
+impuret	1	0	0
+incapac	1	0	0
+inexactitud	1	0	0
+inexact	1	0	0
+inact	1	0	0
+insuffis	1	0	0
+deconseil	1	0	0
+recommand pas	1	0	0
+conseil pas	1	0	0
+inopportun	1	0	0
+inept	1	0	0
+inappropri	1	0	0
+inapt	1	0	0
+inaptitud	1	0	0
+incendiair	1	0	0
+incivil	1	0	0
+inclement	1	0	0
+incoherent	1	0	0
+incompetent	1	0	0
+incomplet	1	0	0
+ne respect pas	1	0	0
+respect pas	1	0	0
+ne respect	1	0	0
+incomprehensibl	1	0	0
+incomprehens	1	0	0
+incongru	1	0	0
+inconsist	1	0	0
+incommod	1	0	0
+indecent	1	0	0
+indecis	1	0	0
+indec	1	0	0
+decoler pas	1	0	0
+indolent	1	0	0
+inert	1	0	0
+mou	1	0	0
+moll	1	0	0
+inefficac	1	0	0
+inequit	1	0	0
+inexperient	1	0	0
+manqu d'experient	1	0	0
+inexperiment	1	0	0
+infam	1	0	0
+inferieur	1	0	0
+inferior	1	0	0
+infernal	1	0	0
+infest	1	0	0
+infidel	1	0	0
+pedophil	1	0	0
+inflig	1	0	0
+pun	1	0	0
+punit	1	0	0
+infract	1	0	0
+enfreindr	1	0	0
+ingrat	1	0	0
+ingratitud	1	0	0
+refoul	1	0	0
+iniqu	1	0	0
+violenc	1	0	0
+blessur	1	0	0
+injustic	1	0	0
+insinu	1	0	0
+bras d'honneur	1	0	0
+demesur	1	0	0
+foll	1	0	0
+insati	1	0	0
+mauvais foi	1	0	0
+manqu de sincer	1	0	0
+insolent	1	0	0
+insult	1	0	0
+instabl	1	0	0
+instig	1	0	0
+insurmont	1	0	0
+insurrect	1	0	0
+interrompr	1	0	0
+interrupt	1	0	0
+intoler	1	0	0
+intrait	1	0	0
+intransige	1	0	0
+noi	1	0	0
+envahisseur	1	0	0
+invalid	1	0	0
+flatter	1	0	0
+injust	1	0	0
+irrationnel	1	0	0
+irrational	1	0	0
+irreconcili	1	0	0
+irrepar	1	0	0
+irreform	1	0	0
+irreguli	1	0	0
+irregular	1	0	0
+irremedi	1	0	0
+isol	1	0	0
+blas	1	0	0
+jaloux	1	0	0
+jalous	1	0	0
+jealousness	1	0	0
+railler	1	0	0
+satir	1	0	0
+burlesqu	1	0	0
+esquiv	1	0	0
+sarcasm	1	0	0
+goguenard	1	0	0
+compromettr	1	0	0
+comprom	1	0	0
+secouss	1	0	0
+saccad	1	0	0
+arrach	1	0	0
+gigu	1	0	0
+frouss	1	0	0
+phob	1	0	0
+nerveux	1	0	0
+sans emploi	1	0	0
+chomag	1	0	0
+chomeur	1	0	0
+secou	1	0	0
+meurtr	1	0	0
+fripon	1	0	0
+couteau	1	0	0
+fripouill	1	0	0
+marr	0	0	1
+mis a pied	1	0	0
+mis en demeur	1	0	0
+canard boiteux	1	0	0
+langueur	1	0	0
+defaill	1	0	0
+latenc	1	0	0
+ris	1	0	0
+hor la loi	1	0	0
+foi ni loi	1	0	0
+lech bott	1	0	0
+debauch	1	0	0
+inconnu	1	0	0
+letharg	1	0	0
+obscen	1	0	0
+licenci	1	0	0
+primit	1	0	0
+ment	1	0	0
+vi en dang	1	0	0
+sans vi	1	0	0
+limit	1	0	0
+litigi	1	0	0
+peu connu	1	0	0
+solitud	1	0	0
+solitair	1	0	0
+verbeux	1	0	0
+obstrus	1	0	0
+lacun	1	0	0
+pill	1	0	0
+piqur	1	0	0
+perd	1	0	0
+sans amour	1	0	0
+sous estim	1	0	0
+sur estim	1	0	0
+sousestim	1	0	0
+surestim	1	0	0
+leurr	1	0	0
+cach	1	0	0
+rendr fou	1	0	0
+rendu fou	1	0	0
+inadapt	1	0	0
+malais	1	0	0
+mal a l'ais	1	0	0
+malodor	1	0	0
+mal trait	1	0	0
+maltrait	1	0	0
+maniaqu	1	0	0
+maniaco	1	0	0
+manipul	1	0	0
+marginal	1	0	0
+vagu	1	0	0
+sans signif	1	0	0
+denu de sen	1	0	0
+mesquiner	1	0	0
+mediocr	1	0	0
+melancol	1	0	0
+impitoi	1	0	0
+sans piti	1	0	0
+foir	1	0	0
+foireux	1	0	0
+decon	1	0	0
+nain	1	0	0
+facher	1	0	0
+bou	1	0	0
+mal comprendr	1	0	0
+mal compr	1	0	0
+mauvais conduit	1	0	0
+mal calcul	1	0	0
+malici	1	0	0
+ide recu	1	0	0
+mesaventur	1	0	0
+mal renseign	1	0	0
+mal inform	1	0	0
+mal interpret	1	0	0
+prononc mal	1	0	0
+manqu	1	0	0
+minabl	1	0	0
+tort	1	0	0
+pas raison	1	0	0
+malentendu	1	0	0
+mal entendu	1	0	0
+truand	1	0	0
+railleur	1	0	0
+molest	1	0	0
+monstruos	1	0	0
+monstrueux	1	0	0
+discut	1	0	0
+mortif	1	0	0
+mortifi	1	0	0
+immobil	1	0	0
+trist	1	0	0
+myth	1	0	0
+naiv	1	0	0
+etroit	1	0	0
+mechancet	1	0	0
+naus	1	0	0
+haut le coeur	1	0	0
+nebul	1	0	0
+inutil	1	0	0
+necessit	1	0	0
+dans le besoin	1	0	0
+nepot	1	0	0
+nervos	1	0	0
+nevros	1	0	0
+nevrot	1	0	0
+cauchemar	1	0	0
+cauchemardesqu	1	0	0
+repondr pas	1	0	0
+repond pas	1	0	0
+notoriet	1	0	0
+notoir	1	0	0
+nuisanc	1	0	0
+obes	1	0	0
+object	1	0	0
+inconscient	1	0	0
+masqu	1	0	0
+obsed	1	0	0
+obsessionnel	1	0	0
+obsolet	1	0	0
+obstru	1	0	0
+obtus	1	0	0
+con	1	0	0
+etrang	1	0	0
+incrimin	1	0	0
+offici	1	0	0
+mauvais augur	1	0	0
+omiss	1	0	0
+omettr	1	0	0
+opprim	1	0	0
+tyran	1	0	0
+oppress	1	0	0
+oppresseur	1	0	0
+ordal	1	0	0
+orphelin	1	0	0
+demod	1	0	0
+depass	1	0	0
+retro	1	0	0
+outrag	1	0	0
+surevalu	1	0	0
+hor de prix	1	0	0
+hor de port	1	0	0
+pas don	1	0	0
+trop loin	1	0	0
+eclips	1	0	0
+oubl	1	0	0
+trop grand	1	0	0
+surtax	1	0	0
+renvers	1	0	0
+debord	1	0	0
+entremetteur	1	0	0
+proxenet	1	0	0
+parasit	1	0	0
+partial	1	0	0
+passif	1	0	0
+passiv	1	0	0
+pathet	1	0	0
+penalis	1	0	0
+penal	1	0	0
+perill	1	0	0
+pernici	1	0	0
+cass tet	1	0	0
+cassetet	1	0	0
+persecut	1	0	0
+persecu	1	0	0
+perver	1	0	0
+pervers	1	0	0
+pervert	1	0	0
+insect	1	0	0
+trop pet	1	0	0
+phobiqu	1	0	0
+pillag	1	0	0
+pinc	1	0	0
+plagi	1	0	0
+pest	1	0	0
+stratagem	1	0	0
+pillard	1	0	0
+poison	1	0	0
+toxiqu	1	0	0
+taul	1	0	0
+polem	1	0	0
+pollueur	1	0	0
+impostur	1	0	0
+precair	1	0	0
+predateur	1	0	0
+situat difficil	1	0	0
+presomptu	1	0	0
+pretendr	1	0	0
+plus cher	1	0	0
+picot	1	0	0
+prisonni	1	0	0
+problemat	1	0	0
+tergivers	1	0	0
+prohibit	1	0	0
+propagand	1	0	0
+poursuivr en justic	1	0	0
+poursuit judiciair	1	0	0
+poursuiv en justic	1	0	0
+poursiv	1	0	0
+poursuit	1	0	0
+risqu de poursuit	1	0	0
+protest	1	0	0
+manifest	1	0	0
+provoqu	1	0	0
+chetif	1	0	0
+dechain	1	0	0
+rancSur	1	0	0
+sur sa faim	1	0	0
+sur ma faim	1	0	0
+hochet	1	0	0
+recess	1	0	0
+temerair	1	0	0
+recul	1	0	0
+recour	1	0	0
+redond	1	0	0
+regret	1	0	0
+reticent	1	0	0
+contrecoeur	1	0	0
+contre coeur	1	0	0
+remord	1	0	0
+renonci	1	0	0
+repouss	1	0	0
+repetit	1	0	0
+reprehensibl	1	0	0
+reprehens	1	0	0
+reprim	1	0	0
+reprob	1	0	0
+repudi	1	0	0
+repuls	1	0	0
+ressent	1	0	0
+pas fi	1	0	0
+demiss	1	0	0
+resign	1	0	0
+restreindr	1	0	0
+restreint	1	0	0
+restrict	1	0	0
+represaill	1	0	0
+retract	1	0	0
+reven sur	1	0	0
+revolt	1	0	0
+ridiculis	1	0	0
+clivag	1	0	0
+risqu	1	0	0
+rocheux	1	0	0
+ruineux	1	0	0
+fugueur	1	0	0
+salac	1	0	0
+sarcast	1	0	0
+sardon	1	0	0
+escroquer	1	0	0
+scandalis	1	0	0
+bouc emissair	1	0	0
+bet noir	1	0	0
+ciqu	1	0	0
+sceptiqu	1	0	0
+grond	1	0	0
+avec mepr	1	0	0
+min de rien	1	0	0
+brouillag	1	0	0
+tordu	1	0	0
+second zon	1	0	0
+deuxiem class	1	0	0
+second class	1	0	0
+effervescent	1	0	0
+bouillon	1	0	0
+coup d'etat	1	0	0
+interet personnel	1	0	0
+egoism	1	0	0
+sans raison	1	0	0
+gravit	1	0	0
+servitud	1	0	0
+rompr	1	0	0
+rompu	1	0	0
+sever	1	0	0
+superficiel	1	0	0
+pagaill	1	0	0
+naufrag	1	0	0
+derob	1	0	0
+penur	1	0	0
+ratatin	1	0	0
+tomb malad	1	0	0
+ecSur	1	0	0
+ecoeur	1	0	0
+laiss tomb	1	0	0
+sott	1	0	0
+pech	1	0	0
+sceptic	1	0	0
+gifl	1	0	0
+abattu	1	0	0
+vil	1	0	0
+villain	1	0	0
+balourd	1	0	0
+reptil	1	0	0
+leeent	1	0	0
+leent	1	0	0
+plus lent	1	0	0
+smash	1	0	0
+pu	1	0	0
+macul	1	0	0
+entach	1	0	0
+tach	1	0	0
+bavur	1	0	0
+cochonner	1	0	0
+pieg	1	0	0
+mouchard	1	0	0
+rican	1	0	0
+sanglot	1	0	0
+sobr	1	0	0
+fess	1	0	0
+crach	1	0	0
+eclabouss	1	0	0
+scission	1	0	0
+spoilag	1	0	0
+sporad	1	0	0
+econduir	1	0	0
+gaspill	1	0	0
+grinc	1	0	0
+criss	1	0	0
+poignard	1	0	0
+impass	1	0	0
+rudimentair	1	0	0
+debandad	1	0	0
+eton	1	0	0
+vol	1	0	0
+raid	1	0	0
+puanteur	1	0	0
+ragout	1	0	0
+stigmat	1	0	0
+bourrat	1	0	0
+etol	1	0	0
+larbin	1	0	0
+orag	1	0	0
+trainard	1	0	0
+tendu	1	0	0
+etrangl	1	0	0
+stress	1	0	0
+stressent	1	0	0
+rigour	1	0	0
+rigueur	1	0	0
+lutt	1	0	0
+entet	1	0	0
+trebuch	1	0	0
+acrobat	1	0	0
+begai	1	0	0
+porcher	1	0	0
+subjugu	1	0	0
+hor norm	1	0	0
+poursuiv	1	0	0
+suicidair	1	0	0
+suicid	1	0	0
+tentat de suicid	1	0	0
+boud	1	0	0
+caracter superficiel	1	0	0
+superflu	1	0	0
+superstit	1	0	0
+superstiti	1	0	0
+suspicion	1	0	0
+syndrom	1	0	0
+tabou	1	0	0
+trafiqu	1	0	0
+enchevetr	1	0	0
+taxat	1	0	0
+taquin	1	0	0
+grill	1	0	0
+fastidi	1	0	0
+temer	1	0	0
+tempet	1	0	0
+tension	1	0	0
+promess non tenu	1	0	0
+terroris	1	0	0
+epin	1	0	0
+irreflexion	1	0	0
+debattr	1	0	0
+battr	1	0	0
+palpit	1	0	0
+fatig	1	0	0
+labeur	1	0	0
+torrent	1	0	0
+tortur	1	0	0
+transgress	1	0	0
+crev	1	0	0
+cribl	1	0	0
+pris au pieg	1	0	0
+traumat	1	0	0
+traumatis	1	0	0
+perfid	1	0	0
+traitreux	1	0	0
+traitris	1	0	0
+fouteur de troubl	1	0	0
+vagabond	1	0	0
+culbut	1	0	0
+degringol	1	0	0
+tyrann	1	0	0
+pouah	1	0	0
+laideur	1	0	0
+pur et dur	1	0	0
+inaccept	1	0	0
+inaccessibl	1	0	0
+irrealis	1	0	0
+inabord	1	0	0
+inauthent	1	0	0
+indisponibl	1	0	0
+inconstitutionnel	1	0	0
+incontrol	1	0	0
+pas convainc	1	0	0
+indefin	1	0	0
+mal pai	1	0	0
+faibl puissanc	1	0	0
+indesir	1	0	0
+sans papi	1	0	0
+pas rentabl	1	0	0
+inattendu	1	0	0
+inexpliqu	1	0	0
+defavor	1	0	0
+inachev	1	0	0
+imprevu	1	0	0
+inamical	1	0	0
+ingouvern	1	0	0
+malsain	1	0	0
+unilateral	1	0	0
+inimagin	1	0	0
+inintelligibl	1	0	0
+unintelligil	1	0	0
+injustifi	1	0	0
+sans licenc	1	0	0
+sans perm	1	0	0
+enerv	1	0	0
+impopulair	1	0	0
+imprevisibl	1	0	0
+improduct	1	0	0
+illisibl	1	0	0
+irreal	1	0	0
+deraison	1	0	0
+pas fiabl	1	0	0
+indisciplin	1	0	0
+pas satisfais	1	0	0
+non securis	1	0	0
+infructu	1	0	0
+sans succes	1	0	0
+non fructueux	1	0	0
+insouten	1	0	0
+inten	1	0	0
+non test	1	0	0
+impens	1	0	0
+prematur	1	0	0
+indign de confianc	1	0	0
+impratic	1	0	0
+boulevers	1	0	0
+soulev	1	0	0
+deracin	1	0	0
+urgent	1	0	0
+usurp	1	0	0
+vengeur	1	0	0
+venin	1	0	0
+menott	1	0	0
+venim	1	0	0
+vestig	1	0	0
+vex	1	0	0
+vexat	1	0	0
+contraint	1	0	0
+vicieux	1	0	0
+vilain	1	0	0
+violateur	1	0	0
+violent	1	0	0
+virulent	1	0	0
+virus	1	0	0
+volatil	1	0	0
+vulgair	1	0	0
+vulner	1	0	0
+declin	1	0	0
+delav	1	0	0
+gaspilleur	1	0	0
+gaspillag	1	0	0
+affaibl	1	0	0
+plus faibl	1	0	0
+lassitud	1	0	0
+las	1	0	0
+hel	1	0	0
+use	1	0	0
+s'inquiet	1	0	0
+pir	1	0	0
+rid	1	0	0
+forg	1	0	0
+support pas	1	0	0
+plait pas	1	0	0
+pas tres bien	1	0	0
+sans interet	1	0	0
+bof	1	0	0
+aie	1	0	0
+loin	1	0	0
+exces	1	0	0
+noir	1	0	0
+moins bien	1	0	0
+immange	1	0	0
+degueu	1	0	0
+degueul	1	0	0
+mal situ	1	0	0
+pai	1	0	0
+malpol	1	0	0
+pas drol	1	0	0
+faine	1	0	0
+brouillon	1	0	0
+pas clair	1	0	0
+contrefacon	1	0	0
+contref	1	0	0
+trop gros	1	0	0
+vieux	1	0	0
+vieil	1	0	0
+ancien	1	0	0
+rat	1	0	0
+pis	1	0	0
+mal en pis	1	0	0
+pas reuss	1	0	0
+evit	1	0	0
+bas niveau	1	0	0
+sans ame	1	0	0
+aberr	1	0	0
+manqu cruel	1	0	0
+plus moch	1	0	0
+aucun interet	1	0	0
+inexist	1	0	0
+mal pens	1	0	0
+arriv pas	1	0	0
+parvien pas	1	0	0
+beaucoup trop	1	0	0
+navr	1	0	0
+nullit	1	0	0
+indigestibl	1	0	0
+migrain	1	0	0
+aver	1	0	0
+pas credibl	1	0	0
+peu credibl	1	0	0
+faiblard	1	0	0
+assomm	1	0	0
+bourreau	1	0	0
+ininteress	1	0	0
+overdos	1	0	0
+lourdeur	1	0	0
+foutoir	1	0	0
+insatisf	1	0	0
+black	1	0	0
+blacklist	1	0	0
+black list	1	0	0
+tragiqu	1	0	0
+traged	1	0	0
+ped	1	0	0
+fil de put	1	0	0
+sadiqu	1	0	0
+demagog	1	0	0
+trop	1	0	0
+beacoup trop	1	0	0
+arriv derni	1	0	0
+abstent	1	0	0
+absten	1	0	0
+demago	1	0	0
+labotomis	1	0	0
+tax	1	0	0
+impot	1	0	0
+flagr del	1	0	0
+oubli	1	0	0
+hitl	1	0	0
+naz	1	0	0
+trucag	1	0	0
+mauvais nouvel	1	0	0
+endet	1	0	0
+dem	1	0	0
+demission	1	0	0
+bling bling	1	0	0
+secour	1	0	0
+mafi	1	0	0
+pas assez	1	0	0
+tres mal	1	0	0
+trop mal	1	0	0
+mal realis	1	0	0
+maitris pas	1	0	0
+aucun plais	1	0	0
+clan	1	0	0
+parvient pas	1	0	0
+aussi mauv	1	0	0
+ravageur	1	0	0
+ringard	1	0	0
+bling	1	0	0
+claqu	1	0	0
+kalachnikov	1	0	0
+mal part	1	0	0
+pouf	1	0	0
+fe chi	1	0	0
+pas convaincu	1	0	0
+peu convainc	1	0	0
+ah	1	0	0
+schizophren	1	0	0
+lobotom	1	0	0
+amnes	1	0	0
+pas cru	1	0	0
+leitmotiv	1	0	0
+dictatur	1	0	0
+pas le temp	1	0	0
+improvis	1	0	0
+djihad	1	0	0
+n'import quoi	1	0	0
+creus	1	0	0
+cercl vicieux	1	0	0
+rien a voir	1	0	0
+jtd	0	0	1
+jtdg	0	0	1
+jtm	0	0	1
+jt'm	0	0	1
+j'tm	0	0	1
+biz	0	0	1
+bsx	0	0	1
+bzx	0	0	1
+bisou	0	0	1
+bizou	0	0	1
+pro	0	0	1
+symp	0	0	1
+dacc	0	0	1
+d'acc	0	0	1
+dak	0	0	1
+bvo	0	0	1
+bingo	0	0	1
+tkt	0	0	1
+thx	0	0	1
+mc	0	0	1
+mer6	0	0	1
+k	0	0	1
+okay	0	0	1
+oki	0	0	1
+gag	0	0	1
+gg	0	0	1
+kdo	0	0	1
+spd	1	0	0
+btg	1	0	0
+get	1	0	0
+kikoolol	1	0	0
+pb	1	0	0
+pas pro	1	0	0
+blem	1	0	0
+oribl	1	0	0
+nrv	1	0	0
+md	1	0	0
+mank	1	0	0
+dsl	1	0	0
+out	1	0	0
+tar	1	0	0
+ouf	1	0	0
+aye	1	0	0
+bordel	1	0	0
+ah bon	1	0	0
+squatt	1	0	0
+hein	1	0	0
+vampir	1	0	0
+bain de sang	1	0	0
+berk	1	0	0
+beuark	1	0	0
+bug	1	0	0
+euh	1	0	0
+grr	1	0	0
+grrr	1	0	0
+grrrr	1	0	0
+grrrrr	1	0	0
+he	1	0	0
+heh	1	0	0
+heheh	1	0	0
+heheheh	1	0	0
+help	1	0	0
+kk	1	0	0
+ko	1	0	0
+oup	1	0	0
+pff	1	0	0
+pfff	1	0	0
+pffff	1	0	0
+pfffff	1	0	0
+prout	1	0	0
+zzz	1	0	0
+zzzz	1	0	0
+zzzzz	1	0	0
+pas dak	1	0	0
+pas dacc	1	0	0
+pas d'acc	1	0	0
+g1prob	1	0	0
+jenemar	1	0	0
+raf	1	0	0
+wtf	1	0	0
+fail	1	0	0
+s'enfou	1	0	0
+m'enfou	1	0	0
+acclam	0	0	1
+accolad	0	0	1
+decern	0	0	1
+embel	0	0	1
+egai	0	0	1
+cajol	0	0	1
+aven	0	0	1
+reduct des cout	0	0	1
+guer	0	0	1
+guerison	0	0	1
+vaincr	0	0	1
+diligent	0	0	1
+distinct	0	0	1
+distingu	0	0	1
+profit	0	0	1
+mod	0	0	1
+tendanc	0	0	1
+volonti	0	0	1
+humain	0	0	1
+choi	0	0	1
+dorlot	0	0	1
+prouv	0	0	1
+fort	0	0	1
+plus fort	0	0	1
+surmont	0	0	1
+moyen	1	0	0
+avid	1	0	0
+pas tendanc	1	0	0
+froid	1	0	0
+farouch	1	0	0
+errer	1	0	0
+appat	1	0	0
+artificiel	1	0	0
+controvers	1	0	0
+petitess	1	0	0
+caboss	1	0	0
+detr	1	0	0
+prejudic	1	0	0
+detourn	1	0	0
+queu	1	0	0
+equivoqu	1	0	0
+renonc	1	0	0
+sans cSur	1	0	0
+inevit	1	0	0
+mat	1	0	0
+besoin	1	0	0
+oppos	1	0	0
+opposit	1	0	0
+surchauff	1	0	0
+incertain	1	0	0
+enclin	1	0	0
+ane	1	0	0
+simul	1	0	0
+chavir	1	0	0
+caricatural	1	0	0
+terribl	1	0	0
+vach bien	0	0	1
+bon surpris	0	0	1
+bel surpris	0	0	1
+ebat	0	0	1
+champagn	0	0	1
+chomag en baiss	0	0	1
+chomag baiss	0	0	1
+baiss les impot	0	0	1
+homophob	1	0	0
+anti	1	0	0
+facho	1	0	0
+macho	1	0	0
+machism	1	0	0
+charg la barqu	1	0	0
+pris d'assaut	1	0	0
+feu	1	0	0
+conard	1	0	0
+connard	1	0	0
+guignol	1	0	0
+epingl	1	0	0
+soudain	1	0	0
+lobby	1	0	0
+tanc	1	0	0
+attis	1	0	0
+represent pas	1	0	0
+cannab	1	0	0
+proces	1	0	0
+infortun	1	0	0
+mauvais surpris	1	0	0
+mal chanceux	1	0	0
+mal chanc	1	0	0
+lynch	1	0	0
+urgenc	1	0	0
+disjonct	1	0	0
+fur	1	0	0
+chomag en hauss	1	0	0
+chomag augment	1	0	0
+chomag a augment	1	0	0
+pas le droit	1	0	0
+pas droit	1	0	0
+alourd	1	0	0
+auster	1	0	0
+enterr	1	0	0
+contre cour	1	0	0
+augment les impot	1	0	0
+grev	1	0	0
+grev de faim	1	0	0
+fuit	1	0	0
+s'inclin	1	0	0
+sec	1	0	0
+sech	1	0	0
+etat d'ivress	1	0	0
+chaos total	1	0	0
+prostitu	1	0	0
+faut arret	1	0	0
+nargu	1	0	0
+unir	0	0	1
+union	0	0	1
+devou	0	0	1
+defendr	0	0	1
+bon ide	0	0	1
+meilleur ide	0	0	1
+regl ce problem	0	0	1
+regl le problem	0	0	1
+sacr	0	0	1
+recent	0	0	1
+bien equip	0	0	1
+bien amenag	0	0	1
+tres bien	0	0	1
+copieux	0	0	1
+bel prestat	0	0	1
+pas grand chos	1	0	0
+adieu	1	0	0
+sans rir	1	0	0
+non serieux	1	0	0
+funebr	1	0	0
+malef	1	0	0
+aneant	1	0	0
+cas depart	1	0	0
+esperon	1	0	0
+beaucoup de mal	1	0	0
+mauvais ide	1	0	0
+lamin	1	0	0
+fad	1	0	0
+sans saveur	1	0	0
+sans couleur	1	0	0
+aton	1	0	0
+destructric	1	0	0
+cens	1	0	0
+trop compliqu	1	0	0
+gagn pet	1	0	0
+malfrat	1	0	0
+dissous	1	0	0
+hop	1	0	0
+plus grav	1	0	0
+mascarad	1	0	0
+rigolad	1	0	0
+rigolo	1	0	0
+pas marr	1	0	0
+pas rigolo	1	0	0
+pas diger	1	0	0
+suppress de post	1	0	0
+aboi	1	0	0
+delug	1	0	0
+deriv	1	0	0
+enfum	1	0	0
+enfumag	1	0	0
+pas compr	1	0	0
+pas encore compr	1	0	0
+postur	1	0	0
+essai de croir	1	0	0
+fantais	1	0	0
+fair sembl	1	0	0
+fait sembl	1	0	0
+fais sembl	1	0	0
+clown	1	0	0
+ni l'autre	1	0	0
+mauvais attitud	1	0	0
+sans aucun interet	1	0	0
+bon gestion	0	0	1
+etre un grand	0	0	1
+bon etat	0	0	1
+tres bon etat	0	0	1
+accord	0	0	1
+bel ambianc	0	0	1
+bon ambianc	0	0	1
+detendu	0	0	1
+convict	0	0	1
+seduct	0	0	1
+seducteur	0	0	1
+charism	0	0	1
+charismat	0	0	1
+effet posit	0	0	1
+don	0	0	1
+perspect	0	0	1
+win	0	0	1
+ide lumin	0	0	1
+superb ide	0	0	1
+rien a cach	0	0	1
+trankil	0	0	1
+etre d'accord	0	0	1
+fair rev	0	0	1
+fait rev	0	0	1
+font rev	0	0	1
+port ouvert	0	0	1
+assum ses respons	0	0	1
+assum sa respons	0	0	1
+don envi	0	0	1
+sans trucag	0	0	1
+sans truqu	0	0	1
+don suit	0	0	1
+repons rapid	0	0	1
+s'amus	0	0	1
+pas de regret	0	0	1
+vrai pas mal	0	0	1
+rest modest	0	0	1
+bon vision	0	0	1
+bon sen	0	0	1
+savoir vivr	0	0	1
+art de vivr	0	0	1
+revolutionnair	0	0	1
+mieux adapt	0	0	1
+ardamment	0	0	1
+astuc	0	0	1
+vaut le coup	0	0	1
+vaut la pein	0	0	1
+bijoux	0	0	1
+pet bijou	0	0	1
+tres beau	0	0	1
+pas decu	0	0	1
+pas decev	0	0	1
+finess	0	0	1
+fluidit	0	0	1
+pas gen	0	0	1
+techniqu	0	0	1
+rien a craindr	0	0	1
+impec	0	0	1
+detent	0	0	1
+fair plais	0	0	1
+craindr	1	0	0
+irraison	1	0	0
+rien	1	0	0
+seul	1	0	0
+cul	1	0	0
+mauvais gestion	1	0	0
+tomb	1	0	0
+tacl	1	0	0
+suff pas	1	0	0
+suspendr	1	0	0
+suspendu	1	0	0
+enfoir	1	0	0
+dram	1	0	0
+dramat	1	0	0
+blagu	1	0	0
+mauv etat	1	0	0
+etat tres mauv	1	0	0
+oui mais	1	0	0
+loin d'etre	1	0	0
+ouvr les yeux	1	0	0
+remettr en caus	1	0	0
+mettr en caus	1	0	0
+vrai problem	1	0	0
+grand problem	1	0	0
+gros problem	1	0	0
+pas dign	1	0	0
+contresen	1	0	0
+contre sen	1	0	0
+bien mais	1	0	0
+aucun experient	1	0	0
+recid	1	0	0
+rechut	1	0	0
+muet	1	0	0
+sourd muet	1	0	0
+blagu du jour	1	0	0
+funeraill	1	0	0
+escroqu	1	0	0
+devient ridicul	1	0	0
+pas la pein	1	0	0
+profiteur	1	0	0
+period difficil	1	0	0
+moment difficil	1	0	0
+sert a rien	1	0	0
+risibl	1	0	0
+peut mieux fair	1	0	0
+peut fair mieux	1	0	0
+peuvent mieux fair	1	0	0
+peuvent fair mieux	1	0	0
+ironis	1	0	0
+boulet	1	0	0
+depos plaint	1	0	0
+mauvais vision	1	0	0
+pas adapt	1	0	0
+pir que prevu	1	0	0
+torchon brul	1	0	0
+pas agreabl	1	0	0
+atmospher tendu	1	0	0
+oppotun	1	0	0
+decus	1	0	0
+coup dur	1	0	0
+song	1	0	0
+pas reactif	1	0	0
+peu reactif	1	0	0
+bon perform	0	0	1
+bel perform	0	0	1
+rend uniqu	0	0	1
+rendent uniqu	0	0	1
+whaou	0	0	1
+regret en rien	0	0	1
+tres content	0	0	1
+tres heureux	0	0	1
+satisfact	0	0	1
+satisfait	0	0	1
+complet	0	0	1
+qualit exceptionnel	0	0	1
+tres solid	0	0	1
+top	0	0	1
+addict	0	0	1
+bien soign	0	0	1
+nombreux fonctionnal	0	0	1
+reactif	0	0	1
+reactiv	0	0	1
+facil d'utilis	0	0	1
+parm les meilleur	0	0	1
+adher	0	0	1
+adherent	0	0	1
+rien a dir	0	0	1
+aucun defaut	0	0	1
+must	0	0	1
+beaucoup mieux	0	0	1
+encore mieux	0	0	1
+multitach	0	0	1
+mult tach	0	0	1
+exempl reuss	0	0	1
+assez lourd	1	0	0
+rien avoir	1	0	0
+hic	1	0	0
+moins beau	1	0	0
+moins interess	1	0	0
+lenteur	1	0	0
+tomb en pann	1	0	0
+pas dot	1	0	0
+pas conform	1	0	0
+tout en un	0	0	1
+deux en un	0	0	1
+%-)	0	0	1
+(-:	0	0	1
+(:	0	0	1
+(^ ^)	0	0	1
+(^-^)	0	0	1
+(^.^)	0	0	1
+(^_^)	0	0	1
+(o:	0	0	1
+*\o/*	0	0	1
+--^--@	0	0	1
+0:)	0	0	1
+8)	0	0	1
+:)	0	0	1
+:-)	0	0	1
+:-*	0	0	1
+:-D	0	0	1
+:-P	0	0	1
+:-}	0	0	1
+:3	0	0	1
+:9	0	0	1
+:D	0	0	1
+:P	0	0	1
+:X	0	0	1
+:]	0	0	1
+:b)	0	0	1
+:o)	0	0	1
+:p	0	0	1
+:Þ	0	0	1
+;^)	0	0	1
+<3	0	0	1
+=)	0	0	1
+=]	0	0	1
+>:)	0	0	1
+>:D	0	0	1
+>=D	0	0	1
+@}->--	0	0	1
+XD	0	0	1
+xp	1	0	0
+^_^	0	0	1
+x3?	0	0	1
+xD	0	0	1
+|D	0	0	1
+}:)	0	0	1
+%-(	1	0	0
+)-:	1	0	0
+):	1	0	0
+)o:	1	0	0
+38*	1	0	0
+8-0	1	0	0
+8/	1	0	0
+8	1	0	0
+8c	1	0	0
+:#	1	0	0
+:'(	1	0	0
+:'-(	1	0	0
+:(	1	0	0
+:*(	1	0	0
+:-&	1	0	0
+:-(	1	0	0
+:-(o)	1	0	0
+:-/	1	0	0
+:-S	1	0	0
+:-|	1	0	0
+:/	1	0	0
+:E	1	0	0
+:F	1	0	0
+:O	1	0	0
+:S	1	0	0
+:[	1	0	0
+:_(	1	0	0
+:o(	1	0	0
+:s	1	0	0
+:|	1	0	0
+</3-1	1	0	0
+<o<	1	0	0
+=(	1	0	0
+=[	1	0	0
+>/	1	0	0
+>:(	1	0	0
+>:L	1	0	0
+>:O	1	0	0
+>[	1	0	0
+>o>	1	0	0
+B(	1	0	0
+Bc	1	0	0
+D:	1	0	0
+X(	1	0	0
+X-(	1	0	0
+XO	1	0	0
+^o)	1	0	0
+xP	1	0	0
+|8C	1	0	0
+|8c	1	0	0
+♥	0	0	1

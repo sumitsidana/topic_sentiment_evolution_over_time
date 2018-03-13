@@ -1,0 +1,4032 @@
+0	1	2
+accessible	0	0	1
+accessibilité	0	0	1
+accommodant	0	0	1
+accomplir	0	0	1
+accomplissement	0	0	1
+précis	0	0	1
+exact	0	0	1
+exactitude	0	0	1
+réalisable	0	0	1
+réaliste	0	0	1
+adaptable	0	0	1
+adaptatif	0	0	1
+adéquat	0	0	1
+réglable	0	0	1
+regretter pas	0	0	1
+admirable	0	0	1
+admiration	0	0	1
+admirer	0	0	1
+admirateur	0	0	1
+admirant	0	0	1
+adorable	0	0	1
+adorer	0	0	1
+adoration	0	0	1
+adroit	0	0	1
+adroitement	0	0	1
+aduler	0	0	1
+adulation	0	0	1
+avancé	0	0	1
+avantage	0	0	1
+avantageux	0	0	1
+aventureux	0	0	1
+défenseur	0	0	1
+affabilité	0	0	1
+affable	0	0	1
+affection	0	0	1
+affectueux	0	0	1
+affinité	0	0	1
+abordable	0	0	1
+affordable	0	0	1
+agile	0	0	1
+agilement	0	0	1
+agilité	0	0	1
+agréable	0	0	1
+amabilité	0	0	1
+agréablement	0	0	1
+séduisant	0	0	1
+altruiste	0	0	1
+ambitieux	0	0	1
+aimable	0	0	1
+amiable	0	0	1
+amitié	0	0	1
+amplement	0	0	1
+amuser	0	0	1
+amusant	0	0	1
+ange	0	0	1
+angélique	0	0	1
+applaudir	0	0	1
+appréciable	0	0	1
+apprécier	0	0	1
+reconnaissant	0	0	1
+approprié	0	0	1
+approbation	0	0	1
+approuver	0	0	1
+ardent	0	0	1
+ardemment	0	0	1
+ardeur	0	0	1
+assurance	0	0	1
+assurer	0	0	1
+assurément	0	0	1
+assurant	0	0	1
+astucieux	0	0	1
+attentif	0	0	1
+attraction	0	0	1
+attractif	0	0	1
+joliment	0	0	1
+joli	0	0	1
+audible	0	0	1
+augure	0	0	1
+authentique	0	0	1
+autorité	0	0	1
+autonome	0	0	1
+disponible	0	0	1
+prix	0	0	1
+impressionné	0	0	1
+génial	0	0	1
+émerveillé	0	0	1
+équilibré	0	0	1
+aubaine	0	0	1
+belle	0	0	1
+magnifique	0	0	1
+beauté	0	0	1
+crédible	0	0	1
+bien aimé	0	0	1
+bienfaiteur	0	0	1
+bienfaisant	0	0	1
+bénéfique	0	0	1
+véritable	0	0	1
+bénéficiaire	0	0	1
+bénéficier	0	0	1
+bienveillance	0	0	1
+meilleur	0	0	1
+mieux	0	0	1
+pas mieux	1	0	0
+pas pire	0	0	1
+plus performant	0	0	1
+best seller	0	0	1
+mieux que prévu	0	0	1
+superbe	0	0	1
+irréprochable	0	0	1
+bénir	0	0	1
+bénédiction	0	0	1
+joyeux	0	0	1
+joyeuse	0	0	1
+fleur	0	0	1
+renforcer	0	0	1
+essor	0	0	1
+plein essor	0	0	1
+généreux	0	0	1
+neuf	0	0	1
+bravo	0	0	1
+essoufflement	0	0	1
+couper le souffle	0	0	1
+pas de souci	0	0	1
+aucun souci	0	0	1
+pas de problème	0	0	1
+aucun problème	0	0	1
+lumineux	0	0	1
+brillant	0	0	1
+éclat	0	0	1
+brillamment	0	0	1
+soutenu	0	0	1
+fraternel	0	0	1
+calmer	0	0	1
+calm	0	0	1
+capacité	0	0	1
+capable	0	0	1
+habilement	0	0	1
+captiver	0	0	1
+captivant	0	0	1
+insouciant	1	0	0
+accrocheur	0	0	1
+célébrer	0	0	1
+célébration	0	0	1
+champion	0	0	1
+bienfaisance	0	0	1
+charme	0	0	1
+charmant	0	0	1
+moins cher	0	0	1
+encourager	0	0	1
+gaie	0	0	1
+chérir	0	0	1
+chéri	0	0	1
+chérubin	0	0	1
+chic	0	0	1
+chevaleresque	0	0	1
+chevalerie	0	0	1
+civilité	0	0	1
+civiliser	0	0	1
+clarté	0	0	1
+classe	0	0	1
+pas classe	1	0	0
+nettoyer	0	0	1
+propre	0	0	1
+propreté	0	0	1
+proprement	0	0	1
+clair	0	0	1
+cohérent	0	0	1
+cohérence	0	0	1
+cohésif	0	0	1
+coloré	0	0	1
+confort	0	0	1
+confortable	0	0	1
+réconfortant	0	0	1
+féliciter	0	0	1
+louable	0	0	1
+commode	0	0	1
+compact	0	0	1
+compassion	0	0	1
+compatible	0	0	1
+compliment	0	0	1
+gratuit	0	0	1
+concilier	0	0	1
+concis	0	0	1
+confiance	0	0	1
+confiant	0	0	1
+sympathique	0	0	1
+félicitation	0	0	1
+consciencieux	0	0	1
+conforme	0	0	1
+constructif	0	0	1
+contentement	0	0	1
+commodité	0	0	1
+avantageusement	0	0	1
+convient	0	0	1
+convaincre	0	0	1
+convaincant	0	0	1
+cool	0	0	1
+pas cool	1	0	0
+coopératif	0	0	1
+correct	0	0	1
+correctement	0	0	1
+rentable	0	0	1
+courage	0	0	1
+courageux	0	0	1
+courtois	0	0	1
+courtoisie	0	0	1
+alliance	0	0	1
+créateur	0	0	1
+innovation	0	0	1
+créatrice	0	0	1
+crédibilité	0	0	1
+croustillant	0	0	1
+best	0	0	1
+love	0	0	1
+rock	0	0	1
+mignon	0	0	1
+mignonne	0	0	1
+gentillesse	0	0	1
+audacieux	1	0	0
+audacieusement	1	0	0
+intrépide	0	0	1
+aube	0	0	1
+éblouir	0	0	1
+ébloui	0	0	1
+éblouissant	0	0	1
+pas cher	0	0	1
+décence	0	0	1
+décent	0	0	1
+déférence	0	0	1
+habile	0	0	1
+délectable	0	0	1
+délicatesse	0	0	1
+délicat	1	0	0
+délicieux	0	0	1
+délicieuse	0	0	1
+délice	0	0	1
+ravi	0	0	1
+envoûtant	0	0	1
+fiable	0	0	1
+mérité	0	0	1
+souhaitable	0	0	1
+désirant	0	0	1
+désireux	0	0	1
+dextérité	0	0	1
+digne	0	0	1
+dignité	0	0	1
+diplomatique	0	0	1
+diversifiée	0	0	1
+divin	0	0	1
+divinement	0	0	1
+dote	0	0	1
+dreamland	0	0	1
+merveille	0	0	1
+durable	0	0	1
+dynamique	0	0	1
+avec impatience	0	0	1
+sincèrement	0	0	1
+sérieux	0	0	1
+pas sérieux	1	0	0
+faciliter	0	0	1
+assouplir	0	0	1
+plus facile	0	0	1
+facilité	0	0	1
+facile	0	0	1
+facile à utiliser	0	0	1
+exubérance	0	0	1
+exubérant	0	0	1
+économique	0	0	1
+extase	0	0	1
+extatique	0	0	1
+éduqués	0	0	1
+efficace	0	0	1
+efficacité	0	0	1
+exalter	0	0	1
+exalté	0	0	1
+exaltation	0	0	1
+élégance	0	0	1
+élégant	0	0	1
+élégamment	0	0	1
+bien élevé	0	0	1
+mal élevé	1	0	0
+élite	0	0	1
+éloquence	0	0	1
+éloquent	0	0	1
+éminence	0	0	1
+éminent	0	0	1
+empathie	0	0	1
+enchanter	0	0	1
+enchanté	0	0	1
+enchanteur	0	0	1
+ravir	0	0	1
+encouragement	0	0	1
+encourageant	0	0	1
+aimer	0	0	1
+attachant	0	0	1
+approuvé	0	0	1
+endossement	0	0	1
+approuve	0	0	1
+approuvant	0	0	1
+énergique	0	0	1
+dynamiser	0	0	1
+économie d'énergie	0	0	1
+engager	0	0	1
+renforcé	0	0	1
+amélioration	0	0	1
+apprécié	0	0	1
+jouissance	0	0	1
+jouir	0	0	1
+bénéfice	0	0	1
+éclairer	0	0	1
+illumination	0	0	1
+suffisamment	0	0	1
+enrichir	0	0	1
+enrichissement	0	0	1
+riche	0	0	1
+divertir	0	0	1
+divertissant	0	0	1
+passionner	0	0	1
+captivé	0	0	1
+enthousiasme	0	0	1
+enthousiaste	0	0	1
+attiré	0	0	1
+confier	0	0	1
+enviable	0	0	1
+envie	0	0	1
+envier	0	0	1
+équitable	0	0	1
+ergonomique	0	0	1
+éthique	0	0	1
+éloge	0	0	1
+euphorie	0	0	1
+euphorique	0	0	1
+mouvementé	0	0	1
+exaltant	0	0	1
+exemplaire	0	0	1
+excellent	0	0	1
+supérieur	0	0	1
+exceller	0	0	1
+excellant	0	0	1
+excellence	0	0	1
+exceptionnel	0	0	1
+exceptionnellement	0	0	1
+exciter	0	0	1
+excitation	0	0	1
+émoustiller	0	0	1
+grisant	0	0	1
+rapide	0	0	1
+expert	0	0	1
+exquis	0	0	1
+extraordinaire	0	0	1
+triomphal	0	0	1
+fabuleux	0	0	1
+fabuleusement	0	0	1
+juste	0	0	1
+assez	0	0	1
+foi	0	0	1
+fidèle	0	0	1
+fidèlement	0	0	1
+fidélité	0	0	1
+renommée	0	0	1
+célèbre	0	0	1
+amateur	1	0	0
+fantastique	0	0	1
+fascinant	0	0	1
+fascination	0	0	1
+plus rapide	0	0	1
+sans faille	0	0	1
+faveur	0	0	1
+favorable	0	0	1
+favori	0	0	1
+favoris	0	0	1
+favoriser	0	0	1
+faisable	0	0	1
+exploit	0	0	1
+riche en fonctionnalités	0	0	1
+fougueux	0	0	1
+heureux	0	0	1
+heureuse	0	0	1
+fertile	0	0	1
+fervent	0	0	1
+avec ferveur	0	0	1
+fervente	0	0	1
+ferveur	0	0	1
+festif	0	0	1
+festive	0	0	1
+fin	0	0	1
+finement	0	0	1
+première classe	0	0	1
+entrée de gamme	1	0	0
+haute gamme	0	0	1
+flatter	1	0	0
+flatteur	1	0	0
+flatteuse	0	0	1
+impeccable	0	0	1
+parfaitement	0	0	1
+souplesse	0	0	1
+souple	0	0	1
+épanouir	0	0	1
+florissant	0	0	1
+penchant	0	0	1
+infaillible	0	0	1
+prévoyance	0	0	1
+formidable	0	0	1
+force	0	0	1
+chance	0	0	1
+heureusement	0	0	1
+fortune	0	0	1
+parfumé	0	0	1
+libéré	0	0	1
+liberté	0	0	1
+fraîcheur	0	0	1
+convivialité	0	0	1
+amicale	0	0	1
+économe	0	0	1
+fructueux	0	0	1
+ftw	0	0	1
+gaieté	0	0	1
+gaiement	0	0	1
+gagner	0	0	1
+rémunérateur	0	0	1
+rémunérer	0	0	1
+gain	0	0	1
+galant	0	0	1
+galamment	0	0	1
+geek	0	0	1
+bijou	0	0	1
+gemmes	0	0	1
+perle	0	0	1
+perle rare	0	0	1
+générosité	0	0	1
+généreusement	0	0	1
+genial	0	0	1
+génie	0	0	1
+douce	0	0	1
+doux	0	0	1
+doué	0	0	1
+content	0	0	1
+réjouir	0	0	1
+allégresse	0	0	1
+glamour	0	0	1
+allègre	0	0	1
+joyeusement	0	0	1
+lueur	0	0	1
+scintillant	0	0	1
+briller	0	0	1
+luisant	0	0	1
+paillette	0	0	1
+glorifier	0	0	1
+glorieux	0	0	1
+glorieusement	0	0	1
+gloire	0	0	1
+rougeoyant	0	0	1
+bon	0	0	1
+beau	0	0	1
+bonté	0	0	1
+grâce	0	0	1
+gracieux	0	0	1
+gracieusement	0	0	1
+gracieuse	0	0	1
+grand	0	0	1
+grandeur	0	0	1
+gratitude	0	0	1
+gratification	0	0	1
+satisfait	0	0	1
+gratifier	0	0	1
+satisfaire	0	0	1
+gratifiant	0	0	1
+grin	0	0	1
+garantir	0	0	1
+innocent	0	0	1
+sanctifié	0	0	1
+maniable	0	0	1
+grassement	0	0	1
+pratique	0	0	1
+bonheur	0	0	1
+plus résistant	0	0	1
+résistant	0	0	1
+harmonieuse	0	0	1
+harmonieux	0	0	1
+harmonieusement	0	0	1
+harmoniser	0	0	1
+harmonie	0	0	1
+progresser	0	0	1
+sain	0	0	1
+santé	0	0	1
+donner du courage	0	0	1
+donner le courage	0	0	1
+sincère	0	0	1
+chaleureusement	0	0	1
+ciel	0	0	1
+céleste	0	0	1
+utile	0	0	1
+aidant	0	0	1
+héros	0	0	1
+héroïque	0	0	1
+héroïquement	0	0	1
+héroïne	0	0	1
+héroïser	0	0	1
+heros	0	0	1
+bonne qualité	0	0	1
+mauvaise qualité	1	0	0
+qualité moyenne	1	0	0
+hilarant	0	0	1
+hommage	0	0	1
+honnête	0	0	1
+honnêteté	0	0	1
+honorer	0	0	1
+honorable	0	0	1
+honoré	0	0	1
+honorant	0	0	1
+espèrer	0	0	1
+accueillant	0	0	1
+étreindre	0	0	1
+inhumain	1	0	0
+humble	1	0	0
+humour	0	0	1
+humoristique	0	0	1
+idéal	0	0	1
+idéaliser	0	0	1
+idéalement	0	0	1
+idole	0	0	1
+éclairant	0	0	1
+illuminer	0	0	1
+illustrer	0	0	1
+immaculé	0	0	1
+impeccablement	0	0	1
+immense	0	0	1
+impartial	0	0	1
+impartialité	0	0	1
+passionné	0	0	1
+impressionner	0	0	1
+impressionnant	0	0	1
+améliorer	0	0	1
+amélioré	0	0	1
+incroyable	0	0	1
+incroyablement	0	0	1
+indulgence	0	0	1
+indulgent	0	0	1
+peu coûteux	0	0	1
+très coûteux	1	0	0
+infaillibilité	0	0	1
+influent	0	0	1
+ingénieux	0	0	1
+ingénieusement	0	0	1
+ingéniosité	0	0	1
+ingénu	1	0	0
+naif	1	0	0
+naiveté	1	0	0
+innovant	0	0	1
+impressioné	0	0	1
+perspicace	0	0	1
+perspicacité	0	0	1
+inspiration	0	0	1
+inspirant	0	0	1
+inspirer	0	0	1
+instructif	0	0	1
+intelligent	0	0	1
+intelligence	0	0	1
+intelligible	0	0	1
+intéressant	0	0	1
+intérêt	0	0	1
+intimité	0	0	1
+intime	0	0	1
+intriguer	1	0	0
+intrigant	1	0	0
+curieusement	0	0	1
+curieux	0	0	1
+intuitif	0	0	1
+invincible	0	0	1
+inviolable	0	0	1
+invulnérable	0	0	1
+irrésistible	0	0	1
+irrésistiblement	0	0	1
+joie	0	0	1
+jubilatoire	0	0	1
+jubilation	0	0	1
+jubiliant	0	0	1
+judicieux	0	0	1
+vivement	0	0	1
+aimablement	0	0	1
+connaisseur	0	0	1
+grande capacité	0	0	1
+somptueux	0	0	1
+respecter la loi	0	0	1
+légal	0	0	1
+illégal	1	0	0
+légalement	0	0	1
+légèreté	0	0	1
+libérer	0	0	1
+libération	0	0	1
+liberaté	0	0	1
+sauveteur	0	0	1
+sauver	0	0	1
+aimé	0	0	1
+aime	0	0	1
+animer	0	0	1
+faible coût	0	0	1
+bas prix	0	0	1
+bon prix	0	0	1
+faible risque	0	0	1
+loyauté	0	0	1
+lucide	0	0	1
+lucidement	0	0	1
+plus de chance	0	0	1
+chanceux	0	0	1
+luxuriant	0	0	1
+lustre	0	0	1
+luxueux	0	0	1
+luxueusement	0	0	1
+lyrique	0	0	1
+magique	0	0	1
+magie	0	0	1
+magnificence	0	0	1
+magnifiquement	0	0	1
+majestueux	0	0	1
+majesté	0	0	1
+gérable	0	0	1
+merveilleux	0	0	1
+merveilleuse	0	0	1
+merveilleusement	0	0	1
+maître	0	0	1
+chef d'oeuvre	0	0	1
+chef d'œuvre	0	0	1
+maîtriser	0	0	1
+inégalable	0	0	1
+mûr	0	0	1
+maturité	0	0	1
+mature	0	0	1
+significatif	0	0	1
+mémorable	0	0	1
+miséricordieux	0	0	1
+merci	0	0	1
+mériter	0	0	1
+méritoire	0	0	1
+gai	0	0	1
+méticuleux	0	0	1
+méticuleusement	0	0	1
+puissance	0	0	1
+puissant	0	0	1
+hallucinant	0	0	1
+miracle	0	0	1
+miraculeux	0	0	1
+miraculeusement	0	0	1
+moderne	0	0	1
+modernité	0	0	1
+modeste	0	0	1
+modestie	0	0	1
+monumental	0	0	1
+monumentalement	0	0	1
+motiver	0	0	1
+polyvalent	0	0	1
+navigable	0	0	1
+bien	0	0	1
+noble	0	0	1
+noblement	0	0	1
+nouveauté	0	0	1
+oasis	0	0	1
+ouvertement	0	0	1
+ouverture d'esprit	0	0	1
+optimal	0	0	1
+optimisme	0	0	1
+optimiste	0	0	1
+originalité	0	0	1
+bien organisé	0	0	1
+mal organisé	1	0	0
+original	0	0	1
+surperformer	0	0	1
+surper	0	0	1
+surperformant	0	0	1
+performant	0	0	1
+performance	0	0	1
+sans douleur	0	0	1
+indolore	0	0	1
+panoramique	0	0	1
+paradis	0	0	1
+passion	0	0	1
+passionnément	0	0	1
+patience	0	0	1
+patient	0	0	1
+patiemment	0	0	1
+patriote	0	0	1
+patriotique	0	0	1
+paix	0	0	1
+pacifique	0	0	1
+parfait	0	0	1
+perfection	0	0	1
+admissible	0	0	1
+inadmissible	1	0	0
+persévérance	0	0	1
+persévérer	0	0	1
+personnage	0	0	1
+personnalisé	0	0	1
+phénoménal	0	0	1
+phénoménalement	0	0	1
+pittoresque	0	0	1
+piété	0	0	1
+sommet	0	0	1
+ludique	0	0	1
+plaît	0	0	1
+plaisir	0	0	1
+atout	0	0	1
+poétique	0	0	1
+poignant	0	0	1
+équilibre	0	0	1
+poli	0	0	1
+politesse	0	0	1
+populaire	0	0	1
+portable	0	0	1
+positif	0	0	1
+positivement	0	0	1
+louange	0	0	1
+louant	0	0	1
+précieux	0	0	1
+précisément	0	0	1
+préfèrer	0	0	1
+préférable	0	0	1
+préférence	0	0	1
+prestige	0	0	1
+prestigieux	0	0	1
+fierté	0	0	1
+privilège	0	0	1
+privilégié	0	0	1
+sans problème	0	0	1
+problème résolu	0	0	1
+prodigieux	0	0	1
+prodigieusement	0	0	1
+prodige	0	0	1
+productif	0	0	1
+compétent	0	0	1
+profond	0	0	1
+profondément	0	0	1
+progrès	0	0	1
+progressif	0	0	1
+prolifique	0	0	1
+proéminence	0	0	1
+promettant	0	0	1
+prometteur	0	0	1
+propice	0	0	1
+prospérer	0	0	1
+prospérité	0	0	1
+prospère	0	0	1
+protéger	0	0	1
+protection	0	0	1
+fier	0	0	1
+prouesse	0	0	1
+prudence	0	0	1
+prudent	0	0	1
+prudemment	0	0	1
+ponctuel	0	0	1
+pur	0	0	1
+purifier	0	0	1
+délibéré	0	0	1
+tranquille	0	0	1
+déplacé	1	0	0
+rayonnant	0	0	1
+ravissement	0	0	1
+rationnel	0	0	1
+lisible	0	0	1
+aisément	0	0	1
+raisonnable	0	0	1
+raisonnablement	0	0	1
+motivé	0	0	1
+rassurer	0	0	1
+réceptif	0	0	1
+récupérer	0	0	1
+recommander	0	0	1
+recommandation	0	0	1
+recommandé	0	0	1
+réconcilier	0	0	1
+réconciliation	0	0	1
+rafraîchissement	0	0	1
+rafraîchir	0	0	1
+rafraîchissant	0	0	1
+régal	0	0	1
+régaler	0	0	1
+royal	0	0	1
+réjouissance	0	0	1
+rajeunir	0	0	1
+rajeuni	0	0	1
+rajeunissement	0	0	1
+soulagement	0	0	1
+remède	0	0	1
+rémission	0	0	1
+réputation	0	0	1
+bonne réputation	0	0	1
+respectable	0	0	1
+respectueux	0	0	1
+respectueusement	0	0	1
+resplendissant	0	0	1
+responsable	0	0	1
+irresponsable	1	0	0
+répondre à mes besoins	0	0	1
+répondre aux besoins	0	0	1
+revitaliser	0	0	1
+revivre	0	0	1
+ravive	0	0	1
+récompenser	0	0	1
+richesse	0	0	1
+plus riche	0	0	1
+richement	0	0	1
+droit	0	0	1
+vertueusement	0	0	1
+vertueux	0	0	1
+justice	0	0	1
+légitimement	0	0	1
+légitime	0	0	1
+juste titre	0	0	1
+justesse	0	0	1
+sans risque	0	0	1
+sur	0	0	1
+robuste	0	0	1
+rock star	0	0	1
+rockstar	0	0	1
+romantique	0	0	1
+romantiquement	0	0	1
+romance	0	0	1
+spacieuse	0	0	1
+spacieux	0	0	1
+rose	0	0	1
+sécurité	0	0	1
+insécurité	1	0	0
+sage	0	0	1
+salutaire	0	0	1
+saluer	0	0	1
+satisfaisant	0	0	1
+sauveur	0	0	1
+transparent	0	0	1
+respect de soi	0	0	1
+autosatisfaction	0	0	1
+autosuffisance	0	0	1
+autosuffisant	0	0	1
+sensationnel	0	0	1
+sensation	0	0	1
+sensé	0	0	1
+insensé	1	0	0
+judicieusement	0	0	1
+sensible	0	0	1
+serein	0	0	1
+sérénité	0	0	1
+sexy	0	0	1
+nette	0	0	1
+net	0	0	1
+simple	1	0	0
+simpliste	1	0	0
+simplifié	0	0	1
+simplifier	0	0	1
+sincérité	0	0	1
+compétence	0	0	1
+intelligemment	0	0	1
+plus intelligent	0	0	1
+sourire	0	0	1
+souriant	0	0	1
+lisser	0	0	1
+lisse	0	0	1
+adoucit	0	0	1
+adoucir	0	0	1
+douceur	0	0	1
+sociable	0	0	1
+sollicitude	0	0	1
+solide	0	0	1
+solidarité	0	0	1
+apaiser	0	0	1
+apaisant	0	0	1
+sophistiqué	0	0	1
+solidité	0	0	1
+spectaculaire	0	0	1
+spectaculairement	0	0	1
+rapidement	0	0	1
+splendide	0	0	1
+splendeur	0	0	1
+spontané	0	0	1
+sportif	0	0	1
+enjoué	0	0	1
+stabilité	0	0	1
+stabiliser	0	0	1
+stable	0	0	1
+inoxydable	0	0	1
+fermeté	0	0	1
+inébranlable	0	0	1
+plus stable	0	0	1
+constance	0	0	1
+émouvant	0	0	1
+stylisé	0	0	1
+sublime	0	0	1
+subventionner	0	0	1
+réussir	0	0	1
+réussi	0	0	1
+succès	0	0	1
+réussite	0	0	1
+convenable	0	0	1
+convenablement	0	0	1
+somptueusement	0	0	1
+somptuosité	0	0	1
+super	0	0	1
+superbement	0	0	1
+supériorité	0	0	1
+soutenir	0	0	1
+partisan	0	0	1
+soutenant	0	0	1
+soutien	0	0	1
+prend en charge	0	0	1
+prise en charge	0	0	1
+suprématie	0	0	1
+suprême	0	0	1
+suprêmement	0	0	1
+survie	0	0	1
+survivant	0	0	1
+durabilité	0	0	1
+sucré	0	0	1
+gentiment	0	0	1
+gentil	0	0	1
+rapidité	0	0	1
+talent	0	0	1
+talentueux	0	0	1
+alléchant	0	0	1
+pas terrible	1	0	0
+tenace	0	0	1
+ténacité	0	0	1
+tendre	0	0	1
+tendrement	0	0	1
+opportun	0	0	1
+tolérable	0	0	1
+tolérance	0	0	1
+haut de gamme	0	0	1
+haut niveau	0	0	1
+dur	1	0	0
+plus simple	0	0	1
+tranquillité	0	0	1
+trésor	0	0	1
+énormément	0	0	1
+triomphe	0	0	1
+triomphant	0	0	1
+triomphalement	0	0	1
+trophée	0	0	1
+fiabilité	0	0	1
+digne de confiance	0	0	1
+abus de confiance	1	0	0
+véridique	0	0	1
+véracité	0	0	1
+imbattable	0	0	1
+sans condition	0	0	1
+intact	0	0	1
+compréhensible	0	0	1
+incontestable	0	0	1
+indiscutable	0	0	1
+indiscutablement	0	0	1
+incontesté	0	0	1
+sans équivoque	0	0	1
+imperturbable	0	0	1
+sans entraves	0	0	1
+inoubliable	0	0	1
+inégalé	0	0	1
+libre	0	0	1
+intéressé	1	0	0
+évolutif	0	0	1
+utilisable	0	0	1
+inutilisable	1	0	0
+convivial	0	0	1
+personnalisable	0	0	1
+personnaliser	0	0	1
+vaillant	0	0	1
+vaillamment	0	0	1
+valeur	0	0	1
+pas de valeur	1	0	0
+divers	0	0	1
+diverses	0	0	1
+vertu	0	0	1
+vérifiable	0	0	1
+Véritable	0	0	1
+polyvalence	0	0	1
+victorieux	0	0	1
+victoire	0	0	1
+vigilance	0	0	1
+vigilant	0	0	1
+vivacité	0	0	1
+vive	0	0	1
+daigne	0	0	1
+mépris	1	0	0
+mépriser	1	0	0
+dédaigner	1	0	0
+dédain	1	0	0
+réchauffer	0	0	1
+chaleureux	0	0	1
+chaleur	0	0	1
+bienvenue	0	0	1
+bienvenu	0	0	1
+accueil	0	0	1
+accueilir	0	0	1
+bien accueilli	0	0	1
+mal accueilli	1	0	0
+bonne intention	0	0	1
+bien être	0	0	1
+bien informé	0	0	1
+bien intentionné	0	0	1
+bien fait	0	0	1
+bien géré	0	0	1
+bien positionné	0	0	1
+bien reçu	0	0	1
+grandiose	0	0	1
+volonté	0	0	1
+lauréat	0	0	1
+gagnant	0	0	1
+remporter	0	0	1
+sagesse	0	0	1
+comique	1	0	0
+wow	0	0	1
+woow	0	0	1
+wooow	0	0	1
+woooow	0	0	1
+séduit	0	0	1
+séduire	0	0	1
+épater	0	0	1
+yay	0	0	1
+zeste	0	0	1
+chouette	0	0	1
+pas bien	1	0	0
+pas mal	0	0	1
+pas trop mal	0	0	1
+bien situé	0	0	1
+organisé	0	0	1
+conciliant	0	0	1
+trop bon	0	0	1
+stylé	0	0	1
+raffiné	0	0	1
+bourgeois	0	0	1
+familial	0	0	1
+décontracté	0	0	1
+très bon	0	0	1
+soigné	0	0	1
+particulièrement soigné	0	0	1
+réalisme	0	0	1
+point positif	0	0	1
+seul bémol	1	0	0
+maitrise	0	0	1
+grande qualité	0	0	1
+qualité	0	0	1
+ambiance	0	0	1
+innover	0	0	1
+fluide	0	0	1
+amour	0	0	1
+bon rapport	0	0	1
+bon compromis	0	0	1
+rien à redire	0	0	1
+rien à signaler	0	0	1
+rien à reprocher	0	0	1
+luxe	0	0	1
+petit prix	0	0	1
+art	0	0	1
+offre	0	0	1
+offrir	0	0	1
+cadeau	0	0	1
+nombreuses possibilités	0	0	1
+lumière	0	0	1
+bon investissement	0	0	1
+savoir faire	0	0	1
+longue longévité	0	0	1
+poésie	0	0	1
+pur bonheur	0	0	1
+pas méchant	0	0	1
+bien pensé	0	0	1
+déchirer	1	0	0
+vif	0	0	1
+viable	0	0	1
+fan	0	0	1
+pas fan	1	0	0
+implacable	1	0	0
+fashion	0	0	1
+égal	0	0	1
+égalité	0	0	1
+fraternité	0	0	1
+arriver premier	0	0	1
+solidaire	0	0	1
+ambition	0	0	1
+bonne nouvelle	0	0	1
+vrai	0	0	1
+présent	0	0	1
+présence	0	0	1
+constant	0	0	1
+homogène	0	0	1
+coeur	0	0	1
+soulager	0	0	1
+number one	0	0	1
+grace	0	0	1
+variés	0	0	1
+grand plaisir	0	0	1
+modèle réussi	0	0	1
+divertissement	0	0	1
+anormal	1	0	0
+abolir	1	0	0
+avorter	1	0	0
+annuler	1	0	0
+abominable	1	0	0
+horrible	1	0	0
+abominablement	1	0	0
+abominer	1	0	0
+abomination	1	0	0
+abandonner	1	0	0
+avorté	1	0	0
+avorte	1	0	0
+brusque	1	0	0
+brusquement	1	0	0
+prendre la fuite	1	0	0
+pris la fuite	1	0	0
+absence	1	0	0
+absent	1	0	0
+absurde	1	0	0
+absurdité	1	0	0
+absurdement	1	0	0
+abus	1	0	0
+abuser	1	0	0
+abusif	1	0	0
+épouvantable	1	0	0
+abîmer	1	0	0
+accidentel	1	0	0
+maudit	1	0	0
+accusation	1	0	0
+accusations	1	0	0
+accuser	1	0	0
+accuse	1	0	0
+accusant	1	0	0
+accusateur	1	0	0
+agiter	1	0	0
+troubler	1	0	0
+saccager	1	0	0
+piquant	1	0	0
+amer	1	0	0
+aigre	1	0	0
+acide	1	0	0
+affreux	1	0	0
+sauvage	1	0	0
+atroce	1	0	0
+grossier	1	0	0
+antipathique	1	0	0
+acerbe	1	0	0
+mal	1	0	0
+faisait mal	1	0	0
+fait mal	1	0	0
+faire mal	1	0	0
+douleur	1	0	0
+douloureux	1	0	0
+âcre	1	0	0
+acrimonieux	1	0	0
+acrimonie	1	0	0
+toxicomane	1	0	0
+toxicomanie	1	0	0
+intoxiqué	1	0	0
+intoxication	1	0	0
+intox	1	0	0
+averti	1	0	0
+avertir	1	0	0
+avertissement	1	0	0
+falsifier	1	0	0
+contrefaire	1	0	0
+frelaté	1	0	0
+falsification	1	0	0
+adultère	1	0	0
+contradictoire	1	0	0
+adversaire	1	0	0
+négatif	1	0	0
+adversité	1	0	0
+affliger	1	0	0
+attrister	1	0	0
+chagriner	1	0	0
+chagrin	1	0	0
+injurier	1	0	0
+rendre triste	1	0	0
+rendu triste	1	0	0
+peine	1	0	0
+mal de tristesse	1	0	0
+plaie	1	0	0
+crise	1	0	0
+malheur	1	0	0
+tribulation	1	0	0
+peur	1	0	0
+aggraver	1	0	0
+aggravant	1	0	0
+aggravation	1	0	0
+agression	1	0	0
+agressif	1	0	0
+agressivité	1	0	0
+agresseur	1	0	0
+lésée	1	0	0
+atterré	1	0	0
+agonie	1	0	0
+tourmente	1	0	0
+angoissant	1	0	0
+échoué	1	0	0
+échec	1	0	0
+en difficulté	1	0	0
+difficulté	1	0	0
+difficile	1	0	0
+maladie	1	0	0
+sans but	1	0	0
+sans rien	1	0	0
+perdre	1	0	0
+perdu	1	0	0
+tout perdu	1	0	0
+alarme	1	0	0
+alarmant	1	0	0
+aliéner	1	0	0
+aliéné	1	0	0
+fou	1	0	0
+furieux	1	0	0
+fou furieux	1	0	0
+aliénation	1	0	0
+allégation	1	0	0
+alléguer	1	0	0
+allergique	1	0	0
+allergie	1	0	0
+altercation	1	0	0
+querelle	1	0	0
+bagarre	1	0	0
+dispute	1	0	0
+chamaillerie	1	0	0
+prise de bec	1	0	0
+langue de bois	1	0	0
+langue du bois	1	0	0
+ambiguïté	1	0	0
+ambigu	1	0	0
+hésitation	1	0	0
+hésiter	1	0	0
+travers	1	0	0
+ambivalence	1	0	0
+ambivalent	1	0	0
+embuscade	1	0	0
+amputer	1	0	0
+anarchisme	1	0	0
+anarchiste	1	0	0
+anarchique	1	0	0
+anarchie	1	0	0
+anémique	1	0	0
+anémie	1	0	0
+colère	1	0	0
+avec colère	1	0	0
+angoisse	1	0	0
+animosité	1	0	0
+hostile	1	0	0
+hostilité	1	0	0
+agacer	1	0	0
+ennui	1	0	0
+désagrément	1	0	0
+ennuyé	1	0	0
+ennuyeux	1	0	0
+fâcheux	1	0	0
+fâcher	1	0	0
+anomalie	1	0	0
+antagonisme	1	0	0
+antagoniste	1	0	0
+contrarier	1	0	0
+racisme	1	0	0
+raciste	1	0	0
+anti sémite	1	0	0
+anti blanc	1	0	0
+antipathie	1	0	0
+paradoxal	1	0	0
+paradoxe	1	0	0
+inquiétude	1	0	0
+anxiété	1	0	0
+anxieux	1	0	0
+apathique	1	0	0
+apathie	1	0	0
+apocalypse	1	0	0
+apocalyptique	1	0	0
+épouvanter	1	0	0
+épouvantail	1	0	0
+consterné	1	0	0
+appréhension	1	0	0
+inquiet	1	0	0
+totalitaire	1	0	0
+archaïque	1	0	0
+ardu	1	0	0
+aigu	1	0	0
+rude	1	0	0
+draconien	1	0	0
+opaque	1	0	0
+arrogance	1	0	0
+arrogant	1	0	0
+honteux	1	0	0
+idiot	1	0	0
+méfiance	1	0	0
+noircir	1	0	0
+saler	1	0	0
+sale	1	0	0
+attaquer	1	0	0
+assassin	1	0	0
+assassiner	1	0	0
+assaut	1	0	0
+égaré	1	0	0
+tromper	1	0	0
+impossible	1	0	0
+flagrant	1	0	0
+grave	1	0	0
+laide	1	0	0
+brut	1	0	0
+effrayant	1	0	0
+sang	1	0	0
+brutal	1	0	0
+barbare	1	0	0
+atrocité	1	0	0
+attaque	1	0	0
+audace	1	0	0
+sombre	1	0	0
+fanatique	1	0	0
+boudeur	1	0	0
+autoritaire	1	0	0
+autocrate	1	0	0
+autocratique	1	0	0
+avalanche	1	0	0
+écrouler	1	0	0
+ruiner	1	0	0
+ruine	1	0	0
+effondrer	1	0	0
+effondrement	1	0	0
+avarice	1	0	0
+avare	1	0	0
+mesquine	1	0	0
+venger	1	0	0
+vengeance	1	0	0
+revanche	1	0	0
+haine	1	0	0
+horreur	1	0	0
+obsession	1	0	0
+bizarre	1	0	0
+bizarrerie	1	0	0
+mauvaise odeur	1	0	0
+mauvaise humeur	1	0	0
+nul	1	0	0
+maladroit	1	0	0
+maladresse	1	0	0
+bavard	1	0	0
+bavarder	1	0	0
+babillage	1	0	0
+mal au dos	1	0	0
+mal de tête	1	0	0
+maux de tête	1	0	0
+médire	1	0	0
+médisez	1	0	0
+médisance	1	0	0
+rétrograde	1	0	0
+réactionneire	1	0	0
+tiers monde	1	0	0
+mauvais	1	0	0
+gravement	1	0	0
+déflecter	1	0	0
+dévier	1	0	0
+déconcerté	1	0	0
+perplexité	1	0	0
+déroutant	1	0	0
+appeau	1	0	0
+banal	1	0	0
+banaliser	1	0	0
+fléau	1	0	0
+bannir	1	0	0
+bannissement	1	0	0
+faillite	1	0	0
+faire faillite	1	0	0
+barbarie	1	0	0
+stérile	1	0	0
+sans fondement	1	0	0
+sans réfléchir	1	0	0
+irréfléchi	1	0	0
+frapper	1	0	0
+défoncer	1	0	0
+timide	1	0	0
+dénigrer	1	0	0
+bâtard	1	0	0
+battu	1	0	0
+coup	1	0	0
+coup de coeur	0	0	1
+coup de foudre	1	0	0
+toqué	1	0	0
+dingue	1	0	0
+bouffon	1	0	0
+abruti	1	0	0
+maboul	1	0	0
+imbécile	1	0	0
+crétin	1	0	0
+têtu	1	0	0
+chahut	1	0	0
+chaos	1	0	0
+bruit	1	0	0
+bruyant	1	0	0
+bousculer	1	0	0
+bousculade	1	0	0
+vacarme	1	0	0
+souiller	1	0	0
+corrompre	1	0	0
+corrompu	1	0	0
+embrouiller	1	0	0
+polluer	1	0	0
+pollution	1	0	0
+salir	1	0	0
+ternir	1	0	0
+terne	1	0	0
+mêler	1	0	0
+mendier	1	0	0
+mendiant	1	0	0
+misérable	1	0	0
+mendicité	1	0	0
+stigmatiser	1	0	0
+tardif	1	0	0
+tardive	1	0	0
+démentir	1	0	0
+déprécier	1	0	0
+déplorer	1	0	0
+déplorant	1	0	0
+perplexe	1	0	0
+admonester	1	0	0
+reprocher	1	0	0
+blâmer	1	0	0
+déposséder	1	0	0
+deuil	1	0	0
+privé	1	0	0
+assaillir	1	0	0
+bestial	1	0	0
+avide de sang	1	0	0
+trahir	1	0	0
+trahison	1	0	0
+trompeur	1	0	0
+trompeuse	1	0	0
+traître	1	0	0
+trahi	1	0	0
+lamenter	1	0	0
+méfier	1	0	0
+déconcerter	1	0	0
+désorienter	1	0	0
+déconcertant	1	0	0
+préjugé	1	0	0
+biaiser	1	0	0
+biais	1	0	0
+chamailler	1	0	0
+truquage	1	0	0
+truquer	1	0	0
+bigoterie	1	0	0
+mordre	1	0	0
+mordant	1	0	0
+argent facile	1	0	0
+amèrement	1	0	0
+amertume	1	0	0
+jaser	1	0	0
+chantage	1	0	0
+blablabla	1	0	0
+bla	1	0	0
+blabla	1	0	0
+peu enthousiaste	1	0	0
+glacial	1	0	0
+blasphème	1	0	0
+foudroyé	1	0	0
+foudre	1	0	0
+foutre	1	0	0
+rien à foutre	1	0	0
+morne	1	0	0
+trouble	1	0	0
+troublant	1	0	0
+paumé	1	0	0
+pale	1	0	0
+paleux	1	0	0
+menacer	1	0	0
+menace	1	0	0
+pitoyable	1	0	0
+tristesse	1	0	0
+saigner	1	0	0
+saignement	1	0	0
+défaut	1	0	0
+aveugle	1	0	0
+aveuglant	1	0	0
+obstruction	1	0	0
+handicap	1	0	0
+entrave	1	0	0
+embarras	1	0	0
+embarrasser	1	0	0
+sanglant	1	0	0
+faire sauter	1	0	0
+confondre	1	0	0
+brouiller	1	0	0
+flou	1	0	0
+lâcher	1	0	0
+lache	1	0	0
+vantard	1	0	0
+frimer	1	0	0
+frimeur	1	0	0
+vanter	1	0	0
+faux	1	0	0
+ébullition	1	0	0
+tapage	1	0	0
+faire du tapage	1	0	0
+bombe	1	0	0
+bombarder	1	0	0
+bombardement	1	0	0
+kamikaze	1	0	0
+terroriste	1	0	0
+esclavage	1	0	0
+esclave	1	0	0
+cinglé	1	0	0
+ennuyer	1	0	0
+bousiller	1	0	0
+sans savoir	1	0	0
+saboter	1	0	0
+gêne	1	0	0
+dérangé	1	0	0
+dérangement	1	0	0
+déranger	1	0	0
+expurger	1	0	0
+censurer	1	0	0
+boycotter	1	0	0
+fanfaron	1	0	0
+lavage de cerveau	1	0	0
+impétueux	1	0	0
+indifférent	1	0	0
+extravageant	1	0	0
+impétuosité	1	0	0
+imprudent	1	0	0
+imprudence	1	0	0
+gamin	1	0	0
+moche	1	0	0
+bravade	1	0	0
+effronté	1	0	0
+violation	1	0	0
+violer	1	0	0
+briser	1	0	0
+panne	1	0	0
+rupture	1	0	0
+corruption	1	0	0
+souffrir	1	0	0
+souffert	1	0	0
+souffrance	1	0	0
+fragile	1	0	0
+cassé	1	0	0
+coeur brisé	1	0	0
+couvé	1	0	0
+intimider	1	0	0
+trauma	1	0	0
+mutilé	1	0	0
+mutilation	1	0	0
+offense	1	0	0
+choc	1	0	0
+choquer	1	0	0
+sous le choc	1	0	0
+brutalité	1	0	0
+brutalement	1	0	0
+punaise	1	0	0
+pute	1	0	0
+putain	1	0	0
+putin	1	0	0
+merde	1	0	0
+mince	1	0	0
+encombrement	1	0	0
+encombrer	1	0	0
+encombrant	1	0	0
+connerie	1	0	0
+bêtise	1	0	0
+fuck	1	0	0
+nique	1	0	0
+niquer	1	0	0
+intimidation	1	0	0
+clochard	1	0	0
+heurter	1	0	0
+cahoteux	1	0	0
+abrupt	1	0	0
+cochon	1	0	0
+cochonne	1	0	0
+fardeau	1	0	0
+surcharge	1	0	0
+pénible	1	0	0
+brûler	1	0	0
+brûlé	1	0	0
+brûlant	1	0	0
+brûlure	1	0	0
+caqueter	1	0	0
+calamité	1	0	0
+calamiteux	1	0	0
+diffamer	1	0	0
+vendre la mèche	1	0	0
+vend la mèche	1	0	0
+vendu la mèche	1	0	0
+calomnier	1	0	0
+calomnie	1	0	0
+calomnieux	1	0	0
+cancer	1	0	0
+cancéreux	1	0	0
+cannibale	1	0	0
+capricieux	1	0	0
+capricieusement	1	0	0
+caprice	1	0	0
+négliger	1	0	0
+négligence	1	0	0
+carnage	1	0	0
+massacre	1	0	0
+tuerie	1	0	0
+fustiger	1	0	0
+castré	1	0	0
+victime	1	0	0
+cataclysme	1	0	0
+cataclysmique	1	0	0
+catastrophe	1	0	0
+catastrophique	1	0	0
+accident	1	0	0
+holocauste	1	0	0
+caustique	1	0	0
+blâme	1	0	0
+déception	1	0	0
+chaotique	1	0	0
+châtier	1	0	0
+châtiment	1	0	0
+caca	1	0	0
+chier	1	0	0
+faire chier	1	0	0
+fais chier	1	0	0
+chiottes	1	0	0
+cher	1	0	0
+augmenter le prix	1	0	0
+arnaque	1	0	0
+tricher	1	0	0
+tricheur	1	0	0
+réprimander	1	0	0
+puéril	1	0	0
+enfantin	1	0	0
+étouffer	1	0	0
+colérique	1	0	0
+choléra	1	0	0
+houleux	1	0	0
+clameur	1	0	0
+cri	1	0	0
+crier	1	0	0
+hurler	1	0	0
+hurlement	1	0	0
+nuageux	1	0	0
+désemparer	1	0	0
+comploter	1	0	0
+complice	1	0	0
+connivence	1	0	0
+agitation	1	0	0
+commotion	1	0	0
+pas satisfait	1	0	0
+plaindre	1	0	0
+plaint	1	0	0
+plainte	1	0	0
+complexe	1	0	0
+complexité	1	0	0
+compliqué	1	0	0
+complication	1	0	0
+compulsion	1	0	0
+vanité	1	0	0
+vaniteux	1	0	0
+préoccupation	1	0	0
+coupable	1	0	0
+condamner	1	0	0
+condamnable	1	0	0
+condamnation	1	0	0
+conflit	1	0	0
+confondu	1	0	0
+confusion	1	0	0
+confronter	1	0	0
+affrontement	1	0	0
+conflictuel	1	0	0
+confus	1	0	0
+congestion	1	0	0
+contre	1	0	0
+pas pratique	1	0	0
+conspiration	1	0	0
+conspirer	1	0	0
+consternation	1	0	0
+terreur	1	0	0
+panique	1	0	0
+contagieux	1	0	0
+contaminer	1	0	0
+contamination	1	0	0
+méprisable	1	0	0
+méprisant	1	0	0
+contentieux	1	0	0
+contorsionner	1	0	0
+contorsion	1	0	0
+contredire	1	0	0
+contredit	1	0	0
+contradiction	1	0	0
+contrevenir	1	0	0
+envahir	1	0	0
+atteinte aux droits	1	0	0
+pas vrai	1	0	0
+corrompt	1	0	0
+coûteux	1	0	0
+contre productif	1	0	0
+putschiste	1	0	0
+cupide	1	0	0
+vorace	1	0	0
+lâche	1	0	0
+fissuré	1	0	0
+fissure	1	0	0
+crampe	1	0	0
+gêné	1	0	0
+excentrique	1	0	0
+atypique	1	0	0
+pas normal	1	0	0
+ridicule	1	0	0
+merdique	1	0	0
+écraser	1	0	0
+folie	1	0	0
+crédule	1	0	0
+terrifiant	1	0	0
+crime	1	0	0
+criminel	1	0	0
+paralyser	1	0	0
+estropié	1	0	0
+critique	1	0	0
+critiquer	1	0	0
+critiqué	1	0	0
+copinage	1	0	0
+escroc	1	0	0
+cruel	1	0	0
+cruellement	1	0	0
+cruauté	1	0	0
+effriter	1	0	0
+ficher le camp	1	0	0
+écrasé	1	0	0
+écrasement	1	0	0
+pleurer	1	0	0
+lourd	1	0	0
+chatte	1	0	0
+maudire	1	0	0
+malédiction	1	0	0
+cynique	1	0	0
+cynisme	1	0	0
+pessimiste	1	0	0
+pessimisme	1	0	0
+chicane	1	0	0
+moquer	1	0	0
+moquerie	1	0	0
+ironique	1	0	0
+ironie	1	0	0
+dommage	1	0	0
+dégât	1	0	0
+endommager	1	0	0
+détestable	1	0	0
+détester	1	0	0
+accablant	1	0	0
+damner	1	0	0
+danger	1	0	0
+dangereux	1	0	0
+dangerosité	1	0	0
+assombrir	1	0	0
+obscurité	1	0	0
+décourager	1	0	0
+intimidant	1	0	0
+très moyen	1	0	0
+retarder	1	0	0
+retard	1	0	0
+vertige	1	0	0
+vomir	1	0	0
+vomi	1	0	0
+envie de vomir	1	0	0
+mal au coeur	1	0	0
+mort	1	0	0
+mauvais payeur	1	0	0
+mortel	1	0	0
+sourd	1	0	0
+décès	1	0	0
+débâcle	1	0	0
+défaite	1	0	0
+pas à la hauteur	1	0	0
+pas si bon	1	0	0
+dévalorisation	1	0	0
+perdu sa valeur	1	0	0
+perdre sa valeur	1	0	0
+débile	1	0	0
+impuissance	1	0	0
+impuissant	1	0	0
+faible	1	0	0
+faiblesse	1	0	0
+dette	1	0	0
+décadence	1	0	0
+décadent	1	0	0
+pourri	1	0	0
+duplicité	1	0	0
+hypocrisie	1	0	0
+hypocrite	1	0	0
+délinquant	1	0	0
+délinquance	1	0	0
+incapable	1	0	0
+diffamation	1	0	0
+diffamations	1	0	0
+diffamatoire	1	0	0
+défectueux	1	0	0
+provocant	1	0	0
+provocateur	1	0	0
+déficience	1	0	0
+dysfonctionnement	1	0	0
+carence	1	0	0
+point faible	1	0	0
+profanateur	1	0	0
+déformer	1	0	0
+déformé	1	0	0
+fraude	1	0	0
+défunt	1	0	0
+dégénérer	1	0	0
+dégénérescence	1	0	0
+dégradation	1	0	0
+dégrader	1	0	0
+dégradant	1	0	0
+lent	1	0	0
+lambin	1	0	0
+louche	1	0	0
+chelou	1	0	0
+relou	1	0	0
+délirant	1	0	0
+délire	1	0	0
+illusion	1	0	0
+inondation	1	0	0
+délires	1	0	0
+avilissant	1	0	0
+démolir	1	0	0
+démon	1	0	0
+satan	1	0	0
+diable	1	0	0
+diabolique	1	0	0
+satanique	1	0	0
+démoniaque	1	0	0
+diaboliser	1	0	0
+démoraliser	1	0	0
+démoralisant	1	0	0
+dénégation	1	0	0
+dénier	1	0	0
+nier	1	0	0
+dénoncer	1	0	0
+salope	1	0	0
+dénonciation	1	0	0
+dénonciations	1	0	0
+épuiser	1	0	0
+déplorable	1	0	0
+déplorablement	1	0	0
+dépraver	1	0	0
+dérailler	1	0	0
+désapprouver	1	0	0
+déprimé	1	0	0
+déprimant	1	0	0
+dépression	1	0	0
+priver	1	0	0
+dérision	1	0	0
+dérisoire	1	0	0
+moqueur	1	0	0
+dénigrant	1	0	0
+profaner	1	0	0
+désolé	1	0	0
+désolation	1	0	0
+désespoir	1	0	0
+désespéré	1	0	0
+désespérément	1	0	0
+ignoble	1	0	0
+insignifiant	1	0	0
+indigne	1	0	0
+très mauvais	1	0	0
+infection	1	0	0
+tocard	1	0	0
+salaud	1	0	0
+malfaisant	1	0	0
+sordide	1	0	0
+nuisible	1	0	0
+nuit	1	0	0
+nuire	1	0	0
+néfaste	1	0	0
+malveillant	1	0	0
+malintentionné	1	0	0
+mal intentionné	1	0	0
+malpropre	1	0	0
+coquin	1	0	0
+crapule	1	0	0
+odieux	1	0	0
+sans charme	1	0	0
+fichu	1	0	0
+enculé	1	0	0
+enculer	1	0	0
+odieusement	1	0	0
+méprisé	1	0	0
+spolier	1	0	0
+spoliateur	1	0	0
+découragé	1	0	0
+déstabilisation	1	0	0
+déstabiliser	1	0	0
+dénué	1	0	0
+dénuement	1	0	0
+pauvreté	1	0	0
+misère	1	0	0
+pauvre	1	0	0
+malheureux	1	0	0
+paresseux	1	0	0
+paresse	1	0	0
+détruire	1	0	0
+destructeur	1	0	0
+destruction	1	0	0
+destructif	1	0	0
+détériorer	1	0	0
+détérioré	1	0	0
+détérioration	1	0	0
+détestablement	1	0	0
+détesté	1	0	0
+déteste	1	0	0
+porter atteinte	1	0	0
+dévaster	1	0	0
+dévasté	1	0	0
+dévastateur	1	0	0
+ravager	1	0	0
+ravageux	1	0	0
+dévastation	1	0	0
+déviation	1	0	0
+diablement	1	0	0
+diablerie	1	0	0
+malignité	1	0	0
+maligne	1	0	0
+malin	1	0	0
+bluffeur	1	0	0
+duper	1	0	0
+bluffer	1	0	0
+dépourvu	1	0	0
+dictateur	1	0	0
+dictatorial	1	0	0
+mourir	1	0	0
+intransigeant	1	0	0
+meurt	1	0	0
+problème	1	0	0
+dilemme	1	0	0
+gâcher	1	0	0
+saleté	1	0	0
+désaccord	1	0	0
+désavantage	1	0	0
+défavorisé	1	0	0
+désavantageux	1	0	0
+inconvénient	1	0	0
+mécontenter	1	0	0
+mécontent	1	0	0
+désavouer	1	0	0
+être en désaccord	1	0	0
+désagréable	1	0	0
+pas d'accord	1	0	0
+refuser	1	0	0
+déçu	1	0	0
+décevant	1	0	0
+décevoir	1	0	0
+déçoit	1	0	0
+désapprobation	1	0	0
+désapprobateur	1	0	0
+désarmer	1	0	0
+désarroi	1	0	0
+désastreux	1	0	0
+désastreusement	1	0	0
+désaveu	1	0	0
+incrédulité	1	0	0
+incrédule	1	0	0
+ne croire pas	1	0	0
+ne croire plus	1	0	0
+inconfort	1	0	0
+inconsolable	1	0	0
+mécontentement	1	0	0
+interrompu	1	0	0
+discontinuité	1	0	0
+discontinu	1	0	0
+discorde	1	0	0
+désordre	1	0	0
+discordant	1	0	0
+découragement	1	0	0
+décourageant	1	0	0
+discourtois	1	0	0
+discréditer	1	0	0
+discrimination	1	0	0
+discriminatoire	1	0	0
+dédaigné	1	0	0
+dédaigneux	1	0	0
+défaveur	1	0	0
+honte	1	0	0
+dégoût	1	0	0
+dégoûté	1	0	0
+dégoûtant	1	0	0
+malhonnête	1	0	0
+malhonnêteté	1	0	0
+déshonorer	1	0	0
+déshonorant	1	0	0
+désillusion	1	0	0
+manque de respect	1	0	0
+désintégrer	1	0	0
+désintégré	1	0	0
+désintégration	1	0	0
+désintéressement	1	0	0
+désintéressé	1	0	0
+ne aimer pas	1	0	0
+aimer pas	1	0	0
+n'aime pas	1	0	0
+aime pas	1	0	0
+ne pas aimer	1	0	0
+déloyal	1	0	0
+déloyauté	1	0	0
+lamentablement	1	0	0
+consternant	1	0	0
+dédaigneusement	1	0	0
+désobéissance	1	0	0
+désobéissant	1	0	0
+désobéir	1	0	0
+désordonnée	1	0	0
+désordonné	1	0	0
+désorganisé	1	0	0
+déboussolé	1	0	0
+rebelle	1	0	0
+renier	1	0	0
+rejeter	1	0	0
+déprimer	1	0	0
+déplaire	1	0	0
+disproportionné	1	0	0
+réfuter	1	0	0
+contestable	1	0	0
+contesté	1	0	0
+inquiétant	1	0	0
+fuyant	1	0	0
+suspect	1	0	0
+soupçonneux	1	0	0
+fausse	1	0	0
+irrespectueux	1	0	0
+irrespectueuse	1	0	0
+perturber	1	0	0
+perturbation	1	0	0
+perturbateur	1	0	0
+insatisfaction	1	0	0
+insatisfaisant	1	0	0
+dissension	1	0	0
+émeute	1	0	0
+division	1	0	0
+divergence	1	0	0
+divergeant	1	0	0
+contester	1	0	0
+contestation	1	0	0
+dissident	1	0	0
+bas de gamme	1	0	0
+dissidence	1	0	0
+fausser	1	0	0
+distorsion	1	0	0
+déforme	1	0	0
+détresse	1	0	0
+méfiant	1	0	0
+perturbé	1	0	0
+désunion	1	0	0
+dévaleur	1	0	0
+divergent	1	0	0
+étourdi	1	0	0
+branlant	1	0	0
+obstiné	1	0	0
+marasme	1	0	0
+régression	1	0	0
+paralysie	1	0	0
+perte	1	0	0
+condamné	1	0	0
+dope	1	0	0
+drogue	1	0	0
+shit	1	0	0
+doute	1	0	0
+douteux	1	0	0
+chute	1	0	0
+rétrograder	1	0	0
+ralentissement	1	0	0
+draconique	1	0	0
+crainte	1	0	0
+affaissement	1	0	0
+abandon	1	0	0
+sécheresse	1	0	0
+noyade	1	0	0
+ivre	1	0	0
+ivrogne	1	0	0
+alcoolique	1	0	0
+dubitatif	1	0	0
+dubitable	1	0	0
+sans valeur	1	0	0
+lourdaud	1	0	0
+lourdingue	1	0	0
+gourde	1	0	0
+dupe	1	0	0
+poussière	1	0	0
+poussiéreux	1	0	0
+train de mourir	1	0	0
+périr	1	0	0
+assourdissant	1	0	0
+effronterie	1	0	0
+bassesse	1	0	0
+hardi	1	0	0
+hardiesse	1	0	0
+impertinence	1	0	0
+égocentrique	1	0	0
+insociable	1	0	0
+manie	1	0	0
+égotisme	1	0	0
+égoïste	1	0	0
+égoïstement	1	0	0
+émasculer	1	0	0
+embarrassant	1	0	0
+mêlée	1	0	0
+mettre en danger	1	0	0
+mis en danger	1	0	0
+mise en danger	1	0	0
+mettre en péril	1	0	0
+met en péril	1	0	0
+mise en péril	1	0	0
+péril	1	0	0
+ennemi	1	0	0
+engloutir	1	0	0
+exterminer	1	0	0
+enrager	1	0	0
+rage	1	0	0
+asservir	1	0	0
+tendre au piège	1	0	0
+tendu un piège	1	0	0
+piégeage	1	0	0
+envieux	1	0	0
+pas envie	1	0	0
+épidémie	1	0	0
+érosion	1	0	0
+errant	1	0	0
+erratique	1	0	0
+erroné	1	0	0
+erreur	1	0	0
+éruption	1	0	0
+fuite en avant	1	0	0
+éluder	1	0	0
+évasion	1	0	0
+évasif	1	0	0
+maux	1	0	0
+exagérée	1	0	0
+exagérer	1	0	0
+exagération	1	0	0
+exaspérer	1	0	0
+exaspéré	1	0	0
+exaspérant	1	0	0
+exaspération	1	0	0
+excessif	1	0	0
+exclusion	1	0	0
+exil	1	0	0
+banir	1	0	0
+banissement	1	0	0
+expulser	1	0	0
+expulsion	1	0	0
+atrocement	1	0	0
+excuser	1	0	0
+excuse	1	0	0
+prétexte	1	0	0
+exécrer	1	0	0
+épuisé	1	0	0
+épuisement	1	0	0
+échappement	1	0	0
+échapper	1	0	0
+exorbitant	1	0	0
+exorbitance	1	0	0
+expirer	1	0	0
+expiré	1	0	0
+exploser	1	0	0
+exploiter	1	0	0
+exploitation	1	0	0
+explosif	1	0	0
+exproprier	1	0	0
+expropriation	1	0	0
+extermination	1	0	0
+éteindre	1	0	0
+extorquer	1	0	0
+retoquer	1	0	0
+extorsion	1	0	0
+extravagance	1	0	0
+extravagant	1	0	0
+extrémisme	1	0	0
+extrémiste	1	0	0
+fucking	1	0	0
+échouer	1	0	0
+échoue	1	0	0
+erreurs	1	0	0
+fausseté	1	0	0
+mensonge	1	0	0
+faussement	1	0	0
+famine	1	0	0
+affamé	1	0	0
+fanatisme	1	0	0
+farfelu	1	0	0
+grotesque	1	0	0
+incompatible	1	0	0
+fascisme	1	0	0
+fasciste	1	0	0
+fatal	1	0	0
+fataliste	1	0	0
+fatidique	1	0	0
+fatalement	1	0	0
+fatigue	1	0	0
+fatigué	1	0	0
+imbécillité	1	0	0
+stupide	1	0	0
+faute	1	0	0
+défauts	1	0	0
+effroyable	1	0	0
+férocement	1	0	0
+féroce	1	0	0
+férocité	1	0	0
+fétide	1	0	0
+fièvre	1	0	0
+fébrile	1	0	0
+fiasco	1	0	0
+menteur	1	0	0
+inconstant	1	0	0
+fiction	1	0	0
+agité	1	0	0
+crasseux	1	0	0
+impur	1	0	0
+coup de poing	1	0	0
+coup de pied	1	0	0
+coup de feu	1	0	0
+volage	1	0	0
+dupé	1	0	0
+bêtement	1	0	0
+interdire	1	0	0
+interdit	1	0	0
+interdiction	1	0	0
+abandonné	1	0	0
+grossièreté	1	0	0
+grincheux	1	0	0
+sot	1	0	0
+fracture	1	0	0
+fragmenté	1	0	0
+frénétique	1	0	0
+turbulent	1	0	0
+bouilli	1	0	0
+frénétiquement	1	0	0
+frauduleux	1	0	0
+flipper	1	0	0
+monstres	1	0	0
+frénésie	1	0	0
+effrayer	1	0	0
+effroyablement	1	0	0
+affreusement	1	0	0
+vain	1	0	0
+sans résultat	1	0	0
+sans issue	1	0	0
+frustrer	1	0	0
+frustré	1	0	0
+frustre	1	0	0
+frustrant	1	0	0
+frustration	1	0	0
+frustrations	1	0	0
+fugitif	1	0	0
+fumée	1	0	0
+froussard	1	0	0
+poltron	1	0	0
+drôlement	1	0	0
+furieusement	1	0	0
+scandale	1	0	0
+scandaleux	1	0	0
+fureur	1	0	0
+futile	1	0	0
+futilement	1	0	0
+futilité	1	0	0
+maigre	1	0	0
+irritant	1	0	0
+gangster	1	0	0
+vandale	1	0	0
+vandaliser	1	0	0
+voyou	1	0	0
+bandit	1	0	0
+ordure	1	0	0
+poubelle	1	0	0
+déchet	1	0	0
+génocide	1	0	0
+ghetto	1	0	0
+fantome	1	0	0
+charabia	1	0	0
+emmerdant	1	0	0
+bavardage	1	0	0
+papotage	1	0	0
+beaucoup de bruit	1	0	0
+inélégant	1	0	0
+pas sur	1	0	0
+cupidité	1	0	0
+grief	1	0	0
+griefs	1	0	0
+sinistre	1	0	0
+grimace	1	0	0
+coliques	1	0	0
+macabre	1	0	0
+grossièrement	1	0	0
+râleur	1	0	0
+raler	1	0	0
+grognement	1	0	0
+rancune	1	0	0
+rancoeur	1	0	0
+malveillance	1	0	0
+malice	1	0	0
+contrecœur	1	0	0
+contre cœur	1	0	0
+horriblement	1	0	0
+ruse	1	0	0
+bluff	1	0	0
+camouflage	1	0	0
+camoufler	1	0	0
+culpabilité	1	0	0
+pirater	1	0	0
+hacks	1	0	0
+malchanceux	1	0	0
+harceler	1	0	0
+harcelé	1	0	0
+harcèle	1	0	0
+harcèlement	1	0	0
+bémol	1	0	0
+durcir	1	0	0
+difficultés	1	0	0
+durement	1	0	0
+tracas	1	0	0
+harcelés	1	0	0
+souci	1	0	0
+plein de problèmes	1	0	0
+beaucoup de problèmes	1	0	0
+plein de soucis	1	0	0
+haineusement	1	0	0
+haïsseur	1	0	0
+ennemis	1	0	0
+hait	1	0	0
+haïssant	1	0	0
+dégâts	1	0	0
+guerre	1	0	0
+brouillard	1	0	0
+mauvais temps	1	0	0
+beau temps	0	0	1
+soleil	0	0	1
+ensoleillé	0	0	1
+brumeux	1	0	0
+zut	1	0	0
+chahuter	1	0	0
+chahuté	1	0	0
+enfer	1	0	0
+trublion	1	0	0
+morbide	1	0	0
+choquant	1	0	0
+hideux	1	0	0
+hideusement	1	0	0
+hideur	1	0	0
+prix élevé	1	0	0
+trop cher	1	0	0
+obstacle	1	0	0
+canular	1	0	0
+rumeur	1	0	0
+creux	1	0	0
+hooligan	1	0	0
+sans espoir	1	0	0
+impossibilité	1	0	0
+horrifiée	1	0	0
+horrifier	1	0	0
+otage	1	0	0
+hostilités	1	0	0
+humilier	1	0	0
+humiliant	1	0	0
+humiliation	1	0	0
+bourdonnement	1	0	0
+blessant	1	0	0
+blesser	1	0	0
+hystérie	1	0	0
+hystérique	1	0	0
+hystériquement	1	0	0
+crise de nerfs	1	0	0
+idiotie	1	0	0
+ignorance	1	0	0
+ignorant	1	0	0
+ignorer	1	0	0
+mal conçu	1	0	0
+mal défini	1	0	0
+mal fait	1	0	0
+laid	1	0	0
+mal formé	1	0	0
+mal éduqué	1	0	0
+méchant	1	0	0
+mal classé	1	0	0
+mauvais traitement	1	0	0
+mauvais usage	1	0	0
+mal employé	1	0	0
+illégalement	1	0	0
+illégitime	1	0	0
+illicite	1	0	0
+analphabète	1	0	0
+illogique	1	0	0
+illogiquement	1	0	0
+mirage	1	0	0
+illusoire	1	0	0
+déséquilibre	1	0	0
+imbroglio	1	0	0
+immodéré	1	0	0
+immodérément	1	0	0
+immodeste	1	0	0
+immoral	1	0	0
+immoralement	1	0	0
+imparfait	1	0	0
+imperfection	1	0	0
+imparfaitement	1	0	0
+impérialiste	1	0	0
+répression	1	0	0
+impertinent	1	0	0
+impétueusement	1	0	0
+impiété	1	0	0
+invraisemblable	1	0	0
+impoli	1	0	0
+impoliment	1	0	0
+monotone	1	0	0
+non souhaitable	1	0	0
+insupportable	1	0	0
+intrus	1	0	0
+inconvenant	1	0	0
+importun	1	0	0
+importuner	1	0	0
+imposer	1	0	0
+imposition	1	0	0
+impossiblement	1	0	0
+appauvrir	1	0	0
+imprécis	1	0	0
+imprécision	1	0	0
+emprisonner	1	0	0
+encore pire	1	0	0
+prison	1	0	0
+emprisonnement	1	0	0
+incorrect	1	0	0
+inconvenance	1	0	0
+impudence	1	0	0
+impudent	1	0	0
+impudeur	1	0	0
+impudemment	1	0	0
+impunité	1	0	0
+impureté	1	0	0
+incapacité	1	0	0
+inexactitude	1	0	0
+inexactement	1	0	0
+inaction	1	0	0
+inactif	1	0	0
+insuffisance	1	0	0
+insuffisant	1	0	0
+insuffisamment	1	0	0
+déconseillé	1	0	0
+déconseiller	1	0	0
+recommander pas	1	0	0
+conseiller pas	1	0	0
+inopportun	1	0	0
+inepte	1	0	0
+inapproprié	1	0	0
+inappropriée	1	0	0
+inapte	1	0	0
+inaptitude	1	0	0
+incendiaire	1	0	0
+incivilité	1	0	0
+inclément	1	0	0
+incohérence	1	0	0
+incohérent	1	0	0
+incompétence	1	0	0
+incompétent	1	0	0
+incomplet	1	0	0
+ne respecter pas	1	0	0
+respecter pas	1	0	0
+ne respecter	1	0	0
+incompréhensible	1	0	0
+incompréhension	1	0	0
+incongru	1	0	0
+inconsistance	1	0	0
+incommode	1	0	0
+inexact	1	0	0
+incorrectement	1	0	0
+indécence	1	0	0
+indécent	1	0	0
+indécemment	1	0	0
+indécision	1	0	0
+indécis	1	0	0
+indifférence	1	0	0
+indigné	1	0	0
+décolèrer pas	1	0	0
+indignation	1	0	0
+indignité	1	0	0
+indolent	1	0	0
+inerte	1	0	0
+mou	1	0	0
+molle	1	0	0
+inefficace	1	0	0
+inefficacité	1	0	0
+inélégance	1	0	0
+maladroitement	1	0	0
+inégalité	1	0	0
+inéquitable	1	0	0
+inégalités	1	0	0
+inexpérience	1	0	0
+manque d'expérience	1	0	0
+inexpérimenté	1	0	0
+infâme	1	0	0
+infamie	1	0	0
+infecté	1	0	0
+infections	1	0	0
+inférieur	1	0	0
+infériorité	1	0	0
+infernal	1	0	0
+infester	1	0	0
+infidèle	1	0	0
+infidèles	1	0	0
+pédophile	1	0	0
+pédophilie	1	0	0
+infliger	1	0	0
+punir	1	0	0
+punition	1	0	0
+infraction	1	0	0
+enfreindre	1	0	0
+infractions	1	0	0
+ingrat	1	0	0
+ingratitude	1	0	0
+refouler	1	0	0
+inique	1	0	0
+violence	1	0	0
+blessure	1	0	0
+injustice	1	0	0
+injustices	1	0	0
+insinuation	1	0	0
+bras d'honneur	1	0	0
+démesurément	1	0	0
+follement	1	0	0
+insatiable	1	0	0
+pas sûr	1	0	0
+insignifiance	1	0	0
+mauvaise foi	1	0	0
+manque de sincérité	1	0	0
+insolence	1	0	0
+insolent	1	0	0
+insolemment	1	0	0
+insulte	1	0	0
+insouciance	1	0	0
+instabilité	1	0	0
+instable	1	0	0
+instigateur	1	0	0
+insupportablement	1	0	0
+insulter	1	0	0
+insultant	1	0	0
+insurmontable	1	0	0
+insurrection	1	0	0
+interrompre	1	0	0
+interruption	1	0	0
+intolérable	1	0	0
+intolérance	1	0	0
+intraitable	1	0	0
+intransigeance	1	0	0
+intrusion	1	0	0
+intrusif	1	0	0
+inonder	1	0	0
+inondé	1	0	0
+sombrer	1	0	0
+noyer	1	0	0
+envahisseur	1	0	0
+invalide	1	0	0
+invalider	1	0	0
+invalidité	1	0	0
+envahissant	1	0	0
+flatterie	1	0	0
+injuste	1	0	0
+injustement	1	0	0
+contrarié	1	0	0
+ironiquement	1	0	0
+ironies	1	0	0
+irrationnel	1	0	0
+irrationalité	1	0	0
+irréconciliable	1	0	0
+irréparable	1	0	0
+irréformable	1	0	0
+irrégulier	1	0	0
+irrégularité	1	0	0
+irrémédiable	1	0	0
+irritable	1	0	0
+irrité	1	0	0
+irriter	1	0	0
+irritation	1	0	0
+isoler	1	0	0
+isolé	1	0	0
+isolement	1	0	0
+blasé	1	0	0
+jaloux	1	0	0
+jalousement	1	0	0
+jealousness	1	0	0
+jalousie	1	0	0
+raillerie	1	0	0
+satire	1	0	0
+burlesque	1	0	0
+esquive	1	0	0
+sarcasme	1	0	0
+goguenard	1	0	0
+compromettre	1	0	0
+compromis	1	0	0
+secousse	1	0	0
+saccade	1	0	0
+arracher	1	0	0
+gigue	1	0	0
+frousse	1	0	0
+effroi	1	0	0
+phobie	1	0	0
+nerveux	1	0	0
+sans emploi	1	0	0
+chômage	1	0	0
+chomeur	1	0	0
+secouer	1	0	0
+meurtre	1	0	0
+fripon	1	0	0
+couteau	1	0	0
+fripouille	1	0	0
+marre	1	0	0
+mis à pied	1	0	0
+mise à pied	1	0	0
+mise en demeure	1	0	0
+canard boiteux	1	0	0
+lamentation	1	0	0
+lamentable	1	0	0
+faiblir	1	0	0
+langueur	1	0	0
+défaillance	1	0	0
+latence	1	0	0
+ridiculement	1	0	0
+risée	1	0	0
+hors la loi	1	0	0
+foi ni loi	1	0	0
+lèche bottes	1	0	0
+débauché	1	0	0
+inconnu	1	0	0
+léthargique	1	0	0
+léthargie	1	0	0
+obscène	1	0	0
+obscénité	1	0	0
+licencieux	1	0	0
+primitif	1	0	0
+mentir	1	0	0
+vie en danger	1	0	0
+sans vie	1	0	0
+limiter	1	0	0
+limitation	1	0	0
+limites	1	0	0
+limité	1	0	0
+litigieux	1	0	0
+peu connu	1	0	0
+solitude	1	0	0
+solitaire	1	0	0
+verbeux	1	0	0
+obscur	1	0	0
+obstrus	1	0	0
+lacune	1	0	0
+piller	1	0	0
+piquer	1	0	0
+piqure	1	0	0
+perdant	1	0	0
+perdants	1	0	0
+perd	1	0	0
+pertes	1	0	0
+sans amour	1	0	0
+sous estimé	1	0	0
+sur estimé	1	0	0
+sousestimer	1	0	0
+surestimer	1	0	0
+leurre	1	0	0
+cacher	1	0	0
+rendre fou	1	0	0
+rendu fou	1	0	0
+inadapté	1	0	0
+inadaptation	1	0	0
+malaise	1	0	0
+mal à l'aise	1	0	0
+malediction	1	0	0
+malodorant	1	0	0
+mal traiter	1	0	0
+maltraiter	1	0	0
+maniaque	1	0	0
+maniaco	1	0	0
+manipuler	1	0	0
+manipulation	1	0	0
+manipulatrice	1	0	0
+manipulateurs	1	0	0
+marginal	1	0	0
+massacres	1	0	0
+vague	1	0	0
+pâle	1	0	0
+sans signification	1	0	0
+dénué de sens	1	0	0
+mesquinerie	1	0	0
+médiocre	1	0	0
+médiocrité	1	0	0
+mélancolie	1	0	0
+menaçant	1	0	0
+mensonger	1	0	0
+impitoyable	1	0	0
+sans pitié	1	0	0
+foiré	1	0	0
+foireux	1	0	0
+déconner	1	0	0
+salissant	1	0	0
+nain	1	0	0
+fâcherie	1	0	0
+boue	1	0	0
+mal comprendre	1	0	0
+mal compris	1	0	0
+mauvaise conduite	1	0	0
+mal calculer	1	0	0
+malicieux	1	0	0
+malicieusement	1	0	0
+idée reçue	1	0	0
+mésaventure	1	0	0
+mal renseigner	1	0	0
+mal informés	1	0	0
+mal interpréter	1	0	0
+prononcer mal	1	0	0
+déformation	1	0	0
+manquer	1	0	0
+manqué	1	0	0
+minable	1	0	0
+tort	1	0	0
+pas raison	1	0	0
+malentendu	1	0	0
+mal entendu	1	0	0
+truand	1	0	0
+railleur	1	0	0
+molester	1	0	0
+monstre	1	0	0
+monstruosité	1	0	0
+monstrueux	1	0	0
+monstrueusement	1	0	0
+discutable	1	0	0
+maladivement	1	0	0
+mortification	1	0	0
+mortifié	1	0	0
+mortifier	1	0	0
+mortifiant	1	0	0
+immobile	1	0	0
+triste	1	0	0
+tristement	1	0	0
+mythe	1	0	0
+harcelant	1	0	0
+naïf	1	0	0
+naïvement	1	0	0
+étroit	1	0	0
+méchamment	1	0	0
+méchanceté	1	0	0
+nausée	1	0	0
+haut le coeur	1	0	0
+naïve	1	0	0
+nébuleux	1	0	0
+nébuleusement	1	0	0
+inutile	1	0	0
+inutilement	1	0	0
+nécessiteux	1	0	0
+dans le besoin	1	0	0
+négatifs	1	0	0
+négativité	1	0	0
+négligé	1	0	0
+négligent	1	0	0
+népotisme	1	0	0
+nerveusement	1	0	0
+nervosité	1	0	0
+névrosé	1	0	0
+névrotique	1	0	0
+cauchemar	1	0	0
+cauchemardesque	1	0	0
+répondre pas	1	0	0
+répond pas	1	0	0
+répondait pas	1	0	0
+notoriété	1	0	0
+notoirement	1	0	0
+notoire	1	0	0
+nuisance	1	0	0
+obèse	1	0	0
+objection	1	0	0
+inconscient	1	0	0
+masquer	1	0	0
+obséder	1	0	0
+obsessionnel	1	0	0
+obsessionnellement	1	0	0
+obsolète	1	0	0
+obstinément	1	0	0
+obstruer	1	0	0
+obtus	1	0	0
+con	1	0	0
+étrange	1	0	0
+offenser	1	0	0
+contrevenant	1	0	0
+incriminé	1	0	0
+offensive	1	0	0
+offensivement	1	0	0
+offensant	1	0	0
+officieux	1	0	0
+mauvaise augure	1	0	0
+sinistrement	1	0	0
+omission	1	0	0
+omettre	1	0	0
+opportuniste	1	0	0
+opprimer	1	0	0
+tyran	1	0	0
+oppression	1	0	0
+oppressif	1	0	0
+oppressive	1	0	0
+oppresseur	1	0	0
+ordalie	1	0	0
+orphelin	1	0	0
+explosion	1	0	0
+explosions	1	0	0
+banni	1	0	0
+démodé	1	0	0
+dépassé	1	0	0
+rétro	1	0	0
+outrage	1	0	0
+outrageusement	1	0	0
+démesuré	1	0	0
+surévalué	1	0	0
+surévaluation	1	0	0
+surchargé	1	0	0
+hors de prix	1	0	0
+hors de portée	1	0	0
+pas donné	1	0	0
+trop loin	1	0	0
+envahi	1	0	0
+éclipser	1	0	0
+oubli	1	0	0
+trop grand	1	0	0
+surestimée	1	0	0
+surestime	1	0	0
+surtaxé	1	0	0
+renverser	1	0	0
+débordé	1	0	0
+accable	1	0	0
+douloureusement	1	0	0
+pales	1	0	0
+entremetteur	1	0	0
+proxénétisme	1	0	0
+flatte	1	0	0
+paniqué	1	0	0
+paradoxalement	1	0	0
+paralysé	1	0	0
+parasite	1	0	0
+partialité	1	0	0
+passif	1	0	0
+passivité	1	0	0
+pathétique	1	0	0
+pathétiquement	1	0	0
+pénaliser	1	0	0
+pénalité	1	0	0
+périlleux	1	0	0
+dangereusement	1	0	0
+pernicieux	1	0	0
+adverse	1	0	0
+casse tete	1	0	0
+cassetete	1	0	0
+persécuter	1	0	0
+persécution	1	0	0
+pervers	1	0	0
+perversement	1	0	0
+perversion	1	0	0
+perversité	1	0	0
+pervertir	1	0	0
+insecte	1	0	0
+trop petit	1	0	0
+phobique	1	0	0
+pillage	1	0	0
+pincer	1	0	0
+impitoyablement	1	0	0
+plagier	1	0	0
+peste	1	0	0
+stratagème	1	0	0
+pillard	1	0	0
+poison	1	0	0
+toxique	1	0	0
+taule	1	0	0
+polémique	1	0	0
+pollueur	1	0	0
+imposture	1	0	0
+précaire	1	0	0
+prédateur	1	0	0
+situation difficile	1	0	0
+préjuger	1	0	0
+préoccuper	1	0	0
+présomptueux	1	0	0
+présomptueusement	1	0	0
+prétendre	1	0	0
+plus cher	1	0	0
+picoter	1	0	0
+piquants	1	0	0
+prisonnier	1	0	0
+problématique	1	0	0
+tergiverser	1	0	0
+prohibitif	1	0	0
+propagande	1	0	0
+poursuivre en justice	1	0	0
+poursuite judiciaire	1	0	0
+poursuivi en justice	1	0	0
+poursivi	1	0	0
+poursuite	1	0	0
+risque de poursuite	1	0	0
+protestation	1	0	0
+protesté	1	0	0
+protester	1	0	0
+manifestation	1	0	0
+provocation	1	0	0
+provoquer	1	0	0
+chétif	1	0	0
+enragé	1	0	0
+déchaînement	1	0	0
+rancœur	1	0	0
+sur sa faim	1	0	0
+sur ma faim	1	0	0
+viol	1	0	0
+violé	1	0	0
+hochet	1	0	0
+hochets	1	0	0
+récession	1	0	0
+téméraire	1	0	0
+imprudemment	1	0	0
+recul	1	0	0
+recours	1	0	0
+redondance	1	0	0
+redondant	1	0	0
+refus	1	0	0
+refusé	1	0	0
+refuse	1	0	0
+refusant	1	0	0
+réfutation	1	0	0
+réfuté	1	0	0
+réfute	1	0	0
+réfutant	1	0	0
+régresser	1	0	0
+régressif	1	0	0
+regretter	1	0	0
+regret	1	0	0
+regrette	1	0	0
+regrettable	1	0	0
+malheureusement	1	0	0
+regretté	1	0	0
+rejeté	1	0	0
+rejetant	1	0	0
+rejet	1	0	0
+rejette	1	0	0
+réticence	1	0	0
+réticent	1	0	0
+contrecoeur	1	0	0
+contre coeur	1	0	0
+remords	1	0	0
+renonciation	1	0	0
+repousser	1	0	0
+répétitif	1	0	0
+répréhensible	1	0	0
+répréhension	1	0	0
+répréhensibles	1	0	0
+réprimer	1	0	0
+répressif	1	0	0
+réprimande	1	0	0
+réprobateur	1	0	0
+répudier	1	0	0
+répudiation	1	0	0
+répulsif	1	0	0
+ressentiment	1	0	0
+pas fier	1	0	0
+démission	1	0	0
+résigné	1	0	0
+restreindre	1	0	0
+restreint	1	0	0
+restriction	1	0	0
+restrictif	1	0	0
+représaille	1	0	0
+rétracter	1	0	0
+revenir sur	1	0	0
+révolte	1	0	0
+révoltant	1	0	0
+ridiculiser	1	0	0
+ridiculise	1	0	0
+fissurer	1	0	0
+clivages	1	0	0
+agacé	1	0	0
+déchiré	1	0	0
+risque	1	0	0
+risques	1	0	0
+risqué	1	0	0
+rocheux	1	0	0
+pourrir	1	0	0
+irremediable	1	0	0
+ruiné	1	0	0
+ruinant	1	0	0
+ruineux	1	0	0
+rumeurs	1	0	0
+fugueur	1	0	0
+salace	1	0	0
+sarcastique	1	0	0
+sarcastiquement	1	0	0
+sardonique	1	0	0
+sardoniquement	1	0	0
+satirique	1	0	0
+escroquerie	1	0	0
+scandaliser	1	0	0
+scandalisé	1	0	0
+scandaleusement	1	0	0
+scandales	1	0	0
+bouc émissaire	1	0	0
+bête noire	1	0	0
+cicatrice	1	0	0
+effrayé	1	0	0
+cinglant	1	0	0
+sceptique	1	0	0
+gronder	1	0	0
+avec mépris	1	0	0
+mine de rien	1	0	0
+brouillés	1	0	0
+brouille	1	0	0
+brouillage	1	0	0
+tordu	1	0	0
+seconde zone	1	0	0
+deuxième classe	1	0	0
+seconde classe	1	0	0
+effervescence	1	0	0
+bouillonne	1	0	0
+coup d'état	1	0	0
+intérêt personnel	1	0	0
+égoïsme	1	0	0
+sans raison	1	0	0
+gravité	1	0	0
+servitude	1	0	0
+rompre	1	0	0
+rompu	1	0	0
+sévère	1	0	0
+superficiel	1	0	0
+pagaille	1	0	0
+honteusement	1	0	0
+naufrage	1	0	0
+dérober	1	0	0
+choqué	1	0	0
+pénurie	1	0	0
+ratatiner	1	0	0
+malade	1	0	0
+tomber malade	1	0	0
+écœurant	1	0	0
+écoeurant	1	0	0
+dérouter	1	0	0
+laisser tomber	1	0	0
+sottement	1	0	0
+péché	1	0	0
+scepticisme	1	0	0
+gifler	1	0	0
+abattu	1	0	0
+vil	1	0	0
+villain	1	0	0
+balourd	1	0	0
+reptile	1	0	0
+leeent	1	0	0
+leent	1	0	0
+lentement	1	0	0
+plus lent	1	0	0
+smash	1	0	0
+pue	1	0	0
+puer	1	0	0
+maculer	1	0	0
+entacher	1	0	0
+taché	1	0	0
+taches	1	0	0
+bavure	1	0	0
+cochonnerie	1	0	0
+piège	1	0	0
+mouchard	1	0	0
+ricaner	1	0	0
+ricanant	1	0	0
+sangloter	1	0	0
+sobre	1	0	0
+fessée	1	0	0
+crache	1	0	0
+éclabousser	1	0	0
+diviser	1	0	0
+scission	1	0	0
+spoilage	1	0	0
+sporadique	1	0	0
+éconduire	1	0	0
+gaspiller	1	0	0
+grinçant	1	0	0
+crisser	1	0	0
+cris	1	0	0
+poignarder	1	0	0
+tache	1	0	0
+impasse	1	0	0
+rudimentaire	1	0	0
+débandade	1	0	0
+étonnamment	1	0	0
+étonné	1	0	0
+voler	1	0	0
+raide	1	0	0
+puanteur	1	0	0
+puant	1	0	0
+ragoût	1	0	0
+étouffant	1	0	0
+stigmate	1	0	0
+picotement	1	0	0
+bourratif	1	0	0
+étole	1	0	0
+volé	1	0	0
+larbin	1	0	0
+orageux	1	0	0
+traînard	1	0	0
+tendu	1	0	0
+étrangement	1	0	0
+étranger	1	0	0
+étrangler	1	0	0
+stress	1	0	0
+stressant	1	0	0
+stressent	1	0	0
+sinistré	1	0	0
+rigoureusement	1	0	0
+rigueur	1	0	0
+frappé	1	0	0
+lutter	1	0	0
+lutté	1	0	0
+lutte	1	0	0
+entêtement	1	0	0
+trébucher	1	0	0
+étourdissement	1	0	0
+acrobatie	1	0	0
+bégaiement	1	0	0
+bégayé	1	0	0
+bégaie	1	0	0
+porcherie	1	0	0
+subjuguer	1	0	0
+asservissement	1	0	0
+asservi	1	0	0
+hors normes	1	0	0
+poursuivi	1	0	0
+poursuit	1	0	0
+souffre	1	0	0
+suicidaire	1	0	0
+suicide	1	0	0
+tentative de suicide	1	0	0
+bouder	1	0	0
+caractère superficiel	1	0	0
+superficiellement	1	0	0
+superflu	1	0	0
+superstition	1	0	0
+superstitieux	1	0	0
+soupçonner	1	0	0
+suspicion	1	0	0
+soupçons	1	0	0
+soupçonneusement	1	0	0
+syndrome	1	0	0
+tabou	1	0	0
+entachée	1	0	0
+trafiquer	1	0	0
+enchevêtrement	1	0	0
+ternie	1	0	0
+ternit	1	0	0
+ternissement	1	0	0
+railleries	1	0	0
+taxation	1	0	0
+taquiner	1	0	0
+taquin	1	0	0
+griller	1	0	0
+fastidieux	1	0	0
+fastidieusement	1	0	0
+témérité	1	0	0
+tempête	1	0	0
+tension	1	0	0
+promesses non tenu	1	0	0
+terrorisme	1	0	0
+terroriser	1	0	0
+épineux	1	0	0
+étourdiment	1	0	0
+irréflexion	1	0	0
+débattre	1	0	0
+battre	1	0	0
+palpitait	1	0	0
+timidité	1	0	0
+timidement	1	0	0
+fatigant	1	0	0
+labeur	1	0	0
+tourmenter	1	0	0
+tourmenté	1	0	0
+torrent	1	0	0
+torture	1	0	0
+torturé	1	0	0
+tortures	1	0	0
+torturant	1	0	0
+transgresser	1	0	0
+crever	1	0	0
+cribler	1	0	0
+transgression	1	0	0
+pris au piège	1	0	0
+traumatisme	1	0	0
+traumatique	1	0	0
+traumatiser	1	0	0
+traumatisés	1	0	0
+perfide	1	0	0
+traîtreusement	1	0	0
+traîtrise	1	0	0
+troublé	1	0	0
+fouteur de troubles	1	0	0
+troubles	1	0	0
+gênant	1	0	0
+vagabond	1	0	0
+culbuter	1	0	0
+chuté	1	0	0
+dégringole	1	0	0
+tyrannique	1	0	0
+tyranniquement	1	0	0
+tyrannie	1	0	0
+pouah	1	0	0
+laideur	1	0	0
+pur et dur	1	0	0
+inacceptable	1	0	0
+inaccessible	1	0	0
+irréalisable	1	0	0
+inabordable	1	0	0
+inauthentique	1	0	0
+indisponible	1	0	0
+incivil	1	0	0
+inconfortablement	1	0	0
+inconfortable	1	0	0
+inconstitutionnel	1	0	0
+incontrôlé	1	0	0
+pas convaincant	1	0	0
+indéfini	1	0	0
+sous estimer	1	0	0
+mal payer	1	0	0
+faible puissance	1	0	0
+indésirable	1	0	0
+sans papiers	1	0	0
+pas rentable	1	0	0
+inégal	1	0	0
+inattendu	1	0	0
+inexpliqué	1	0	0
+infidélité	1	0	0
+défavorable	1	0	0
+inachevé	1	0	0
+imprévu	1	0	0
+inamical	1	0	0
+ingouvernable	1	0	0
+malsain	1	0	0
+unilatéralisme	1	0	0
+inimaginable	1	0	0
+inimaginablement	1	0	0
+inintelligible	1	0	0
+unintelligile	1	0	0
+injustifiable	1	0	0
+injustifiée	1	0	0
+injustifié	1	0	0
+illégalité	1	0	0
+sans licence	1	0	0
+sans permis	1	0	0
+anormalement	1	0	0
+inutiles	1	0	0
+énervé	1	0	0
+énervant	1	0	0
+impopulaire	1	0	0
+imprévisible	1	0	0
+improductif	1	0	0
+illisible	1	0	0
+irréaliste	1	0	0
+déraisonnable	1	0	0
+déraisonnablement	1	0	0
+pas fiable	1	0	0
+indiscipliné	1	0	0
+pas satisfaisant	1	0	0
+non sécurisé	1	0	0
+infructueux	1	0	0
+sans succès	1	0	0
+non fructueux	1	0	0
+insoutenable	1	0	0
+intenable	1	0	0
+non testé	1	0	0
+impensable	1	0	0
+prématuré	1	0	0
+indigne de confiance	1	0	0
+impraticable	1	0	0
+bouleversement	1	0	0
+soulèvement	1	0	0
+déraciner	1	0	0
+bouleverser	1	0	0
+bouleverse	1	0	0
+bouleversant	1	0	0
+urgent	1	0	0
+usurper	1	0	0
+usurpateur	1	0	0
+vengeur	1	0	0
+venin	1	0	0
+menottes	1	0	0
+chatiment	1	0	0
+venimeux	1	0	0
+vestiges	1	0	0
+vexer	1	0	0
+vexation	1	0	0
+contrariant	1	0	0
+contraint	1	0	0
+vicieux	1	0	0
+vicieusement	1	0	0
+vilainement	1	0	0
+méchants	1	0	0
+violateur	1	0	0
+violent	1	0	0
+violemment	1	0	0
+virulence	1	0	0
+virulent	1	0	0
+virus	1	0	0
+volatile	1	0	0
+volatilité	1	0	0
+vomissement	1	0	0
+vulgaire	1	0	0
+vulnérable	1	0	0
+décliner	1	0	0
+déclin	1	0	0
+délavé	1	0	0
+gaspillé	1	0	0
+gaspilleur	1	0	0
+gaspillage	1	0	0
+affaiblir	1	0	0
+affaiblissement	1	0	0
+plus faible	1	0	0
+faiblesses	1	0	0
+lassitude	1	0	0
+las	1	0	0
+hélas	1	0	0
+bizarrement	1	0	0
+sauvagement	1	0	0
+faner	1	0	0
+rusé	1	0	0
+grimacer	1	0	0
+usé	1	0	0
+soucis	1	0	0
+s'inquiéter	1	0	0
+pire	1	0	0
+ride	1	0	0
+ridé	1	0	0
+rides	1	0	0
+forgé	1	0	0
+supporter pas	1	0	0
+plaît pas	1	0	0
+pas très bien	1	0	0
+sans intérêt	1	0	0
+bof	1	0	0
+aie	1	0	0
+aïe	1	0	0
+loin	1	0	0
+excès	1	0	0
+noir	1	0	0
+moins bien	1	0	0
+immangeable	1	0	0
+dégueu	1	0	0
+dégueulasse	1	0	0
+mal situé	1	0	0
+payant	1	0	0
+malpoli	1	0	0
+pas drôle	1	0	0
+fainéant	1	0	0
+brouillon	1	0	0
+pas clair	1	0	0
+bête	1	0	0
+contrefaçon	1	0	0
+contrefait	1	0	0
+trop gros	1	0	0
+vieux	1	0	0
+vieille	1	0	0
+ancien	1	0	0
+raté	1	0	0
+pis	1	0	0
+mal en pis	1	0	0
+pas réussi	1	0	0
+éviter	1	0	0
+désastre	1	0	0
+bas niveau	1	0	0
+limite	1	0	0
+sans ame	1	0	0
+aberrant	1	0	0
+manque cruel	1	0	0
+plus moche	1	0	0
+aucun intéret	1	0	0
+sans intéret	1	0	0
+inexistant	1	0	0
+mal pensé	1	0	0
+arriver pas	1	0	0
+parviens pas	1	0	0
+beaucoup trop	1	0	0
+navré	1	0	0
+nullité	1	0	0
+consterne	1	0	0
+indigestible	1	0	0
+folle	1	0	0
+migraine	1	0	0
+avérer	1	0	0
+gacher	1	0	0
+gachi	1	0	0
+pas crédible	1	0	0
+peu crédible	1	0	0
+ravage	1	0	0
+faiblard	1	0	0
+assommé	1	0	0
+bourreau	1	0	0
+inintéressant	1	0	0
+overdose	1	0	0
+lourdeur	1	0	0
+foutoir	1	0	0
+insatisfait	1	0	0
+black	1	0	0
+blacklist	1	0	0
+black list	1	0	0
+tragique	1	0	0
+tragédie	1	0	0
+pédé	1	0	0
+fils de pute	1	0	0
+sadique	1	0	0
+démagogie	1	0	0
+trop	1	0	0
+beacoup trop	1	0	0
+arriver dernier	1	0	0
+abstention	1	0	0
+abstenir	1	0	0
+démago	1	0	0
+labotomiser	1	0	0
+taxe	1	0	0
+impôt	1	0	0
+esquiver	1	0	0
+flagrant délit	1	0	0
+conasse	1	0	0
+dégringoler	1	0	0
+oublier	1	0	0
+hitler	1	0	0
+nazi	1	0	0
+ment	1	0	0
+promesse non tenue	1	0	0
+trucage	1	0	0
+mauvaise nouvelle	1	0	0
+endettement	1	0	0
+démis	1	0	0
+démissionner	1	0	0
+bling bling	1	0	0
+bétise	1	0	0
+secours	1	0	0
+couteux	1	0	0
+mafia	1	0	0
+pas assez	1	0	0
+très mal	1	0	0
+trop mal	1	0	0
+mal réalisé	1	0	0
+maitriser pas	1	0	0
+aucun plaisir	1	0	0
+clan	1	0	0
+parvient pas	1	0	0
+aussi mauvais	1	0	0
+ravageur	1	0	0
+assommer	1	0	0
+ringard	1	0	0
+bling	1	0	0
+claque	1	0	0
+kalachnikov	1	0	0
+mal parti	1	0	0
+pouf	1	0	0
+fé chié	1	0	0
+pas convaincu	1	0	0
+peu convaincant	1	0	0
+ah	1	0	0
+schizophrène	1	0	0
+lobotomie	1	0	0
+amnésie	1	0	0
+pas cru	1	0	0
+leitmotiv	1	0	0
+dictature	1	0	0
+pas le temps	1	0	0
+improvisation	1	0	0
+djihadiste	1	0	0
+n'importe quoi	1	0	0
+creuse	1	0	0
+cercle vicieux	1	0	0
+rien à voir	1	0	0
+jtd	0	0	1
+jtdg	0	0	1
+jtm	0	0	1
+jt'm	0	0	1
+j'tm	0	0	1
+biz	0	0	1
+bsx	0	0	1
+bzx	0	0	1
+bisou	0	0	1
+bizou	0	0	1
+pro	0	0	1
+sympa	0	0	1
+dacc	0	0	1
+d'acc	0	0	1
+dak	0	0	1
+bvo	0	0	1
+bingo	0	0	1
+tkt	0	0	1
+thx	0	0	1
+mc	0	0	1
+mer6	0	0	1
+k	0	0	1
+okay	0	0	1
+oki	0	0	1
+gaga	0	0	1
+gg	0	0	1
+kdo	0	0	1
+spd	1	0	0
+btg	1	0	0
+geta	1	0	0
+kikoolol	1	0	0
+pb	1	0	0
+pas pro	1	0	0
+bleme	1	0	0
+oribl	1	0	0
+nrv	1	0	0
+mds	1	0	0
+mank	1	0	0
+dsl	1	0	0
+out	1	0	0
+taré	1	0	0
+ouf	1	0	0
+naze	1	0	0
+ayé	1	0	0
+bordel	1	0	0
+ah bon	1	0	0
+squatter	1	0	0
+hein	1	0	0
+vampire	1	0	0
+bain de sang	1	0	0
+berk	1	0	0
+beuark	1	0	0
+bug	1	0	0
+euh	1	0	0
+grr	1	0	0
+grrr	1	0	0
+grrrr	1	0	0
+grrrrr	1	0	0
+he	1	0	0
+hehe	1	0	0
+hehehe	1	0	0
+hehehehe	1	0	0
+help	1	0	0
+kk	1	0	0
+ko	1	0	0
+oups	1	0	0
+pff	1	0	0
+pfff	1	0	0
+pffff	1	0	0
+pfffff	1	0	0
+prout	1	0	0
+zzz	1	0	0
+zzzz	1	0	0
+zzzzz	1	0	0
+pas dak	1	0	0
+pas dacc	1	0	0
+pas d'acc	1	0	0
+g1prob	1	0	0
+jenémar	1	0	0
+raf	1	0	0
+wtf	1	0	0
+fail	1	0	0
+s'enfou	1	0	0
+m'enfou	1	0	0
+acclamer	0	0	1
+accolade	0	0	1
+décerner	0	0	1
+embellir	0	0	1
+égayer	0	0	1
+cajoler	0	0	1
+avenant	0	0	1
+réduction des coûts	0	0	1
+guérir	0	0	1
+guérison	0	0	1
+vaincre	0	0	1
+diligent	0	0	1
+distinction	0	0	1
+distinguer	0	0	1
+profiter	0	0	1
+mode	0	0	1
+tendance	0	0	1
+volontiers	0	0	1
+humain	0	0	1
+choyer	0	0	1
+dorloter	0	0	1
+prouvé	0	0	1
+fort	0	0	1
+plus fort	0	0	1
+surmonter	0	0	1
+marrant	0	0	1
+moyen	1	0	0
+avide	1	0	0
+pas tendance	1	0	0
+froid	1	0	0
+farouche	1	0	0
+errer	1	0	0
+appât	1	0	0
+artificiel	1	0	0
+controversé	1	0	0
+manque	1	0	0
+débilité	1	0	0
+petitesse	1	0	0
+cabosser	1	0	0
+détriment	1	0	0
+préjudice	1	0	0
+détourner	1	0	0
+queue	1	0	0
+équivoque	1	0	0
+renoncer	1	0	0
+sans cœur	1	0	0
+inévitable	1	0	0
+mat	1	0	0
+besoin	1	0	0
+opposer	1	0	0
+opposition	1	0	0
+surchauffer	1	0	0
+forcer	1	0	0
+incertain	1	0	0
+enclin	1	0	0
+ane	1	0	0
+simuler	1	0	0
+simulation	1	0	0
+chavirer	1	0	0
+caricatural	1	0	0
+terrible	1	0	0
+pas drole	1	0	0
+attention	1	0	0
+vachement bien	0	0	1
+bonne surprise	0	0	1
+belle surprise	0	0	1
+ébat	0	0	1
+champagne	0	0	1
+chomage en baisse	0	0	1
+chomage baisse	0	0	1
+baisser les impots	0	0	1
+homophobe	1	0	0
+anti	1	0	0
+facho	1	0	0
+macho	1	0	0
+machisme	1	0	0
+charger la barque	1	0	0
+pris d'assaut	1	0	0
+feu	1	0	0
+conard	1	0	0
+connard	1	0	0
+guignol	1	0	0
+épingler	1	0	0
+soudain	1	0	0
+lobby	1	0	0
+tancer	1	0	0
+attiser	1	0	0
+déséquilibrer	1	0	0
+représenter pas	1	0	0
+cannabis	1	0	0
+procès	1	0	0
+infortuné	1	0	0
+mauvaise surprise	1	0	0
+archaique	1	0	0
+mal chanceux	1	0	0
+mal chance	1	0	0
+malchance	1	0	0
+lyncher	1	0	0
+urgence	1	0	0
+disjoncter	1	0	0
+reculer	1	0	0
+furie	1	0	0
+emmerder	1	0	0
+défaillant	1	0	0
+chomage en hausse	1	0	0
+chomage augmente	1	0	0
+chomage a augmenté	1	0	0
+pas le droit	1	0	0
+pas droit	1	0	0
+alourdir	1	0	0
+austérité	1	0	0
+enterrer	1	0	0
+contre-courant	1	0	0
+contre courant	1	0	0
+augmenter les impots	1	0	0
+grève	1	0	0
+grève de faim	1	0	0
+boycott	1	0	0
+partial	1	0	0
+fuite	1	0	0
+s'incliner	1	0	0
+sec	1	0	0
+sèche	1	0	0
+état d'ivresse	1	0	0
+chaos total	1	0	0
+prostituer	1	0	0
+prostitution	1	0	0
+faut arréter	1	0	0
+narguer	1	0	0
+unir	0	0	1
+union	0	0	1
+dévoué	0	0	1
+défendre	0	0	1
+bonne idée	0	0	1
+meilleure idée	0	0	1
+régler ce problème	0	0	1
+régler le problème	0	0	1
+régler le problèmes	0	0	1
+énormé	0	0	1
+sacré	0	0	1
+récent	0	0	1
+bien équipé	0	0	1
+bien aménagé	0	0	1
+très bien	0	0	1
+copieux	0	0	1
+tolérant	0	0	1
+belle prestation	0	0	1
+pas grand chose	1	0	0
+adieu	1	0	0
+sans rire	1	0	0
+non sérieux	1	0	0
+irremédiable	1	0	0
+funèbre	1	0	0
+maléfique	1	0	0
+anéantir	1	0	0
+case départ	1	0	0
+espérons	1	0	0
+beaucoup de mal	1	0	0
+mauvaise idée	1	0	0
+laminer	1	0	0
+fade	1	0	0
+sans saveur	1	0	0
+sans couleur	1	0	0
+atone	1	0	0
+destructrice	1	0	0
+censé	1	0	0
+trop compliqué	1	0	0
+gagne petit	1	0	0
+malfrat	1	0	0
+dissous	1	0	0
+hop	1	0	0
+plus grave	1	0	0
+mascarade	1	0	0
+rigolade	1	0	0
+rigolo	1	0	0
+pas marrant	1	0	0
+pas rigolo	1	0	0
+pas digérer	1	0	0
+suppression de postes	1	0	0
+aboiement	1	0	0
+déluge	1	0	0
+dérive	1	0	0
+enfumer	1	0	0
+enfumage	1	0	0
+pas compris	1	0	0
+pas encore compris	1	0	0
+posture	1	0	0
+essayer de croire	1	0	0
+fantaisie	1	0	0
+fantaisiste	1	0	0
+faire semblant	1	0	0
+fait semblant	1	0	0
+faisant semblant	1	0	0
+clown	1	0	0
+ni l'autre	1	0	0
+mauvaise attitude	1	0	0
+sans aucun intérêt	1	0	0
+bonne gestion	0	0	1
+être un grand	0	0	1
+bon état	0	0	1
+très bon état	0	0	1
+accord	0	0	1
+honneteté	0	0	1
+belle ambiance	0	0	1
+bonne ambiance	0	0	1
+détendu	0	0	1
+conviction	0	0	1
+séduction	0	0	1
+séducteur	0	0	1
+charisme	0	0	1
+charismatique	0	0	1
+effet positif	0	0	1
+don	0	0	1
+perspective	0	0	1
+win	0	0	1
+idée lumineuse	0	0	1
+superbe idée	0	0	1
+rien à cacher	0	0	1
+trankil	0	0	1
+être d'accord	0	0	1
+faire réver	0	0	1
+fait réver	0	0	1
+font réver	0	0	1
+porte ouverte	0	0	1
+assumer ses responsabilités	0	0	1
+assumer sa responsabilité	0	0	1
+donner envie	0	0	1
+sans trucage	0	0	1
+sans truquer	0	0	1
+donner suite	0	0	1
+réponse rapide	0	0	1
+s'amuser	0	0	1
+amusement	0	0	1
+pas de regret	0	0	1
+vraiment pas mal	0	0	1
+rester modeste	0	0	1
+bonne vision	0	0	1
+bon sens	0	0	1
+savoir vivre	0	0	1
+art de vivre	0	0	1
+révolutionnaire	0	0	1
+adapté	0	0	1
+mieux adapté	0	0	1
+ardamment	0	0	1
+opportunité	0	0	1
+astuce	0	0	1
+applaudissement	0	0	1
+reconnaissance	0	0	1
+vaut le coup	0	0	1
+vaut la peine	0	0	1
+bijoux	0	0	1
+petit bijou	0	0	1
+réconforter	0	0	1
+progression	0	0	1
+très beau	0	0	1
+pas décu	0	0	1
+pas décevant	0	0	1
+géniales	0	0	1
+finesse	0	0	1
+fluidité	0	0	1
+pas génant	0	0	1
+technicité	0	0	1
+rien à craindre	0	0	1
+impecable	0	0	1
+détente	0	0	1
+faire plaisir	0	0	1
+craindre	1	0	0
+génant	1	0	0
+irraisonnable	1	0	0
+rien	1	0	0
+ni	1	0	0
+seul	1	0	0
+cul	1	0	0
+mauvaise gestion	1	0	0
+tomber	1	0	0
+tacler	1	0	0
+suffit pas	1	0	0
+suspendre	1	0	0
+suspendu	1	0	0
+enfoiré	1	0	0
+drame	1	0	0
+dramatique	1	0	0
+blague	1	0	0
+endetté	1	0	0
+mauvais état	1	0	0
+état très mauvais	1	0	0
+oui mais	1	0	0
+loin d'être	1	0	0
+ouvrir les yeux	1	0	0
+remettre en cause	1	0	0
+mettre en cause	1	0	0
+incriminer	1	0	0
+inéquitablement	1	0	0
+vrai problème	1	0	0
+grand problème	1	0	0
+gros problème	1	0	0
+pas digne	1	0	0
+contresens	1	0	0
+contre sens	1	0	0
+suicider	1	0	0
+bien mais	1	0	0
+aucune expérience	1	0	0
+récidive	1	0	0
+rechute	1	0	0
+muet	1	0	0
+sourd muet	1	0	0
+blague du jour	1	0	0
+funérailles	1	0	0
+escroquer	1	0	0
+devient ridicule	1	0	0
+pas la peine	1	0	0
+profiteur	1	0	0
+période difficile	1	0	0
+moment difficile	1	0	0
+sert à rien	1	0	0
+risible	1	0	0
+peut mieux faire	1	0	0
+peut faire mieux	1	0	0
+peuvent mieux faire	1	0	0
+peuvent faire mieux	1	0	0
+ironiser	1	0	0
+discriminant	1	0	0
+boulette	1	0	0
+déposer plainte	1	0	0
+raid	1	0	0
+mauvaise vision	1	0	0
+pas adapté	1	0	0
+pire que prévu	1	0	0
+torchon brule	1	0	0
+pas agréable	1	0	0
+atmosphère tendue	1	0	0
+oppotuniste	1	0	0
+décu	1	0	0
+décus	1	0	0
+coup dur	1	0	0
+songer	1	0	0
+pas réactif	1	0	0
+peu réactif	1	0	0
+bonne performance	0	0	1
+belle performance	0	0	1
+rend unique	0	0	1
+rendent unique	0	0	1
+whaou	0	0	1
+regretter en rien	0	0	1
+très content	0	0	1
+très heureux	0	0	1
+satisfaction	0	0	1
+satisfaite	0	0	1
+précieusement	0	0	1
+complet	0	0	1
+exceptionnelle	0	0	1
+qualité exceptionnelle	0	0	1
+très solide	0	0	1
+top	0	0	1
+addict	0	0	1
+bien soigné	0	0	1
+nombreuses fonctionnalités	0	0	1
+réactif	0	0	1
+réactivité	0	0	1
+facile d'utiliser	0	0	1
+facile d'utilisation	0	0	1
+facilité d'utilisation	0	0	1
+parmi les meilleurs	0	0	1
+adhérer	0	0	1
+adhérent	0	0	1
+doté	0	0	1
+rien à dire	0	0	1
+aucun défaut	0	0	1
+must	0	0	1
+beaucoup mieux	0	0	1
+encore mieux	0	0	1
+multitache	0	0	1
+multi tache	0	0	1
+divine	0	0	1
+intuitive	0	0	1
+exemple réussi	0	0	1
+étonner	1	0	0
+étonnant	1	0	0
+assez lourd	1	0	0
+accidentellement	1	0	0
+rien avoir	1	0	0
+hic	1	0	0
+moins beau	1	0	0
+moins intéressant	1	0	0
+lenteur	1	0	0
+tomber en panne	1	0	0
+pas doté	1	0	0
+pas conforme	1	0	0
+tout en un	0	0	1
+deux en un	0	0	1
+%-)	0	0	1
+(-:	0	0	1
+(:	0	0	1
+(^ ^)	0	0	1
+(^-^)	0	0	1
+(^.^)	0	0	1
+(^_^)	0	0	1
+(o:	0	0	1
+*\o/*	0	0	1
+--^--@	0	0	1
+0:)	0	0	1
+8)	0	0	1
+:)	0	0	1
+:-)	0	0	1
+:-*	0	0	1
+:-*	0	0	1
+:-D	0	0	1
+:-P	0	0	1
+:-}	0	0	1
+:3	0	0	1
+:9	0	0	1
+:D	0	0	1
+:P	0	0	1
+:P	0	0	1
+:X	0	0	1
+:]	0	0	1
+:b)	0	0	1
+:o)	0	0	1
+:p	0	0	1
+:Þ	0	0	1
+;^)	0	0	1
+<3	0	0	1
+=)	0	0	1
+=]	0	0	1
+>:)	0	0	1
+>:D	0	0	1
+>=D	0	0	1
+@}->--	0	0	1
+XD	0	0	1
+XD	0	0	1
+XP	0	0	1
+^_^	0	0	1
+x3?	0	0	1
+xD	0	0	1
+|D	0	0	1
+}:)	0	0	1
+%-(	1	0	0
+)-:	1	0	0
+):	1	0	0
+)o:	1	0	0
+38*	1	0	0
+8-0	1	0	0
+8/	1	0	0
+8\\	1	0	0
+8c	1	0	0
+:#	1	0	0
+:'(	1	0	0
+:'-(	1	0	0
+:(	1	0	0
+:*(	1	0	0
+:-&	1	0	0
+:-(	1	0	0
+:-(o)	1	0	0
+:-/	1	0	0
+:-S	1	0	0
+:-\\	1	0	0
+:-|	1	0	0
+:/	1	0	0
+:E	1	0	0
+:F	1	0	0
+:O	1	0	0
+:S	1	0	0
+:[	1	0	0
+:[	1	0	0
+:\\	1	0	0
+:_(	1	0	0
+:o(	1	0	0
+:s	1	0	0
+:|	1	0	0
+:?(	1	0	0
+</3-1	1	0	0
+<o<	1	0	0
+=(	1	0	0
+=[	1	0	0
+>/	1	0	0
+>:(	1	0	0
+>:L	1	0	0
+>:O	1	0	0
+>[	1	0	0
+>\\	1	0	0
+>o>	1	0	0
+B(	1	0	0
+Bc	1	0	0
+D:	1	0	0
+X(	1	0	0
+X(	1	0	0
+X-(	1	0	0
+XO	1	0	0
+XP	1	0	0
+^o)	1	0	0
+xP	1	0	0
+|8C	1	0	0
+|8c	1	0	0
+♥	0	0	1

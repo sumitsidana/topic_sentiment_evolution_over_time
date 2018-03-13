@@ -1,0 +1,61 @@
+				---->| TTS Library |<----
+
+TTS (Topic-aware Topic-Sentiment model) is a probabilistic graphical model for extracting topics, topic-sentiment correlation as well as topic-sentiment evolution over time.
+
+This library offers the possibility to extract three types of results based on TTS: (1) topics, (2) topic-opinion correlations and (3) topic-opinion evolution over time.
+
+The input of TTS library takes the form of an unsupervised document corpus where documents are only annotated with timestamps (e.g., creation date/time). This information is required for performing the 3rd task above.
+
+Here is a synopsis of TTS library (a full TTS-based topic-sentiment modeling example is available as a stand-alone .cpp file).
+
+/************************** TTS input **************************/
+TTS takes an XML file as input (or an amiSearcher result if used within AMI). The XML must contain at least the following fields:
+1. "ami:content": document content (text).
+2. "ami:date": timestamp (positive real), e.g., may be UTC time.
+3. "ami:title": title of the document.
+
+These fields are grouped into a "ami:result" tag.
+
+N.B.
+The "ami:date" field is not required for performing the two first tasks above but still mandatory. In this case, it should be set to "0" for all documents.
+
+/************************** Learning **************************/
+The learning step consists of extracting three types of knwoledge:
+1. Topics
+2. Topic-sentiment correlation
+3. Topic-sentiment evolution over time
+
+The desired result-type must be precised by setting the model property "modelType" to one of the following values "{0, 1, 2}". By default, this property is set to "0".
+Note that if "modelType" is changed, data needs to be reloaded.
+
+Data are first loaded using "dataset" object. If data are loaded from XML, please use the method "loadXML()" of "dataset" object.
+
+The next step is to set model parameters. This step is not mandatory. For unexperimented users, it is recommended to let all parameters to their default values. Here is the list of the available user-settable parameters:
+1. "alpha": per-document topic prior, default "avgDocLen*0.05/(nbSentiLabs*nbTopics)" then optimized automatically using ML.
+2. "beta": per-topic word prior, default "1/nbTopics".
+3. "gamma": per-topic sentiment prior, default found automatically.
+5. "mu": per-topic-sentiment time prior, default 0.01.
+6. "nbTopics": # topics.
+7. "maxIters": # maximum iteration, default 300.
+8. "updatParamStep": # iterations after each update of "alpha".
+9. "sentiLexFile": path to the sentiment lexicon file .lex.
+
+Once data loaded and parameters set, the model can be learnt using the method "learn()" of "tts" object.
+Note that according to data size, the model can take more or less time. If okay, the model returns "0" and displays "Success!" at the end of execution.
+
+/*********************** Result retrieval ***********************/
+Following the model type, results of TTS execution can be retrieved by calling the suitable methods as follows:
+
+1. Topics: Topics have two different descriptions (top words and top titles). The methods "getTopWords", respectively, "getTopTitles" get the most probable words, respectivelt titles of each extracted topic. Both methods return a vector of size "nbTopics" where each element is a vector of size "nbTopWords", respectively "nbTopTitles". This element contains ordered pairs of <string word/title, double probabiblity> of the most probable words/titles associated to their probabilities.
+
+2. Topic-sentiment correlation: For a particular topic, defined by its index z, the model provides a distribution over opinions. This information can be retrieved using the method "getTopicSents" that returns a vector of "nbTopics" where each element is a vector of "nbSents" that contains topic probabilities over opinions.
+
+3. Topic-sentiment evolution over time: For each pair (topic z, opinion l), TTS produces a distribution over timestamps that reflects "the number of documents of topic z and opinion l that are stamped by timestamp t". This information can be retrieved by calling the method "getTopicSentEvol" that returns a vector over topics, where each element is a vector over opinions, where each elment is a vector over timestamps.
+
+/************************** Example **************************/
+See the attached .cpp file for a complete example.
+
+/************************** Contact **************************/
+TTS library is maintained by:
+- Mohamed Dermouche (mde@amisw.com)
+- Leila Khouas (lkh@amisw.com)
